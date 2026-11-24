@@ -1,0 +1,7 @@
+e21: 5760 rows, 130 s | python 3.13.18 | numpy 2.5.3 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39
+e22: 11520 rows, 243 s | python 3.13.18 | numpy 2.5.3 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39
+e22wide: 6960 rows, 146 s | python 3.13.18 | numpy 2.5.3 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39
+e23: 46080 rows, 850 s | python 3.13.18 | numpy 2.5.3 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39
+gate: 2880 rows, 70 s | python 3.13.18 | numpy 2.5.3 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39
+e21safe: 5760 rows, 135 s | python 3.13.18 | numpy 2.5.3 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39
+gate: 17280 rows, 384 s | python 3.13.18 | numpy 2.5.3 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39

@@ -1,0 +1,30 @@
+\begin{table*}[t]
+\centering
+\caption{BER (mean $\pm$ s.d. over 100 images) at representative attack levels. Paired two-sided Wilcoxon signed-rank tests against the DCT with Holm correction (all variants, attacks and levels of each embedding): $^{\blacktriangle}$ significantly lower BER than DCT, $^{\triangledown}$ significantly higher, no mark: not significant ($\alpha=0.05$). Best mean per row in bold. $^{\dagger}$ Mean BER $>0.2$: the watermark is not recoverable, so a significant difference between two such values has no practical meaning.}
+\label{tab:ablation_statistics}
+\footnotesize
+\setlength{\tabcolsep}{2pt}
+\begin{tabular}{lccccc}
+\toprule
+Attack & C\,I & C\,II & M\,I & M\,II & DCT \\
+\midrule
+\multicolumn{6}{l}{\emph{Original embedding}} \\
+Gaussian, $p=0.10$ & $0.051 \pm 0.039^{\triangledown}$ & $0.053 \pm 0.041^{\triangledown}$ & $0.057 \pm 0.043^{\triangledown}$ & $0.054 \pm 0.042^{\triangledown}$ & $\mathbf{0.000 \pm 0.001}$ \\
+S\&P, $d=0.05$ & $\mathbf{0.041 \pm 0.008}^{\blacktriangle}$ & $0.042 \pm 0.008^{\blacktriangle}$ & $0.043 \pm 0.009^{\blacktriangle}$ & $0.043 \pm 0.009^{\blacktriangle}$ & $0.239 \pm 0.028^{\dagger}$ \\
+Median 3$\times$3 & $0.434 \pm 0.054^{\triangledown\dagger}$ & $0.434 \pm 0.053^{\triangledown\dagger}$ & $0.435 \pm 0.052^{\triangledown\dagger}$ & $0.433 \pm 0.054^{\triangledown\dagger}$ & $\mathbf{0.149 \pm 0.059}$ \\
+Mean 3$\times$3 & $0.418 \pm 0.052^{\triangledown\dagger}$ & $0.418 \pm 0.052^{\triangledown\dagger}$ & $0.415 \pm 0.053^{\triangledown\dagger}$ & $0.418 \pm 0.051^{\triangledown\dagger}$ & $\mathbf{0.001 \pm 0.001}$ \\
+JPEG, $Q=100$ & $0.334 \pm 0.045^{\triangledown\dagger}$ & $0.340 \pm 0.038^{\triangledown\dagger}$ & $0.343 \pm 0.042^{\triangledown\dagger}$ & $0.344 \pm 0.039^{\triangledown\dagger}$ & $\mathbf{0.071 \pm 0.086}$ \\
+JPEG, $Q=90$ & $0.400 \pm 0.048^{\blacktriangle\dagger}$ & $0.401 \pm 0.047^{\blacktriangle\dagger}$ & $\mathbf{0.400 \pm 0.045}^{\blacktriangle\dagger}$ & $0.401 \pm 0.045^{\blacktriangle\dagger}$ & $0.485 \pm 0.023^{\dagger}$ \\
+Rotation 1$^\circ$ & $0.453 \pm 0.052^{\blacktriangle\dagger}$ & $0.455 \pm 0.050^{\blacktriangle\dagger}$ & $0.455 \pm 0.048^{\blacktriangle\dagger}$ & $\mathbf{0.452 \pm 0.050}^{\blacktriangle\dagger}$ & $0.510 \pm 0.004^{\dagger}$ \\
+\midrule
+\multicolumn{6}{l}{\emph{Overflow-safe embedding}} \\
+Gaussian, $p=0.10$ & $\mathbf{0.000 \pm 0.000}^{\blacktriangle}$ & $0.000 \pm 0.000^{\blacktriangle}$ & $0.000 \pm 0.000^{\blacktriangle}$ & $0.000 \pm 0.000^{\blacktriangle}$ & $0.000 \pm 0.001$ \\
+S\&P, $d=0.05$ & $0.032 \pm 0.003^{\blacktriangle}$ & $0.032 \pm 0.003^{\blacktriangle}$ & $0.032 \pm 0.003^{\blacktriangle}$ & $\mathbf{0.032 \pm 0.003}^{\blacktriangle}$ & $0.239 \pm 0.028^{\dagger}$ \\
+Median 3$\times$3 & $0.439 \pm 0.052^{\triangledown\dagger}$ & $0.437 \pm 0.051^{\triangledown\dagger}$ & $0.437 \pm 0.050^{\triangledown\dagger}$ & $0.435 \pm 0.052^{\triangledown\dagger}$ & $\mathbf{0.149 \pm 0.059}$ \\
+Mean 3$\times$3 & $0.429 \pm 0.055^{\triangledown\dagger}$ & $0.431 \pm 0.054^{\triangledown\dagger}$ & $0.418 \pm 0.050^{\triangledown\dagger}$ & $0.426 \pm 0.051^{\triangledown\dagger}$ & $\mathbf{0.001 \pm 0.001}$ \\
+JPEG, $Q=100$ & $0.361 \pm 0.029^{\triangledown\dagger}$ & $0.369 \pm 0.033^{\triangledown\dagger}$ & $0.356 \pm 0.040^{\triangledown\dagger}$ & $0.373 \pm 0.038^{\triangledown\dagger}$ & $\mathbf{0.071 \pm 0.086}$ \\
+JPEG, $Q=90$ & $0.422 \pm 0.044^{\blacktriangle\dagger}$ & $0.420 \pm 0.041^{\blacktriangle\dagger}$ & $\mathbf{0.413 \pm 0.040}^{\blacktriangle\dagger}$ & $0.419 \pm 0.040^{\blacktriangle\dagger}$ & $0.485 \pm 0.023^{\dagger}$ \\
+Rotation 1$^\circ$ & $0.452 \pm 0.052^{\blacktriangle\dagger}$ & $0.454 \pm 0.051^{\blacktriangle\dagger}$ & $0.454 \pm 0.048^{\blacktriangle\dagger}$ & $\mathbf{0.451 \pm 0.051}^{\blacktriangle\dagger}$ & $0.510 \pm 0.004^{\dagger}$ \\
+\bottomrule
+\end{tabular}
+\end{table*}

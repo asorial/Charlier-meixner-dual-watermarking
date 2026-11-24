@@ -1,0 +1,21 @@
+\begin{table*}[t]
+\centering
+\caption{Six variants of the same algorithm that differ only in the $8\times8$ block transform (100 images, $\Delta=150$, coefficient 62, blue channel, same fragile layer). PSNR and local SSIM between cover and watermarked image: mean $\pm$ half-width of the 95\% confidence interval. BER without attack: bits lost by embedding alone (rounding and clipping). Times: median per $512\times512$ image, vectorized implementation (all images, 3 repetitions) and reference implementation (24 images, 3 repetitions).}
+\label{tab:ablation6_quality}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{lcccccccc}
+\toprule
+ & & & & \multicolumn{2}{c}{Vectorized (ms)} & \multicolumn{3}{c}{Reference (ms)} \\
+\cmidrule(lr){5-6}\cmidrule(lr){7-9}
+Transform & PSNR (dB) & SSIM & BER, no attack & Embed & Extract & Embed & Extract & Verify \\
+\midrule
+C\,I & 39.63$\pm$0.21 & 0.9748$\pm$0.0022 & 0.0059 & 19.0 & 0.80 & 313 & 130 & 76 \\
+C\,II & 39.61$\pm$0.21 & 0.9747$\pm$0.0022 & 0.0069 & 18.7 & 0.80 & 313 & 130 & 77 \\
+M\,I & 39.55$\pm$0.20 & 0.9744$\pm$0.0022 & 0.0087 & 19.0 & 0.80 & 310 & 130 & 78 \\
+M\,II & 39.59$\pm$0.20 & 0.9746$\pm$0.0022 & 0.0078 & 18.8 & 0.79 & 313 & 129 & 76 \\
+DCT & 39.67$\pm$0.07 & 0.9665$\pm$0.0032 & 0.0000 & 19.0 & 0.81 & 313 & 131 & 77 \\
+Identity & 39.42$\pm$0.19 & 0.9737$\pm$0.0023 & 0.1114 & 18.8 & 0.81 & 315 & 130 & 77 \\
+\bottomrule
+\end{tabular}
+\end{table*}

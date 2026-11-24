@@ -1,0 +1,23 @@
+\begin{table*}[t]
+\centering
+\caption{BER of the robust watermark at representative attack levels (mean over 100 images; same attack realization for all variants). Right: paired difference (moment transform minus reference), averaged over C\,I, C\,II, M\,I and M\,II, $\pm$ the largest half-width of their 95\% confidence intervals; negative values favour the moments. $^{\ast}$ all four differences significant (Wilcoxon signed-rank, Holm, $\alpha=0.05$).}
+\label{tab:ablation6_ber}
+\footnotesize
+\setlength{\tabcolsep}{2pt}
+\begin{tabular}{lcccccccc}
+\toprule
+ & \multicolumn{6}{c}{Mean BER} & \multicolumn{2}{c}{Moments minus reference} \\
+\cmidrule(lr){2-7}\cmidrule(lr){8-9}
+Attack & C\,I & C\,II & M\,I & M\,II & DCT & Identity & $-$DCT & $-$Identity \\
+\midrule
+No attack & 0.006 & 0.007 & 0.009 & 0.008 & \textbf{0.000} & 0.111 & +0.007$\pm$0.002$^{\ast}$ & $-$0.104$\pm$0.015$^{\ast}$ \\
+Gaussian, $p=0.10$ & 0.051 & 0.053 & 0.057 & 0.054 & \textbf{0.000} & 0.111 & +0.053$\pm$0.008$^{\ast}$ & $-$0.058$\pm$0.008$^{\ast}$ \\
+S\&P, $d=0.05$ & \textbf{0.041} & 0.042 & 0.043 & 0.043 & 0.239 & 0.131 & $-$0.197$\pm$0.004$^{\ast}$ & $-$0.089$\pm$0.013$^{\ast}$ \\
+Median $3\times3$ & 0.434 & 0.434 & 0.435 & 0.433 & \textbf{0.149} & 0.433 & +0.285$\pm$0.014$^{\ast}$ & +0.001$\pm$0.005 \\
+Mean $3\times3$ & 0.418 & 0.418 & 0.415 & 0.418 & \textbf{0.001} & 0.417 & +0.417$\pm$0.011$^{\ast}$ & +0.000$\pm$0.004 \\
+JPEG, $Q=100$ & 0.334 & 0.340 & 0.343 & 0.344 & \textbf{0.071} & 0.351 & +0.269$\pm$0.022$^{\ast}$ & $-$0.011$\pm$0.011 \\
+JPEG, $Q=90$ & 0.400 & 0.401 & \textbf{0.400} & 0.401 & 0.485 & 0.404 & $-$0.084$\pm$0.009$^{\ast}$ & $-$0.003$\pm$0.005 \\
+Rotation $1^\circ$ & 0.453 & 0.455 & 0.455 & 0.452 & 0.510 & \textbf{0.449} & $-$0.056$\pm$0.010$^{\ast}$ & +0.005$\pm$0.005 \\
+\bottomrule
+\end{tabular}
+\end{table*}

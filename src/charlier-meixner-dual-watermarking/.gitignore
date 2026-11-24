@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Test images (not redistributed; see data/README.md)
+src/static/cover_images/*
+!src/static/cover_images/.gitkeep
+data/covers100/*
+!data/covers100/.gitkeep
+
+# Generated outputs
+examples/output/
+src/static/tampered_images/
+src/static/results/
+src/_*.npy
+experiments/*/results_*/
+!experiments/*/results_cloud/
+experiments/*/figures_*/
+!experiments/*/figures_cloud/
+experiments/exp1_tamper_localization/results/*.npz
+experiments/exp1_tamper_localization/results/examples/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

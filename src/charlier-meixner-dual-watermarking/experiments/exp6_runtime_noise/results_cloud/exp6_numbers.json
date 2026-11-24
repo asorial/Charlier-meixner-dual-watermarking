@@ -1,0 +1,70 @@
+{
+  "n_images": 24,
+  "reps": 5,
+  "cpu": "Intel(R) Xeon(R) Processor @ 2.10GHz",
+  "python": "3.13.18",
+  "blocks_transformed": [
+    4096
+  ],
+  "hmac_computed": [
+    4096
+  ],
+  "flagged_range_sp": [
+    0.0185546875,
+    1.0
+  ],
+  "flagged_min_gauss": 0.999267578125,
+  "flagged_equals_changed": true,
+  "ber_none": 0.0045166015625,
+  "ber_g_max": 0.2952880859375,
+  "ber_sp_max": 0.3182373046875,
+  "insert_ms": {
+    "reference": 303.23743550000006,
+    "vectorized": 18.024056
+  },
+  "max_abs_dev": {
+    "io read gaussian": 0.4109,
+    "io read salt_pepper": 0.3731,
+    "reference extract gaussian": 0.0143,
+    "reference extract salt_pepper": 0.0173,
+    "vectorized extract gaussian": 0.0098,
+    "vectorized extract salt_pepper": 0.0139,
+    "reference verify gaussian": 0.0138,
+    "reference verify salt_pepper": 0.012,
+    "vectorized verify gaussian": 0.0116,
+    "vectorized verify salt_pepper": 0.0093,
+    "evaluation metrics gaussian": 0.1006,
+    "evaluation metrics salt_pepper": 0.0801,
+    "reference e2e_nosave gaussian": 0.0102,
+    "reference e2e_nosave salt_pepper": 0.0166,
+    "reference e2e_save gaussian": 0.0413,
+    "reference e2e_save salt_pepper": 0.0312
+  },
+  "slope_vs_flagged": {
+    "reference_verify": [
+      0.0014778675444973646,
+      -0.013830020411504825,
+      0.01609865720797413
+    ],
+    "vectorized_verify": [
+      0.002164715426844238,
+      -0.007936422388401754,
+      0.013058268660835709
+    ],
+    "reference_extract": [
+      0.0032185126189882957,
+      -0.011192551543245182,
+      0.017304971490479257
+    ],
+    "vectorized_extract": [
+      -0.0019307689024442797,
+      -0.010436327463614645,
+      0.005715163528337968
+    ],
+    "reference_e2e_save": [
+      0.020282861022692805,
+      0.00524841086758593,
+      0.03470410107420953
+    ]
+  }
+}

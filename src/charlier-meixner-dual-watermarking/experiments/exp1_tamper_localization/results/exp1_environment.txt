@@ -1,0 +1,4 @@
+python 3.13.18 | numpy 2.5.3 | opencv 5.0.0 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39 | x86_64
+seed=20261101 reps=5 images=24 trials=5760
+insert: median 0.3844 s, IQR 0.3704-0.4080 s (n=96)
+authenticate: median 0.0862 s, IQR 0.0846-0.0908 s (n=5760)

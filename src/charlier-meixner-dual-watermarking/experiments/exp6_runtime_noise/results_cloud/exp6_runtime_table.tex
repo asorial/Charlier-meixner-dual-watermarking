@@ -1,0 +1,31 @@
+\begin{table*}[t]
+\centering
+\caption{Execution time (ms) of each step at fixed resolution ($512\times512$, C\,I): median (interquartile range) over 24 images $\times$ 5 repetitions. Change: relative change of the median time between no attack and the strongest noise level (Gaussian $p=0.5$, salt-and-pepper $d=0.5$), paired by image, with a 95\% bootstrap confidence interval. Embedding is performed before the attack and does not depend on it. \texttt{extraction()} is the end-to-end function of the implementation (robust extraction, verification and progress output); the report marks the flagged blocks and writes the resulting image to disk.}
+\label{tab:runtime_noise}
+\footnotesize
+\setlength{\tabcolsep}{2pt}
+\begin{tabular}{lccccc}
+\toprule
+ & No attack & Gaussian & S\&P & \multicolumn{2}{c}{Change (\%)} \\
+\cmidrule(lr){5-6}
+ &  & $p=0.5$ & $d=0.5$ & Gaussian & S\&P \\
+\midrule
+\multicolumn{6}{l}{\emph{Algorithm, reference implementation (one block at a time)}} \\
+Embedding & 303.2 (38.7) & \multicolumn{4}{l}{(before the attack)} \\
+Robust extraction & 126.1 (8.9) & 127.0 (12.2) & 128.3 (10.7) & +0.1 [$-$1.0, +2.3] & +2.0 [$-$1.6, +3.6] \\
+Fragile verification & 75.1 (6.4) & 75.0 (6.7) & 74.4 (7.9) & $-$0.5 [$-$1.7, +0.8] & 0.0 [$-$2.2, +2.3] \\
+\midrule
+\multicolumn{6}{l}{\emph{Algorithm, vectorized implementation}} \\
+Embedding & 18.0 (1.5) & \multicolumn{4}{l}{(before the attack)} \\
+Robust extraction & 1.27 (0.09) & 1.27 (0.06) & 1.27 (0.07) & $-$1.5 [$-$2.9, +0.6] & $-$0.5 [$-$2.2, +1.1] \\
+Fragile verification & 14.2 (1.0) & 14.1 (0.8) & 14.2 (0.7) & $-$0.4 [$-$2.2, +0.9] & +0.1 [$-$1.4, +1.5] \\
+\midrule
+\multicolumn{6}{l}{\emph{Not included in the algorithm}} \\
+Reading the image (PNG) & 10.2 (1.3) & 6.01 (0.37) & 6.57 (0.67) & $-$41 [$-$42, $-$37] & $-$35 [$-$38, $-$32] \\
+Generating the attack & -- & 22.2 (1.1) & 19.3 (1.8) & -- & -- \\
+BER and NCC & 0.33 (0.03) & 0.34 (0.05) & 0.35 (0.04) & +4.8 [+2.7, +7.5] & +7 [+5, +12] \\
+\texttt{extraction()} & 178.5 (26.2) & 176.9 (21.4) & 179.8 (16.5) & $-$0.3 [$-$2.9, +1.5] & +1.0 [$-$1.7, +1.8] \\
+\texttt{extraction()} + report & 179.8 (22.8) & 186.4 (18.8) & 185.1 (17.4) & +3.4 [+1.1, +5.1] & +3.2 [+1.2, +4.9] \\
+\bottomrule
+\end{tabular}
+\end{table*}

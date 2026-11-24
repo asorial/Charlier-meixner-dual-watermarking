@@ -1,0 +1,301 @@
+config,image,impl,op,peak_mb
+C I,C0071.bmp,reference,insert,1.3908662796020508
+C I,C0071.bmp,reference,extract,0.2299814224243164
+C I,C0071.bmp,reference,verify,0.0070362091064453125
+C I,C0071.bmp,vectorized,insert,10.81396484375
+C I,C0071.bmp,vectorized,extract,4.0003662109375
+C I,C0071.bmp,vectorized,verify,1.697068214416504
+C I,C0123.bmp,reference,insert,1.3906011581420898
+C I,C0123.bmp,reference,extract,0.2299814224243164
+C I,C0123.bmp,reference,verify,0.0070362091064453125
+C I,C0123.bmp,vectorized,insert,10.81396484375
+C I,C0123.bmp,vectorized,extract,4.0003662109375
+C I,C0123.bmp,vectorized,verify,1.697068214416504
+C I,C0126.bmp,reference,insert,1.3905057907104492
+C I,C0126.bmp,reference,extract,0.2299814224243164
+C I,C0126.bmp,reference,verify,0.0070362091064453125
+C I,C0126.bmp,vectorized,insert,10.81396484375
+C I,C0126.bmp,vectorized,extract,4.0003662109375
+C I,C0126.bmp,vectorized,verify,1.697068214416504
+C I,C0163.bmp,reference,insert,1.390549659729004
+C I,C0163.bmp,reference,extract,0.2299814224243164
+C I,C0163.bmp,reference,verify,0.0070362091064453125
+C I,C0163.bmp,vectorized,insert,10.81396484375
+C I,C0163.bmp,vectorized,extract,4.0003662109375
+C I,C0163.bmp,vectorized,verify,1.697068214416504
+C I,C0218.bmp,reference,insert,1.3905057907104492
+C I,C0218.bmp,reference,extract,0.2299814224243164
+C I,C0218.bmp,reference,verify,0.0070362091064453125
+C I,C0218.bmp,vectorized,insert,10.81396484375
+C I,C0218.bmp,vectorized,extract,4.0003662109375
+C I,C0218.bmp,vectorized,verify,1.697068214416504
+C I,C0309.bmp,reference,insert,1.390549659729004
+C I,C0309.bmp,reference,extract,0.2299814224243164
+C I,C0309.bmp,reference,verify,0.0070362091064453125
+C I,C0309.bmp,vectorized,insert,10.81396484375
+C I,C0309.bmp,vectorized,extract,4.0003662109375
+C I,C0309.bmp,vectorized,verify,1.697068214416504
+C I,C0411.bmp,reference,insert,1.390549659729004
+C I,C0411.bmp,reference,extract,0.2299814224243164
+C I,C0411.bmp,reference,verify,0.0070362091064453125
+C I,C0411.bmp,vectorized,insert,10.81396484375
+C I,C0411.bmp,vectorized,extract,4.0003662109375
+C I,C0411.bmp,vectorized,verify,1.697068214416504
+C I,C0635.bmp,reference,insert,1.390549659729004
+C I,C0635.bmp,reference,extract,0.2299814224243164
+C I,C0635.bmp,reference,verify,0.0070362091064453125
+C I,C0635.bmp,vectorized,insert,10.81396484375
+C I,C0635.bmp,vectorized,extract,4.0003662109375
+C I,C0635.bmp,vectorized,verify,1.697068214416504
+C I,C0869.bmp,reference,insert,1.390549659729004
+C I,C0869.bmp,reference,extract,0.2299814224243164
+C I,C0869.bmp,reference,verify,0.0070362091064453125
+C I,C0869.bmp,vectorized,insert,10.81396484375
+C I,C0869.bmp,vectorized,extract,4.0003662109375
+C I,C0869.bmp,vectorized,verify,1.697068214416504
+C I,C0886.bmp,reference,insert,1.390549659729004
+C I,C0886.bmp,reference,extract,0.2299814224243164
+C I,C0886.bmp,reference,verify,0.0070362091064453125
+C I,C0886.bmp,vectorized,insert,10.81396484375
+C I,C0886.bmp,vectorized,extract,4.0003662109375
+C I,C0886.bmp,vectorized,verify,1.697068214416504
+C II,C0071.bmp,reference,insert,1.3906373977661133
+C II,C0071.bmp,reference,extract,0.2299814224243164
+C II,C0071.bmp,reference,verify,0.0070362091064453125
+C II,C0071.bmp,vectorized,insert,10.81396484375
+C II,C0071.bmp,vectorized,extract,4.0003662109375
+C II,C0071.bmp,vectorized,verify,1.697068214416504
+C II,C0123.bmp,reference,insert,1.390549659729004
+C II,C0123.bmp,reference,extract,0.2299814224243164
+C II,C0123.bmp,reference,verify,0.0070362091064453125
+C II,C0123.bmp,vectorized,insert,10.81396484375
+C II,C0123.bmp,vectorized,extract,4.0003662109375
+C II,C0123.bmp,vectorized,verify,1.697068214416504
+C II,C0126.bmp,reference,insert,1.3905057907104492
+C II,C0126.bmp,reference,extract,0.2299814224243164
+C II,C0126.bmp,reference,verify,0.0070362091064453125
+C II,C0126.bmp,vectorized,insert,10.81396484375
+C II,C0126.bmp,vectorized,extract,4.0003662109375
+C II,C0126.bmp,vectorized,verify,1.697068214416504
+C II,C0163.bmp,reference,insert,1.3905057907104492
+C II,C0163.bmp,reference,extract,0.2299814224243164
+C II,C0163.bmp,reference,verify,0.0070362091064453125
+C II,C0163.bmp,vectorized,insert,10.81396484375
+C II,C0163.bmp,vectorized,extract,4.0003662109375
+C II,C0163.bmp,vectorized,verify,1.697068214416504
+C II,C0218.bmp,reference,insert,1.3905057907104492
+C II,C0218.bmp,reference,extract,0.2299814224243164
+C II,C0218.bmp,reference,verify,0.0070362091064453125
+C II,C0218.bmp,vectorized,insert,10.81396484375
+C II,C0218.bmp,vectorized,extract,4.0003662109375
+C II,C0218.bmp,vectorized,verify,1.697068214416504
+C II,C0309.bmp,reference,insert,1.390549659729004
+C II,C0309.bmp,reference,extract,0.2299814224243164
+C II,C0309.bmp,reference,verify,0.0070362091064453125
+C II,C0309.bmp,vectorized,insert,10.81396484375
+C II,C0309.bmp,vectorized,extract,4.0003662109375
+C II,C0309.bmp,vectorized,verify,1.697068214416504
+C II,C0411.bmp,reference,insert,1.390549659729004
+C II,C0411.bmp,reference,extract,0.2299814224243164
+C II,C0411.bmp,reference,verify,0.0070362091064453125
+C II,C0411.bmp,vectorized,insert,10.81396484375
+C II,C0411.bmp,vectorized,extract,4.0003662109375
+C II,C0411.bmp,vectorized,verify,1.697068214416504
+C II,C0635.bmp,reference,insert,1.390549659729004
+C II,C0635.bmp,reference,extract,0.2299814224243164
+C II,C0635.bmp,reference,verify,0.0070362091064453125
+C II,C0635.bmp,vectorized,insert,10.81396484375
+C II,C0635.bmp,vectorized,extract,4.0003662109375
+C II,C0635.bmp,vectorized,verify,1.697068214416504
+C II,C0869.bmp,reference,insert,1.390549659729004
+C II,C0869.bmp,reference,extract,0.2299814224243164
+C II,C0869.bmp,reference,verify,0.0070362091064453125
+C II,C0869.bmp,vectorized,insert,10.81396484375
+C II,C0869.bmp,vectorized,extract,4.0003662109375
+C II,C0869.bmp,vectorized,verify,1.697068214416504
+C II,C0886.bmp,reference,insert,1.390549659729004
+C II,C0886.bmp,reference,extract,0.2299814224243164
+C II,C0886.bmp,reference,verify,0.0070362091064453125
+C II,C0886.bmp,vectorized,insert,10.81396484375
+C II,C0886.bmp,vectorized,extract,4.0003662109375
+C II,C0886.bmp,vectorized,verify,1.697068214416504
+M I,C0071.bmp,reference,insert,1.390549659729004
+M I,C0071.bmp,reference,extract,0.2299814224243164
+M I,C0071.bmp,reference,verify,0.0070362091064453125
+M I,C0071.bmp,vectorized,insert,10.81396484375
+M I,C0071.bmp,vectorized,extract,4.0003662109375
+M I,C0071.bmp,vectorized,verify,1.697068214416504
+M I,C0123.bmp,reference,insert,1.390549659729004
+M I,C0123.bmp,reference,extract,0.2299814224243164
+M I,C0123.bmp,reference,verify,0.0070362091064453125
+M I,C0123.bmp,vectorized,insert,10.81396484375
+M I,C0123.bmp,vectorized,extract,4.0003662109375
+M I,C0123.bmp,vectorized,verify,1.697068214416504
+M I,C0126.bmp,reference,insert,1.3905057907104492
+M I,C0126.bmp,reference,extract,0.2299814224243164
+M I,C0126.bmp,reference,verify,0.0070362091064453125
+M I,C0126.bmp,vectorized,insert,10.81396484375
+M I,C0126.bmp,vectorized,extract,4.0003662109375
+M I,C0126.bmp,vectorized,verify,1.697068214416504
+M I,C0163.bmp,reference,insert,1.390549659729004
+M I,C0163.bmp,reference,extract,0.2299814224243164
+M I,C0163.bmp,reference,verify,0.0070362091064453125
+M I,C0163.bmp,vectorized,insert,10.81396484375
+M I,C0163.bmp,vectorized,extract,4.0003662109375
+M I,C0163.bmp,vectorized,verify,1.697068214416504
+M I,C0218.bmp,reference,insert,1.390549659729004
+M I,C0218.bmp,reference,extract,0.2299814224243164
+M I,C0218.bmp,reference,verify,0.0070362091064453125
+M I,C0218.bmp,vectorized,insert,10.81396484375
+M I,C0218.bmp,vectorized,extract,4.0003662109375
+M I,C0218.bmp,vectorized,verify,1.697068214416504
+M I,C0309.bmp,reference,insert,1.3905057907104492
+M I,C0309.bmp,reference,extract,0.2299814224243164
+M I,C0309.bmp,reference,verify,0.0070362091064453125
+M I,C0309.bmp,vectorized,insert,10.81396484375
+M I,C0309.bmp,vectorized,extract,4.0003662109375
+M I,C0309.bmp,vectorized,verify,1.697068214416504
+M I,C0411.bmp,reference,insert,1.3905057907104492
+M I,C0411.bmp,reference,extract,0.2299814224243164
+M I,C0411.bmp,reference,verify,0.0070362091064453125
+M I,C0411.bmp,vectorized,insert,10.81396484375
+M I,C0411.bmp,vectorized,extract,4.0003662109375
+M I,C0411.bmp,vectorized,verify,1.697068214416504
+M I,C0635.bmp,reference,insert,1.3905057907104492
+M I,C0635.bmp,reference,extract,0.2299814224243164
+M I,C0635.bmp,reference,verify,0.0070362091064453125
+M I,C0635.bmp,vectorized,insert,10.81396484375
+M I,C0635.bmp,vectorized,extract,4.0003662109375
+M I,C0635.bmp,vectorized,verify,1.697068214416504
+M I,C0869.bmp,reference,insert,1.3905057907104492
+M I,C0869.bmp,reference,extract,0.2299814224243164
+M I,C0869.bmp,reference,verify,0.0070362091064453125
+M I,C0869.bmp,vectorized,insert,10.81396484375
+M I,C0869.bmp,vectorized,extract,4.0003662109375
+M I,C0869.bmp,vectorized,verify,1.697068214416504
+M I,C0886.bmp,reference,insert,1.390549659729004
+M I,C0886.bmp,reference,extract,0.2299814224243164
+M I,C0886.bmp,reference,verify,0.0070362091064453125
+M I,C0886.bmp,vectorized,insert,10.81396484375
+M I,C0886.bmp,vectorized,extract,4.0003662109375
+M I,C0886.bmp,vectorized,verify,1.697068214416504
+M II,C0071.bmp,reference,insert,1.390549659729004
+M II,C0071.bmp,reference,extract,0.2299814224243164
+M II,C0071.bmp,reference,verify,0.0070362091064453125
+M II,C0071.bmp,vectorized,insert,10.81396484375
+M II,C0071.bmp,vectorized,extract,4.0003662109375
+M II,C0071.bmp,vectorized,verify,1.697068214416504
+M II,C0123.bmp,reference,insert,1.3905057907104492
+M II,C0123.bmp,reference,extract,0.2299814224243164
+M II,C0123.bmp,reference,verify,0.0070362091064453125
+M II,C0123.bmp,vectorized,insert,10.81396484375
+M II,C0123.bmp,vectorized,extract,4.0003662109375
+M II,C0123.bmp,vectorized,verify,1.697068214416504
+M II,C0126.bmp,reference,insert,1.390549659729004
+M II,C0126.bmp,reference,extract,0.2299814224243164
+M II,C0126.bmp,reference,verify,0.0070362091064453125
+M II,C0126.bmp,vectorized,insert,10.81396484375
+M II,C0126.bmp,vectorized,extract,4.0003662109375
+M II,C0126.bmp,vectorized,verify,1.697068214416504
+M II,C0163.bmp,reference,insert,1.3905057907104492
+M II,C0163.bmp,reference,extract,0.2299814224243164
+M II,C0163.bmp,reference,verify,0.0070362091064453125
+M II,C0163.bmp,vectorized,insert,10.81396484375
+M II,C0163.bmp,vectorized,extract,4.0003662109375
+M II,C0163.bmp,vectorized,verify,1.697068214416504
+M II,C0218.bmp,reference,insert,1.390549659729004
+M II,C0218.bmp,reference,extract,0.2299814224243164
+M II,C0218.bmp,reference,verify,0.0070362091064453125
+M II,C0218.bmp,vectorized,insert,10.81396484375
+M II,C0218.bmp,vectorized,extract,4.0003662109375
+M II,C0218.bmp,vectorized,verify,1.697068214416504
+M II,C0309.bmp,reference,insert,1.3905935287475586
+M II,C0309.bmp,reference,extract,0.2299814224243164
+M II,C0309.bmp,reference,verify,0.0070362091064453125
+M II,C0309.bmp,vectorized,insert,10.81396484375
+M II,C0309.bmp,vectorized,extract,4.0003662109375
+M II,C0309.bmp,vectorized,verify,1.697068214416504
+M II,C0411.bmp,reference,insert,1.390549659729004
+M II,C0411.bmp,reference,extract,0.2299814224243164
+M II,C0411.bmp,reference,verify,0.0070362091064453125
+M II,C0411.bmp,vectorized,insert,10.81396484375
+M II,C0411.bmp,vectorized,extract,4.0003662109375
+M II,C0411.bmp,vectorized,verify,1.697068214416504
+M II,C0635.bmp,reference,insert,1.3905057907104492
+M II,C0635.bmp,reference,extract,0.2299814224243164
+M II,C0635.bmp,reference,verify,0.0070362091064453125
+M II,C0635.bmp,vectorized,insert,10.81396484375
+M II,C0635.bmp,vectorized,extract,4.0003662109375
+M II,C0635.bmp,vectorized,verify,1.697068214416504
+M II,C0869.bmp,reference,insert,1.390549659729004
+M II,C0869.bmp,reference,extract,0.2299814224243164
+M II,C0869.bmp,reference,verify,0.0070362091064453125
+M II,C0869.bmp,vectorized,insert,10.81396484375
+M II,C0869.bmp,vectorized,extract,4.0003662109375
+M II,C0869.bmp,vectorized,verify,1.697068214416504
+M II,C0886.bmp,reference,insert,1.390549659729004
+M II,C0886.bmp,reference,extract,0.2299814224243164
+M II,C0886.bmp,reference,verify,0.0070362091064453125
+M II,C0886.bmp,vectorized,insert,10.81396484375
+M II,C0886.bmp,vectorized,extract,4.0003662109375
+M II,C0886.bmp,vectorized,verify,1.697068214416504
+DCT,C0071.bmp,reference,insert,1.390549659729004
+DCT,C0071.bmp,reference,extract,0.2299814224243164
+DCT,C0071.bmp,reference,verify,0.0070362091064453125
+DCT,C0071.bmp,vectorized,insert,10.81396484375
+DCT,C0071.bmp,vectorized,extract,4.0003662109375
+DCT,C0071.bmp,vectorized,verify,1.697068214416504
+DCT,C0123.bmp,reference,insert,1.390549659729004
+DCT,C0123.bmp,reference,extract,0.2299814224243164
+DCT,C0123.bmp,reference,verify,0.0070362091064453125
+DCT,C0123.bmp,vectorized,insert,10.81396484375
+DCT,C0123.bmp,vectorized,extract,4.0003662109375
+DCT,C0123.bmp,vectorized,verify,1.697068214416504
+DCT,C0126.bmp,reference,insert,1.3905057907104492
+DCT,C0126.bmp,reference,extract,0.2299814224243164
+DCT,C0126.bmp,reference,verify,0.0070362091064453125
+DCT,C0126.bmp,vectorized,insert,10.81396484375
+DCT,C0126.bmp,vectorized,extract,4.0003662109375
+DCT,C0126.bmp,vectorized,verify,1.697068214416504
+DCT,C0163.bmp,reference,insert,1.390549659729004
+DCT,C0163.bmp,reference,extract,0.2299814224243164
+DCT,C0163.bmp,reference,verify,0.0070362091064453125
+DCT,C0163.bmp,vectorized,insert,10.81396484375
+DCT,C0163.bmp,vectorized,extract,4.0003662109375
+DCT,C0163.bmp,vectorized,verify,1.697068214416504
+DCT,C0218.bmp,reference,insert,1.3905057907104492
+DCT,C0218.bmp,reference,extract,0.2299814224243164
+DCT,C0218.bmp,reference,verify,0.0070362091064453125
+DCT,C0218.bmp,vectorized,insert,10.81396484375
+DCT,C0218.bmp,vectorized,extract,4.0003662109375
+DCT,C0218.bmp,vectorized,verify,1.697068214416504
+DCT,C0309.bmp,reference,insert,1.390549659729004
+DCT,C0309.bmp,reference,extract,0.2299814224243164
+DCT,C0309.bmp,reference,verify,0.0070362091064453125
+DCT,C0309.bmp,vectorized,insert,10.81396484375
+DCT,C0309.bmp,vectorized,extract,4.0003662109375
+DCT,C0309.bmp,vectorized,verify,1.697068214416504
+DCT,C0411.bmp,reference,insert,1.390549659729004
+DCT,C0411.bmp,reference,extract,0.2299814224243164
+DCT,C0411.bmp,reference,verify,0.0070362091064453125
+DCT,C0411.bmp,vectorized,insert,10.81396484375
+DCT,C0411.bmp,vectorized,extract,4.0003662109375
+DCT,C0411.bmp,vectorized,verify,1.697068214416504
+DCT,C0635.bmp,reference,insert,1.390549659729004
+DCT,C0635.bmp,reference,extract,0.2299814224243164
+DCT,C0635.bmp,reference,verify,0.0070362091064453125
+DCT,C0635.bmp,vectorized,insert,10.81396484375
+DCT,C0635.bmp,vectorized,extract,4.0003662109375
+DCT,C0635.bmp,vectorized,verify,1.697068214416504
+DCT,C0869.bmp,reference,insert,1.390549659729004
+DCT,C0869.bmp,reference,extract,0.2299814224243164
+DCT,C0869.bmp,reference,verify,0.0070362091064453125
+DCT,C0869.bmp,vectorized,insert,10.81396484375
+DCT,C0869.bmp,vectorized,extract,4.0003662109375
+DCT,C0869.bmp,vectorized,verify,1.697068214416504
+DCT,C0886.bmp,reference,insert,1.390549659729004
+DCT,C0886.bmp,reference,extract,0.2299814224243164
+DCT,C0886.bmp,reference,verify,0.0070362091064453125
+DCT,C0886.bmp,vectorized,insert,10.81396484375
+DCT,C0886.bmp,vectorized,extract,4.0003662109375
+DCT,C0886.bmp,vectorized,verify,1.697068214416504

@@ -1,0 +1,1 @@
+C0001-C0050 (Caltech Birds) y NB0001-NB0050 (NRC), tomadas de dual_watermaking_scheme_2025/src/static/cover_images

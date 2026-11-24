@@ -1,0 +1,30 @@
+\begin{table*}[t]
+\centering
+\caption{Success rate: percentage of the 100 images whose watermark is recovered with BER $\leq 0.10$, at representative attack levels. Best value per row in bold.}
+\label{tab:ablation_success}
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{llccccc}
+\toprule
+Embedding & Attack & C\,I & C\,II & M\,I & M\,II & DCT \\
+\midrule
+Original & No attack & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} \\
+ & Gaussian, $p=0.10$ & 88 & 88 & 85 & 87 & \textbf{100} \\
+ & S\&P, $d=0.05$ & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} & 0 \\
+ & Median 3$\times$3 & 0 & 0 & 0 & 0 & \textbf{19} \\
+ & Mean 3$\times$3 & 0 & 0 & 0 & 0 & \textbf{100} \\
+ & JPEG, $Q=100$ & 0 & 0 & 0 & 0 & \textbf{70} \\
+ & JPEG, $Q=90$ & 0 & 0 & 0 & 0 & 0 \\
+ & Rotation 1$^\circ$ & 0 & 0 & 0 & 0 & 0 \\
+\midrule
+Overflow-safe & No attack & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} \\
+ & Gaussian, $p=0.10$ & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} \\
+ & S\&P, $d=0.05$ & \textbf{100} & \textbf{100} & \textbf{100} & \textbf{100} & 0 \\
+ & Median 3$\times$3 & 0 & 0 & 0 & 0 & \textbf{19} \\
+ & Mean 3$\times$3 & 0 & 0 & 0 & 0 & \textbf{100} \\
+ & JPEG, $Q=100$ & 0 & 0 & 0 & 0 & \textbf{70} \\
+ & JPEG, $Q=90$ & 0 & 0 & 0 & 0 & 0 \\
+ & Rotation 1$^\circ$ & 0 & 0 & 0 & 0 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table*}

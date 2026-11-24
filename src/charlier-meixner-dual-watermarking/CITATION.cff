@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Robust and Fragile Dual Watermarking Based on Charlier and Meixner Orthogonal Moment Approaches: code and experiments"
+type: software
+license: MIT
+authors:
+  - family-names: Soria-Lorente
+    given-names: Anier
+    affiliation: "Department of Quantitative Methods, Universidad Loyola Andalucía, Spain"
+  - family-names: Michel
+    given-names: Junior
+    affiliation: "Department of Quantitative Methods, Universidad Loyola Andalucía, Spain"
+  - family-names: Huertas
+    given-names: Edmundo J.
+    affiliation: "Departamento de Física y Matemáticas, Universidad de Alcalá, Spain"
+keywords:
+  - digital watermarking
+  - image authentication
+  - tamper localization
+  - Charlier polynomials
+  - Meixner polynomials
+  - orthogonal moments
+  - dither modulation

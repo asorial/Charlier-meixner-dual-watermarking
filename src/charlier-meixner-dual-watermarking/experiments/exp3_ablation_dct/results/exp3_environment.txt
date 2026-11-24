@@ -1,0 +1,2 @@
+images=100 (data/covers100) | variants=['C I', 'C II', 'M I', 'M II', 'DCT'] | Delta=150 coef=62
+python 3.13.18 | numpy 2.5.3 | opencv 5.0.0 | Linux-6.18.44-fc-v185-x86_64-with-glibc2.39 | 914 s

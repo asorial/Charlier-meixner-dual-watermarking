@@ -1,0 +1,654 @@
+{
+ "interaction": [
+  {
+   "config": "C I",
+   "ber_diff_mean_all": -0.00016795191271551724,
+   "ber_diff_max_abs": 0.0185546875,
+   "ncc_diff_max_abs": 0.042762842954509,
+   "images_conditions_with_diff": 1573,
+   "n_pairs": 2900,
+   "worst_condition_ci": [
+    -0.00126708984375,
+    -0.0019226358956245296,
+    -0.0006115437918754706
+   ],
+   "bit_errors_no_attack_robust": 2414,
+   "bit_errors_no_attack_dual": 2414,
+   "f1_diff": [
+    -6.257346513489082e-06,
+    -1.911324484254605e-05,
+    6.598551815567888e-06
+   ],
+   "psnr_cost_fragile_in_dual": [
+    0.02639052222078952,
+    0.025098019484766646,
+    0.027683024956812397
+   ],
+   "psnr_cost_robust_in_dual": [
+    22.30195175732216,
+    22.091243188919368,
+    22.512660325724955
+   ]
+  },
+  {
+   "config": "C II",
+   "ber_diff_mean_all": 2.2309401939655173e-05,
+   "ber_diff_max_abs": 0.0576171875,
+   "ncc_diff_max_abs": 0.2174136608791098,
+   "images_conditions_with_diff": 1591,
+   "n_pairs": 2900,
+   "worst_condition_ci": [
+    0.0049169921875,
+    0.00266003253314376,
+    0.0071739518418562406
+   ],
+   "bit_errors_no_attack_robust": 2825,
+   "bit_errors_no_attack_dual": 2825,
+   "f1_diff": [
+    -7.938676307153632e-06,
+    -1.9779016437712683e-05,
+    3.90166382340542e-06
+   ],
+   "psnr_cost_fragile_in_dual": [
+    0.026222533762553155,
+    0.024958592932557866,
+    0.027486474592548445
+   ],
+   "psnr_cost_robust_in_dual": [
+    22.324672226193606,
+    22.117609403291393,
+    22.53173504909582
+   ]
+  },
+  {
+   "config": "M I",
+   "ber_diff_mean_all": -7.551522090517241e-05,
+   "ber_diff_max_abs": 0.0263671875,
+   "ncc_diff_max_abs": 0.07299075896067903,
+   "images_conditions_with_diff": 1591,
+   "n_pairs": 2900,
+   "worst_condition_ci": [
+    0.0022607421875,
+    0.0013806106479080816,
+    0.0031408737270919185
+   ],
+   "bit_errors_no_attack_robust": 3562,
+   "bit_errors_no_attack_dual": 3562,
+   "f1_diff": [
+    -4.251104804258354e-07,
+    -5.730018494743773e-06,
+    4.879797533892102e-06
+   ],
+   "psnr_cost_fragile_in_dual": [
+    0.025867575547187088,
+    0.024641000059916714,
+    0.02709415103445746
+   ],
+   "psnr_cost_robust_in_dual": [
+    22.37902785241567,
+    22.178350309593178,
+    22.579705395238165
+   ]
+  },
+  {
+   "config": "M II",
+   "ber_diff_mean_all": -0.00013377222521551723,
+   "ber_diff_max_abs": 0.02490234375,
+   "ncc_diff_max_abs": 0.1265363420372156,
+   "images_conditions_with_diff": 1643,
+   "n_pairs": 2900,
+   "worst_condition_ci": [
+    0.00243408203125,
+    0.0013407950510401006,
+    0.0035273690114598997
+   ],
+   "bit_errors_no_attack_robust": 3195,
+   "bit_errors_no_attack_dual": 3194,
+   "f1_diff": [
+    -2.0597539564642473e-06,
+    -1.0392218665749808e-05,
+    6.272710752821314e-06
+   ],
+   "psnr_cost_fragile_in_dual": [
+    0.026101106266573807,
+    0.024851904356675697,
+    0.027350308176471917
+   ],
+   "psnr_cost_robust_in_dual": [
+    22.341811057141957,
+    22.13757101908999,
+    22.546051095193924
+   ]
+  }
+ ],
+ "reversed_order_flagged_blocks": {
+  "mean": {
+   "C I": 4086.03,
+   "C II": 4082.23,
+   "M I": 4078.8,
+   "M II": 4081.39
+  },
+  "min": {
+   "C I": 4028.0,
+   "C II": 4016.0,
+   "M I": 4030.0,
+   "M II": 4021.0
+  },
+  "max": {
+   "C I": 4096.0,
+   "C II": 4096.0,
+   "M I": 4094.0,
+   "M II": 4096.0
+  }
+ },
+ "fragile_only": {
+  "precision": 1.0,
+  "recall": 0.9999812190701561,
+  "FP": 0,
+  "FN": 18,
+  "F1_mean": 0.9999929208742518,
+  "detected": 1.0,
+  "n": 2400
+ },
+ "dual_auth": {
+  "C I": {
+   "precision": 1.0,
+   "recall": 0.99998434924146,
+   "FP": 0,
+   "FN": 15,
+   "F1_mean": 0.9999866635277381,
+   "detected": 1.0,
+   "n": 2400
+  },
+  "C II": {
+   "precision": 1.0,
+   "recall": 0.9999822624736545,
+   "FP": 0,
+   "FN": 17,
+   "F1_mean": 0.9999849821979444,
+   "detected": 1.0,
+   "n": 2400
+  },
+  "M I": {
+   "precision": 1.0,
+   "recall": 0.9999822624736545,
+   "FP": 0,
+   "FN": 17,
+   "F1_mean": 0.9999924957637715,
+   "detected": 1.0,
+   "n": 2400
+  },
+  "M II": {
+   "precision": 1.0,
+   "recall": 0.9999833058575572,
+   "FP": 0,
+   "FN": 16,
+   "F1_mean": 0.9999908611202954,
+   "detected": 1.0,
+   "n": 2400
+  }
+ },
+ "quality_layers": [
+  {
+   "config": "C I",
+   "variant": "dual",
+   "psnr": 39.63062,
+   "ssim": 0.97484,
+   "changed_pixels": 0.24709
+  },
+  {
+   "config": "C I",
+   "variant": "reversed order",
+   "psnr": 39.6306,
+   "ssim": 0.97484,
+   "changed_pixels": 0.24707
+  },
+  {
+   "config": "C I",
+   "variant": "robust only",
+   "psnr": 39.65701,
+   "ssim": 0.97512,
+   "changed_pixels": 0.13158
+  },
+  {
+   "config": "C II",
+   "variant": "dual",
+   "psnr": 39.6079,
+   "ssim": 0.97473,
+   "changed_pixels": 0.22224
+  },
+  {
+   "config": "C II",
+   "variant": "reversed order",
+   "psnr": 39.60786,
+   "ssim": 0.97473,
+   "changed_pixels": 0.22226
+  },
+  {
+   "config": "C II",
+   "variant": "robust only",
+   "psnr": 39.63412,
+   "ssim": 0.975,
+   "changed_pixels": 0.10342
+  },
+  {
+   "config": "M I",
+   "variant": "dual",
+   "psnr": 39.55354,
+   "ssim": 0.97443,
+   "changed_pixels": 0.18747
+  },
+  {
+   "config": "M I",
+   "variant": "reversed order",
+   "psnr": 39.55351,
+   "ssim": 0.97443,
+   "changed_pixels": 0.18749
+  },
+  {
+   "config": "M I",
+   "variant": "robust only",
+   "psnr": 39.57941,
+   "ssim": 0.9747,
+   "changed_pixels": 0.06404
+  },
+  {
+   "config": "M II",
+   "variant": "dual",
+   "psnr": 39.59076,
+   "ssim": 0.97462,
+   "changed_pixels": 0.2108
+  },
+  {
+   "config": "M II",
+   "variant": "reversed order",
+   "psnr": 39.59068,
+   "ssim": 0.97463,
+   "changed_pixels": 0.21085
+  },
+  {
+   "config": "M II",
+   "variant": "robust only",
+   "psnr": 39.61686,
+   "ssim": 0.9749,
+   "changed_pixels": 0.08975
+  },
+  {
+   "config": "all",
+   "variant": "fragile only",
+   "psnr": 61.93257,
+   "ssim": 0.99975,
+   "changed_pixels": 0.12501
+  }
+ ],
+ "times_ms": [
+  {
+   "variant": "C I",
+   "impl": "reference",
+   "op": "extract robust",
+   "ms": 129.601
+  },
+  {
+   "variant": "C I",
+   "impl": "reference",
+   "op": "insert dual",
+   "ms": 313.139
+  },
+  {
+   "variant": "C I",
+   "impl": "reference",
+   "op": "verify fragile",
+   "ms": 76.247
+  },
+  {
+   "variant": "C I",
+   "impl": "vectorized",
+   "op": "extract robust",
+   "ms": 0.8
+  },
+  {
+   "variant": "C I",
+   "impl": "vectorized",
+   "op": "insert dual",
+   "ms": 19.008
+  },
+  {
+   "variant": "C I",
+   "impl": "vectorized",
+   "op": "insert fragile only",
+   "ms": 15.293
+  },
+  {
+   "variant": "C I",
+   "impl": "vectorized",
+   "op": "insert robust only",
+   "ms": 2.935
+  },
+  {
+   "variant": "C I",
+   "impl": "vectorized",
+   "op": "verify fragile",
+   "ms": 14.626
+  },
+  {
+   "variant": "C II",
+   "impl": "reference",
+   "op": "extract robust",
+   "ms": 130.279
+  },
+  {
+   "variant": "C II",
+   "impl": "reference",
+   "op": "insert dual",
+   "ms": 312.674
+  },
+  {
+   "variant": "C II",
+   "impl": "reference",
+   "op": "verify fragile",
+   "ms": 76.654
+  },
+  {
+   "variant": "C II",
+   "impl": "vectorized",
+   "op": "extract robust",
+   "ms": 0.801
+  },
+  {
+   "variant": "C II",
+   "impl": "vectorized",
+   "op": "insert dual",
+   "ms": 18.749
+  },
+  {
+   "variant": "C II",
+   "impl": "vectorized",
+   "op": "insert fragile only",
+   "ms": 15.195
+  },
+  {
+   "variant": "C II",
+   "impl": "vectorized",
+   "op": "insert robust only",
+   "ms": 2.931
+  },
+  {
+   "variant": "C II",
+   "impl": "vectorized",
+   "op": "verify fragile",
+   "ms": 14.464
+  },
+  {
+   "variant": "DCT",
+   "impl": "reference",
+   "op": "extract robust",
+   "ms": 131.319
+  },
+  {
+   "variant": "DCT",
+   "impl": "reference",
+   "op": "insert dual",
+   "ms": 313.215
+  },
+  {
+   "variant": "DCT",
+   "impl": "reference",
+   "op": "verify fragile",
+   "ms": 77.315
+  },
+  {
+   "variant": "DCT",
+   "impl": "vectorized",
+   "op": "extract robust",
+   "ms": 0.806
+  },
+  {
+   "variant": "DCT",
+   "impl": "vectorized",
+   "op": "insert dual",
+   "ms": 19.024
+  },
+  {
+   "variant": "DCT",
+   "impl": "vectorized",
+   "op": "insert fragile only",
+   "ms": 15.387
+  },
+  {
+   "variant": "DCT",
+   "impl": "vectorized",
+   "op": "insert robust only",
+   "ms": 2.98
+  },
+  {
+   "variant": "DCT",
+   "impl": "vectorized",
+   "op": "verify fragile",
+   "ms": 14.634
+  },
+  {
+   "variant": "Identity",
+   "impl": "reference",
+   "op": "extract robust",
+   "ms": 130.339
+  },
+  {
+   "variant": "Identity",
+   "impl": "reference",
+   "op": "insert dual",
+   "ms": 314.817
+  },
+  {
+   "variant": "Identity",
+   "impl": "reference",
+   "op": "verify fragile",
+   "ms": 76.766
+  },
+  {
+   "variant": "Identity",
+   "impl": "vectorized",
+   "op": "extract robust",
+   "ms": 0.806
+  },
+  {
+   "variant": "Identity",
+   "impl": "vectorized",
+   "op": "insert dual",
+   "ms": 18.849
+  },
+  {
+   "variant": "Identity",
+   "impl": "vectorized",
+   "op": "insert fragile only",
+   "ms": 15.153
+  },
+  {
+   "variant": "Identity",
+   "impl": "vectorized",
+   "op": "insert robust only",
+   "ms": 2.944
+  },
+  {
+   "variant": "Identity",
+   "impl": "vectorized",
+   "op": "verify fragile",
+   "ms": 14.473
+  },
+  {
+   "variant": "M I",
+   "impl": "reference",
+   "op": "extract robust",
+   "ms": 130.39
+  },
+  {
+   "variant": "M I",
+   "impl": "reference",
+   "op": "insert dual",
+   "ms": 310.036
+  },
+  {
+   "variant": "M I",
+   "impl": "reference",
+   "op": "verify fragile",
+   "ms": 77.659
+  },
+  {
+   "variant": "M I",
+   "impl": "vectorized",
+   "op": "extract robust",
+   "ms": 0.802
+  },
+  {
+   "variant": "M I",
+   "impl": "vectorized",
+   "op": "insert dual",
+   "ms": 19.033
+  },
+  {
+   "variant": "M I",
+   "impl": "vectorized",
+   "op": "insert fragile only",
+   "ms": 15.382
+  },
+  {
+   "variant": "M I",
+   "impl": "vectorized",
+   "op": "insert robust only",
+   "ms": 2.971
+  },
+  {
+   "variant": "M I",
+   "impl": "vectorized",
+   "op": "verify fragile",
+   "ms": 14.617
+  },
+  {
+   "variant": "M II",
+   "impl": "reference",
+   "op": "extract robust",
+   "ms": 129.14
+  },
+  {
+   "variant": "M II",
+   "impl": "reference",
+   "op": "insert dual",
+   "ms": 313.015
+  },
+  {
+   "variant": "M II",
+   "impl": "reference",
+   "op": "verify fragile",
+   "ms": 76.414
+  },
+  {
+   "variant": "M II",
+   "impl": "vectorized",
+   "op": "extract robust",
+   "ms": 0.792
+  },
+  {
+   "variant": "M II",
+   "impl": "vectorized",
+   "op": "insert dual",
+   "ms": 18.768
+  },
+  {
+   "variant": "M II",
+   "impl": "vectorized",
+   "op": "insert fragile only",
+   "ms": 15.054
+  },
+  {
+   "variant": "M II",
+   "impl": "vectorized",
+   "op": "insert robust only",
+   "ms": 2.943
+  },
+  {
+   "variant": "M II",
+   "impl": "vectorized",
+   "op": "verify fragile",
+   "ms": 14.494
+  }
+ ],
+ "quality_transforms": {
+  "C I": {
+   "psnr": [
+    39.63061632059874,
+    39.41986379076377,
+    39.84136885043371
+   ],
+   "ssim": [
+    0.9748412806528697,
+    0.9726597781986064,
+    0.977022783107133
+   ],
+   "ber0": 0.0058935546875
+  },
+  "C II": {
+   "psnr": [
+    39.60789585172729,
+    39.40080231712185,
+    39.81498938633273
+   ],
+   "ssim": [
+    0.9747261608328968,
+    0.972541349818778,
+    0.9769109718470155
+   ],
+   "ber0": 0.00689697265625
+  },
+  "M I": {
+   "psnr": [
+    39.55354022550522,
+    39.35284480376177,
+    39.75423564724868
+   ],
+   "ssim": [
+    0.9744334869092645,
+    0.9722372742717598,
+    0.9766296995467691
+   ],
+   "ber0": 0.0086962890625
+  },
+  "M II": {
+   "psnr": [
+    39.59075702077895,
+    39.38648917972354,
+    39.795024861834364
+   ],
+   "ssim": [
+    0.974624965495694,
+    0.9724404721037047,
+    0.9768094588876833
+   ],
+   "ber0": 0.0077978515625
+  },
+  "DCT": {
+   "psnr": [
+    39.66748925145544,
+    39.595642290788945,
+    39.73933621212194
+   ],
+   "ssim": [
+    0.9665208632287239,
+    0.9633190671072365,
+    0.9697226593502113
+   ],
+   "ber0": 0.0
+  },
+  "Identity": {
+   "psnr": [
+    39.4175769655496,
+    39.22697609610638,
+    39.60817783499282
+   ],
+   "ssim": [
+    0.973688600031834,
+    0.9714369818500245,
+    0.9759402182136435
+   ],
+   "ber0": 0.1114306640625
+  }
+ }
+}

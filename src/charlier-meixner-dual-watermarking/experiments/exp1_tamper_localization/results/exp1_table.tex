@@ -1,0 +1,27 @@
+\begin{table}[t]
+\centering
+\caption{Block-level tamper detection and localization of the fragile layer (24 images, 4 configurations, 5 random positions; mean over 480 trials per row; largest standard deviation 0.0008). Ground truth: 8$\times$8 blocks with at least one modified pixel. No false positives were observed and 51 of 2\,298\,630 tampered blocks were missed ($2.2\times 10^{-5}$), consistent with the $2^{-16}$ collision probability of the 16-bit tag. Accuracy is dominated by the authentic blocks (95--99\% of each image) and is reported for completeness. Results are identical for C\,I, C\,II, M\,I and M\,II (maximum difference between configurations $1.5\times 10^{-4}$).}
+\label{tab:tamper_localization}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{llrcccccc}
+\toprule
+Attack & Area & GT blocks & Precision & Recall & F1 & FPR & FNR & Accuracy \\
+\midrule
+Copy-move & 1\% & 53 & 1.00000 & 1.00000 & 1.00000 & 0.00000 & 0.00000 & 1.00000 \\
+ & 5\% & 229 & 1.00000 & 0.99997 & 0.99999 & 0.00000 & 0.00003 & 1.00000 \\
+ & 10\% & 445 & 1.00000 & 0.99999 & 0.99999 & 0.00000 & 0.00001 & 1.00000 \\
+ & 20\% & 866 & 1.00000 & 0.99997 & 0.99999 & 0.00000 & 0.00003 & 0.99999 \\
+\midrule
+Splicing & 1\% & 52 & 1.00000 & 1.00000 & 1.00000 & 0.00000 & 0.00000 & 1.00000 \\
+ & 5\% & 228 & 1.00000 & 0.99996 & 0.99998 & 0.00000 & 0.00004 & 1.00000 \\
+ & 10\% & 446 & 1.00000 & 1.00000 & 1.00000 & 0.00000 & 0.00000 & 1.00000 \\
+ & 20\% & 871 & 1.00000 & 0.99998 & 0.99999 & 0.00000 & 0.00002 & 1.00000 \\
+\midrule
+Object removal & 1\% & 52 & 1.00000 & 0.99996 & 0.99998 & 0.00000 & 0.00004 & 1.00000 \\
+ & 5\% & 229 & 1.00000 & 0.99999 & 1.00000 & 0.00000 & 0.00001 & 1.00000 \\
+ & 10\% & 446 & 1.00000 & 0.99997 & 0.99998 & 0.00000 & 0.00003 & 1.00000 \\
+ & 20\% & 871 & 1.00000 & 0.99997 & 0.99998 & 0.00000 & 0.00003 & 0.99999 \\
+\bottomrule
+\end{tabular}
+\end{table}

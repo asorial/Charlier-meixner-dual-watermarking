@@ -1,0 +1,24 @@
+\begin{table}[t]
+\centering
+\caption{Imperceptibility of the five transforms under identical embedding ($\Delta=150$, coefficient 62, blue channel, 100 images: 50 Caltech Birds and 50 NRC). Mean $\pm$ s.d. [95\% confidence interval]. SSIM: standard local SSIM. Overflow-safe: the reconstruction point of the same dither sub-lattice is used when clipping to $[0,255]$ would flip the bit or leave it closer than $\Delta/8$ to the decision boundary.}
+\label{tab:ablation_imperceptibility}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{llcc}
+\toprule
+Embedding & Transform & PSNR (dB) & SSIM \\
+\midrule
+Original & C\,I & $39.63 \pm 1.06$ [39.42, 39.84] & $0.9748 \pm 0.0110$ [0.9727, 0.9770] \\
+ & C\,II & $39.61 \pm 1.04$ [39.40, 39.81] & $0.9747 \pm 0.0110$ [0.9725, 0.9769] \\
+ & M\,I & $39.55 \pm 1.01$ [39.35, 39.75] & $0.9744 \pm 0.0111$ [0.9722, 0.9766] \\
+ & M\,II & $39.59 \pm 1.03$ [39.39, 39.80] & $0.9746 \pm 0.0110$ [0.9724, 0.9768] \\
+ & DCT & $39.67 \pm 0.36$ [39.60, 39.74] & $0.9665 \pm 0.0161$ [0.9633, 0.9697] \\
+\midrule
+Overflow-safe & C\,I & $36.59 \pm 0.96$ [36.40, 36.78] & $0.9587 \pm 0.0171$ [0.9553, 0.9621] \\
+ & C\,II & $36.57 \pm 0.99$ [36.38, 36.77] & $0.9586 \pm 0.0173$ [0.9552, 0.9620] \\
+ & M\,I & $37.09 \pm 0.99$ [36.89, 37.29] & $0.9621 \pm 0.0163$ [0.9589, 0.9653] \\
+ & M\,II & $36.65 \pm 1.05$ [36.44, 36.85] & $0.9590 \pm 0.0174$ [0.9555, 0.9624] \\
+ & DCT & $39.67 \pm 0.36$ [39.60, 39.74] & $0.9665 \pm 0.0161$ [0.9633, 0.9697] \\
+\bottomrule
+\end{tabular}
+\end{table}

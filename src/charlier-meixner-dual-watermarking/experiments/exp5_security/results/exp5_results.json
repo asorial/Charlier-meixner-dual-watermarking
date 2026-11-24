@@ -1,0 +1,297 @@
+{
+  "images": [
+    "C0071.bmp",
+    "C0123.bmp",
+    "C0126.bmp",
+    "C0163.bmp",
+    "C0218.bmp",
+    "C0309.bmp",
+    "C0411.bmp",
+    "C0635.bmp",
+    "C0869.bmp",
+    "C0886.bmp",
+    "C1324.bmp",
+    "C1445.bmp",
+    "NB0003.bmp",
+    "NB0041.bmp",
+    "NB0042.bmp",
+    "NB0074.bmp",
+    "NB0159.bmp",
+    "NB0206.bmp",
+    "NB0281.bmp",
+    "NB0305.bmp",
+    "NB0391.bmp",
+    "NB0431.bmp",
+    "NB0453.bmp",
+    "NB0593.bmp"
+  ],
+  "key": "N;fpr-y7",
+  "eta": 27,
+  "delta": 150,
+  "coef": 62,
+  "T1_correct_key": {
+    "rejected_blocks": 0.0,
+    "ber": 0.006154378255208333,
+    "ncc": 0.9865548420807123
+  },
+  "T2_wrong_fragile_key": {
+    "random_keys": {
+      "n_keys": 100,
+      "n_images": 6,
+      "mean_rejected": 0.999989013671875,
+      "min_rejected": 0.999755859375
+    },
+    "one_character_keys": {
+      "keys": [
+        "O;fpr-y7",
+        "N<fpr-y7",
+        "N;gpr-y7",
+        "N;fqr-y7",
+        "N;fps-y7",
+        "N;fpr.y7",
+        "N;fpr-z7",
+        "N;fpr-y8"
+      ],
+      "mean_rejected": 0.9999949137369791,
+      "min_rejected": 0.999755859375
+    },
+    "one_bit_kappa": {
+      "bits": [
+        0,
+        77,
+        128,
+        255
+      ],
+      "mean_rejected": 0.9999898274739584,
+      "min_rejected": 0.999755859375
+    },
+    "expected_rejected": 0.9999847412109375
+  },
+  "T3_robust_parameters": [
+    {
+      "group": "reference",
+      "setting": "correct parameters",
+      "ber": 0.006154378255208333,
+      "ber_sd": 0.0049919752152102585,
+      "ncc": 0.9865548420807123
+    },
+    {
+      "group": "K",
+      "setting": "wrong fragile key K (robust layer does not use K)",
+      "ber": 0.006154378255208333,
+      "ber_sd": 0.0049919752152102585,
+      "ncc": 0.9865548420807123
+    },
+    {
+      "group": "eta",
+      "setting": "Arnold eta = 26",
+      "ber": 0.4501851399739583,
+      "ber_sd": 0.0015532496196127294,
+      "ncc": 0.008309316082117121
+    },
+    {
+      "group": "eta",
+      "setting": "Arnold eta = 28",
+      "ber": 0.4500223795572917,
+      "ber_sd": 0.002025400327069857,
+      "ncc": 0.0086718148006246
+    },
+    {
+      "group": "eta",
+      "setting": "Arnold eta = 1",
+      "ber": 0.4579569498697917,
+      "ber_sd": 0.001756070759144938,
+      "ncc": -0.00881125270466628
+    },
+    {
+      "group": "eta",
+      "setting": "Arnold eta = 37",
+      "ber": 0.4639180501302083,
+      "ber_sd": 0.0018676347322425502,
+      "ncc": -0.021944367468834398
+    },
+    {
+      "group": "eta",
+      "setting": "Arnold eta = 63",
+      "ber": 0.4567972819010417,
+      "ber_sd": 0.0016737115417581427,
+      "ncc": -0.006259275545665331
+    },
+    {
+      "group": "Delta",
+      "setting": "Delta = 75",
+      "ber": 0.313507080078125,
+      "ber_sd": 0.06333417711352372,
+      "ncc": 0.2570303133442952
+    },
+    {
+      "group": "Delta",
+      "setting": "Delta = 140",
+      "ber": 0.006154378255208333,
+      "ber_sd": 0.0049919752152102585,
+      "ncc": 0.9865548420807123
+    },
+    {
+      "group": "Delta",
+      "setting": "Delta = 148",
+      "ber": 0.006154378255208333,
+      "ber_sd": 0.0049919752152102585,
+      "ncc": 0.9865548420807123
+    },
+    {
+      "group": "Delta",
+      "setting": "Delta = 152",
+      "ber": 0.006154378255208333,
+      "ber_sd": 0.0049919752152102585,
+      "ncc": 0.9865548420807123
+    },
+    {
+      "group": "Delta",
+      "setting": "Delta = 160",
+      "ber": 0.030161539713541668,
+      "ber_sd": 0.03233277513982432,
+      "ncc": 0.9351440754441119
+    },
+    {
+      "group": "Delta",
+      "setting": "Delta = 300",
+      "ber": 0.351226806640625,
+      "ber_sd": 0.1616658848066145,
+      "ncc": 0.24625167160078953
+    },
+    {
+      "group": "coef",
+      "setting": "coefficient 61",
+      "ber": 0.4091898600260417,
+      "ber_sd": 0.062412635411542156,
+      "ncc": 0.07253967306876564
+    },
+    {
+      "group": "coef",
+      "setting": "coefficient 63",
+      "ber": 0.4162699381510417,
+      "ber_sd": 0.054345309200955615,
+      "ncc": 0.04287017913400112
+    },
+    {
+      "group": "coef",
+      "setting": "coefficient 53",
+      "ber": 0.4411722819010417,
+      "ber_sd": 0.04378890677915372,
+      "ncc": -0.0010057720138644869
+    },
+    {
+      "group": "coef",
+      "setting": "coefficient 0",
+      "ber": 0.4430745442708333,
+      "ber_sd": 0.05136833910650468,
+      "ncc": -0.005175089080533049
+    },
+    {
+      "group": "matrix",
+      "setting": "C II matrix",
+      "ber": 0.006154378255208333,
+      "ber_sd": 0.004973251260097723,
+      "ncc": 0.9865546970019691
+    },
+    {
+      "group": "matrix",
+      "setting": "M I matrix",
+      "ber": 0.006490071614583333,
+      "ber_sd": 0.005147845321169025,
+      "ncc": 0.9858236399082445
+    },
+    {
+      "group": "matrix",
+      "setting": "M II matrix",
+      "ber": 0.006673177083333333,
+      "ber_sd": 0.005242003918053345,
+      "ncc": 0.9854249622338105
+    },
+    {
+      "group": "matrix",
+      "setting": "Charlier a x0.1",
+      "ber": 0.006205240885416667,
+      "ber_sd": 0.004981028944566999,
+      "ncc": 0.9864437843318946
+    },
+    {
+      "group": "matrix",
+      "setting": "Charlier a x10",
+      "ber": 0.12580362955729166,
+      "ber_sd": 0.1261641666866309,
+      "ncc": 0.7388753325057061
+    },
+    {
+      "group": "matrix",
+      "setting": "DCT",
+      "ber": 0.43505859375,
+      "ber_sd": 0.1323144065417318,
+      "ncc": 0.11626261806692817
+    }
+  ],
+  "T4_arnold_bruteforce": {
+    "candidates": 63,
+    "success_rate_by_attack": {
+      "gaussian 0.10": 1.0,
+      "none": 1.0,
+      "salt_pepper 0.05": 1.0
+    },
+    "structure_correct_mean": 0.7803957231040565,
+    "structure_wrong_mean": 0.5600348700094584,
+    "structure_wrong_max": 0.7203621031746033
+  },
+  "T5_forgery": {
+    "trials": 1048576,
+    "accepted": 11,
+    "rate": 1.049041748046875e-05,
+    "ci95": [
+      5.236789868529836e-06,
+      1.8770176917355323e-05
+    ],
+    "theoretical": 1.52587890625e-05,
+    "expected_accepted": 16.0
+  },
+  "T6_fragile_attacks": {
+    "flip_all_carrier_lsbs": 1.0,
+    "random_lsb_plane_all_pixels": 1.0,
+    "copy_move_same_image_detected": 1.0,
+    "collage_other_image_same_key_same_position_detected": 0.0,
+    "collage_other_image_same_key_other_position_detected": 1.0
+  },
+  "T7_removal": [
+    {
+      "attack": "move coefficient to decision boundary",
+      "psnr_vs_marked": 40.385729018704524,
+      "ber": 0.6036275227864584,
+      "ncc": -0.22666302473656622,
+      "attacker_wm_ber": NaN,
+      "rejected_blocks": 0.96600341796875
+    },
+    {
+      "attack": "flip each bit with p = 1/2",
+      "psnr_vs_marked": 38.647087567712795,
+      "ber": 0.4966939290364583,
+      "ncc": 0.0014578779699141436,
+      "attacker_wm_ber": NaN,
+      "rejected_blocks": 0.8177897135416666
+    },
+    {
+      "attack": "overwrite with attacker watermark",
+      "psnr_vs_marked": 38.63777490606785,
+      "ber": 0.498138427734375,
+      "ncc": 0.0008899973860540426,
+      "attacker_wm_ber": 0.007273356119791667,
+      "rejected_blocks": 0.879241943359375
+    },
+    {
+      "attack": "median filter 3x3 (blind)",
+      "psnr_vs_marked": 29.82593834060388,
+      "ber": 0.4131673177083333,
+      "ncc": 0.04591097126124708,
+      "attacker_wm_ber": NaN,
+      "rejected_blocks": 1.0
+    }
+  ],
+  "seconds": 20.0
+}

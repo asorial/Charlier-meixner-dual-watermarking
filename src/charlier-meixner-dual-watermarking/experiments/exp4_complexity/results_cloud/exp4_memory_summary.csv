@@ -1,0 +1,31 @@
+impl,op,config,peak_mb
+reference,extract,C I,0.2299814224243164
+reference,extract,C II,0.2299814224243164
+reference,extract,DCT,0.2299814224243164
+reference,extract,M I,0.2299814224243164
+reference,extract,M II,0.2299814224243164
+reference,insert,C I,1.390549659729004
+reference,insert,C II,1.390549659729004
+reference,insert,DCT,1.390549659729004
+reference,insert,M I,1.3905277252197266
+reference,insert,M II,1.390549659729004
+reference,verify,C I,0.0070362091064453
+reference,verify,C II,0.0070362091064453
+reference,verify,DCT,0.0070362091064453
+reference,verify,M I,0.0070362091064453
+reference,verify,M II,0.0070362091064453
+vectorized,extract,C I,4.0003662109375
+vectorized,extract,C II,4.0003662109375
+vectorized,extract,DCT,4.0003662109375
+vectorized,extract,M I,4.0003662109375
+vectorized,extract,M II,4.0003662109375
+vectorized,insert,C I,10.81396484375
+vectorized,insert,C II,10.81396484375
+vectorized,insert,DCT,10.81396484375
+vectorized,insert,M I,10.81396484375
+vectorized,insert,M II,10.81396484375
+vectorized,verify,C I,1.697068214416504
+vectorized,verify,C II,1.697068214416504
+vectorized,verify,DCT,1.697068214416504
+vectorized,verify,M I,1.697068214416504
+vectorized,verify,M II,1.697068214416504

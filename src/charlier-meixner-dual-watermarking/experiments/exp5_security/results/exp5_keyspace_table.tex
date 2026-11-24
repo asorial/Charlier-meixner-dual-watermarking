@@ -1,0 +1,18 @@
+\begin{table*}[t]
+\centering
+\caption{Secret elements of the scheme, their effective size and what the experiments show (Kerckhoffs' principle: the algorithm is public).}
+\label{tab:keyspace}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{p{2.3cm}p{1.1cm}p{2.5cm}p{6.1cm}}
+\toprule
+Element & Layer & Size & Evidence and effective security \\
+\midrule
+Key $K$ $\to$ $\kappa=\mathrm{SHA\text{-}256}(K)$ & Fragile & 256-bit $\kappa$; entropy bounded by $K$ ($\approx$52 bits for 8 printable characters) & A wrong key rejects 99.999\% of the blocks of a genuine image (one changed character: 99.999\%; one changed bit of $\kappa$: 99.999\%). Security depends on the entropy of $K$. \\
+Tag length $L=16$ & Fragile & $2^{16}$ tags per block & Forged blocks accepted: 11 of 1\,048\,576 ($1.05\times10^{-5}$; 95\% CI $[5.24\times10^{-6},\,1.88\times10^{-5}]$), consistent with $2^{-16}$. With a verification oracle a block is forged in $2^{15}$ queries on average. \\
+Arnold iterations $\eta$ & Robust & 63 values ($\approx$6 bits) & A blind search over the 63 candidates recovers $\eta$ in 100.0\% of the images (also after Gaussian and salt-and-pepper noise). Not a cryptographic key. \\
+Coefficient, $\Delta$ & Robust & 64 positions; $\Delta$ in a small range & A wrong coefficient gives BER $\geq0.41$, but $\Delta\in[140,152]$ decodes as $\Delta=150$; both are recoverable by exhaustive search. \\
+Polynomial parameters, transform & Robust & Continuous & The watermark of C\,I is decoded with the matrices of C\,II, M\,I or M\,II (BER $\leq0.0067$, as with the true matrix): the parameters are not secret. \\
+\bottomrule
+\end{tabular}
+\end{table*}

@@ -1,0 +1,7 @@
+{
+  "blocksize_loop": -1.472298360306206,
+  "blocksize_vectorized": -0.29389520364501626,
+  "imagesize_insert": 1.0131430765218603,
+  "imagesize_extract": 1.0094984379612557,
+  "imagesize_verify": 1.0131280044419315
+}

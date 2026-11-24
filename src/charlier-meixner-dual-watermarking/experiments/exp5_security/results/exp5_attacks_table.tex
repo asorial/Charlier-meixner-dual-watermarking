@@ -1,0 +1,26 @@
+\begin{table}[t]
+\centering
+\caption{Attacks on the fragile and robust layers (24 images, C\,I, $\Delta=150$). Detected: percentage of tampered blocks flagged; rejected: percentage of all blocks flagged.}
+\label{tab:security_attacks}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{lcccc}
+\toprule
+Attack & PSNR (dB) & BER & NCC & Fragile layer \\
+\midrule
+\multicolumn{5}{l}{\emph{Fragile layer}} \\
+Flip the LSBs of all carriers & -- & -- & -- & 100.0\% rejected \\
+Random LSB plane (all pixels) & -- & -- & -- & 100.0\% rejected \\
+Copy-move of whole blocks (with tags) & -- & -- & -- & 100.0\% detected \\
+Collage from another image, other position & -- & -- & -- & 100.0\% detected \\
+Collage from another image, same position & -- & -- & -- & 0.0\% detected \\
+\midrule
+\multicolumn{5}{l}{\emph{Robust layer (attacker who knows the algorithm)}} \\
+Coefficient moved to the decision boundary & 40.4 & 0.604 & -0.227 & 96.6\% rejected \\
+Each bit flipped with probability 1/2 & 38.6 & 0.497 & 0.001 & 81.8\% rejected \\
+Overwriting with another watermark$^{a}$ & 38.6 & 0.498 & 0.001 & 87.9\% rejected \\
+Median filter $3\times3$ (blind attacker) & 29.8 & 0.413 & 0.046 & 100.0\% rejected \\
+\bottomrule
+\end{tabular}
+\par\smallskip\raggedright $^{a}$ The attacker's watermark is then extracted with BER 0.007.
+\end{table}

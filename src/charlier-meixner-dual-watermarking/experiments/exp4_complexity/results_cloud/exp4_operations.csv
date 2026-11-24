@@ -1,0 +1,3001 @@
+config,image,impl,op,rep,seconds
+C I,C0071.bmp,reference,insert,0,0.285313675999987
+C I,C0071.bmp,reference,insert,1,0.28151652200006083
+C I,C0071.bmp,reference,insert,2,0.28095775700001013
+C I,C0071.bmp,reference,insert,3,0.29067811099992014
+C I,C0071.bmp,reference,insert,4,0.301486060000002
+C I,C0071.bmp,reference,insert,5,0.28511921599999823
+C I,C0071.bmp,reference,insert,6,0.27027746099997785
+C I,C0071.bmp,reference,insert,7,0.26041321000002426
+C I,C0071.bmp,reference,insert,8,0.2533121310000297
+C I,C0071.bmp,reference,insert,9,0.3263517809999712
+C I,C0071.bmp,reference,extract,0,0.11314415600008942
+C I,C0071.bmp,reference,extract,1,0.11335852900003829
+C I,C0071.bmp,reference,extract,2,0.11235897799997474
+C I,C0071.bmp,reference,extract,3,0.11472692300003473
+C I,C0071.bmp,reference,extract,4,0.11198297599992202
+C I,C0071.bmp,reference,extract,5,0.11401083500004461
+C I,C0071.bmp,reference,extract,6,0.11358172699999614
+C I,C0071.bmp,reference,extract,7,0.11610962599991126
+C I,C0071.bmp,reference,extract,8,0.11623000200006572
+C I,C0071.bmp,reference,extract,9,0.11285245099998065
+C I,C0071.bmp,reference,verify,0,0.061019826000006105
+C I,C0071.bmp,reference,verify,1,0.06049826000003122
+C I,C0071.bmp,reference,verify,2,0.05948899099996652
+C I,C0071.bmp,reference,verify,3,0.0625503620000245
+C I,C0071.bmp,reference,verify,4,0.06537112000000889
+C I,C0071.bmp,reference,verify,5,0.06880205599998135
+C I,C0071.bmp,reference,verify,6,0.06507219799993891
+C I,C0071.bmp,reference,verify,7,0.06447163500001807
+C I,C0071.bmp,reference,verify,8,0.059724252000023625
+C I,C0071.bmp,reference,verify,9,0.05916652400003386
+C I,C0071.bmp,vectorized,insert,0,0.01588211599994338
+C I,C0071.bmp,vectorized,insert,1,0.01597989200001848
+C I,C0071.bmp,vectorized,insert,2,0.01578718200005369
+C I,C0071.bmp,vectorized,insert,3,0.01566762100003416
+C I,C0071.bmp,vectorized,insert,4,0.01606874100002642
+C I,C0071.bmp,vectorized,insert,5,0.015624766999962958
+C I,C0071.bmp,vectorized,insert,6,0.015512739999962832
+C I,C0071.bmp,vectorized,insert,7,0.01551211699995747
+C I,C0071.bmp,vectorized,insert,8,0.016093920999992406
+C I,C0071.bmp,vectorized,insert,9,0.01552387300000646
+C I,C0071.bmp,vectorized,extract,0,0.001191160999951535
+C I,C0071.bmp,vectorized,extract,1,0.001013685999964764
+C I,C0071.bmp,vectorized,extract,2,0.0007568119999632472
+C I,C0071.bmp,vectorized,extract,3,0.0007626999999956752
+C I,C0071.bmp,vectorized,extract,4,0.0007032890000573389
+C I,C0071.bmp,vectorized,extract,5,0.0007263109999939843
+C I,C0071.bmp,vectorized,extract,6,0.0006706730000587413
+C I,C0071.bmp,vectorized,extract,7,0.0007185599999957049
+C I,C0071.bmp,vectorized,extract,8,0.0007315389999575928
+C I,C0071.bmp,vectorized,extract,9,0.0006610709999677056
+C I,C0071.bmp,vectorized,verify,0,0.012152446999948552
+C I,C0071.bmp,vectorized,verify,1,0.011442742000099315
+C I,C0071.bmp,vectorized,verify,2,0.011651740999923277
+C I,C0071.bmp,vectorized,verify,3,0.011772643999961474
+C I,C0071.bmp,vectorized,verify,4,0.011569184999984827
+C I,C0071.bmp,vectorized,verify,5,0.011830830999997488
+C I,C0071.bmp,vectorized,verify,6,0.011493700999949397
+C I,C0071.bmp,vectorized,verify,7,0.011701958000003287
+C I,C0071.bmp,vectorized,verify,8,0.011362636000058046
+C I,C0071.bmp,vectorized,verify,9,0.011269734999928005
+C I,C0123.bmp,reference,insert,0,0.26454889599995113
+C I,C0123.bmp,reference,insert,1,0.2805083719999857
+C I,C0123.bmp,reference,insert,2,0.2798836089999668
+C I,C0123.bmp,reference,insert,3,0.2805979349999461
+C I,C0123.bmp,reference,insert,4,0.2866398969999864
+C I,C0123.bmp,reference,insert,5,0.28854736099992806
+C I,C0123.bmp,reference,insert,6,0.28536394499997186
+C I,C0123.bmp,reference,insert,7,0.2842739600000641
+C I,C0123.bmp,reference,insert,8,0.28213605300004474
+C I,C0123.bmp,reference,insert,9,0.28034618000003775
+C I,C0123.bmp,reference,extract,0,0.10958802899995135
+C I,C0123.bmp,reference,extract,1,0.11012859200002367
+C I,C0123.bmp,reference,extract,2,0.10900406200005364
+C I,C0123.bmp,reference,extract,3,0.10999866000008751
+C I,C0123.bmp,reference,extract,4,0.1086550630000147
+C I,C0123.bmp,reference,extract,5,0.10966395699995246
+C I,C0123.bmp,reference,extract,6,0.10925726900006794
+C I,C0123.bmp,reference,extract,7,0.10898883400000159
+C I,C0123.bmp,reference,extract,8,0.10843212800000401
+C I,C0123.bmp,reference,extract,9,0.10946867199993449
+C I,C0123.bmp,reference,verify,0,0.05848530600007962
+C I,C0123.bmp,reference,verify,1,0.05898688399997809
+C I,C0123.bmp,reference,verify,2,0.062389346000031765
+C I,C0123.bmp,reference,verify,3,0.06012466799995764
+C I,C0123.bmp,reference,verify,4,0.0631565190000174
+C I,C0123.bmp,reference,verify,5,0.061452102000089326
+C I,C0123.bmp,reference,verify,6,0.06052110499990704
+C I,C0123.bmp,reference,verify,7,0.0600352929999417
+C I,C0123.bmp,reference,verify,8,0.06023403699998653
+C I,C0123.bmp,reference,verify,9,0.06046192899998459
+C I,C0123.bmp,vectorized,insert,0,0.015947083000014572
+C I,C0123.bmp,vectorized,insert,1,0.016451740999968933
+C I,C0123.bmp,vectorized,insert,2,0.015652427999953034
+C I,C0123.bmp,vectorized,insert,3,0.01552180499993483
+C I,C0123.bmp,vectorized,insert,4,0.015657676999921932
+C I,C0123.bmp,vectorized,insert,5,0.015535932999910074
+C I,C0123.bmp,vectorized,insert,6,0.01559418099998311
+C I,C0123.bmp,vectorized,insert,7,0.01689753399989513
+C I,C0123.bmp,vectorized,insert,8,0.01734741200004919
+C I,C0123.bmp,vectorized,insert,9,0.017088646000047447
+C I,C0123.bmp,vectorized,extract,0,0.0010581379999621277
+C I,C0123.bmp,vectorized,extract,1,0.0009545259999867994
+C I,C0123.bmp,vectorized,extract,2,0.000813412000070457
+C I,C0123.bmp,vectorized,extract,3,0.0007887219999247463
+C I,C0123.bmp,vectorized,extract,4,0.0007340729999896212
+C I,C0123.bmp,vectorized,extract,5,0.0007717959999808954
+C I,C0123.bmp,vectorized,extract,6,0.0007695669999066013
+C I,C0123.bmp,vectorized,extract,7,0.0007975409999971816
+C I,C0123.bmp,vectorized,extract,8,0.0007157379999398472
+C I,C0123.bmp,vectorized,extract,9,0.0007693169999356542
+C I,C0123.bmp,vectorized,verify,0,0.012332945000025575
+C I,C0123.bmp,vectorized,verify,1,0.012094981000018379
+C I,C0123.bmp,vectorized,verify,2,0.012213640000027226
+C I,C0123.bmp,vectorized,verify,3,0.01203638000004048
+C I,C0123.bmp,vectorized,verify,4,0.012013244999934614
+C I,C0123.bmp,vectorized,verify,5,0.01209401199992044
+C I,C0123.bmp,vectorized,verify,6,0.012169302000074822
+C I,C0123.bmp,vectorized,verify,7,0.011996893000059572
+C I,C0123.bmp,vectorized,verify,8,0.011994731000072534
+C I,C0123.bmp,vectorized,verify,9,0.012035502000003362
+C I,C0126.bmp,reference,insert,0,0.2728800009999759
+C I,C0126.bmp,reference,insert,1,0.27744196899993767
+C I,C0126.bmp,reference,insert,2,0.2681645379999509
+C I,C0126.bmp,reference,insert,3,0.26314764100004595
+C I,C0126.bmp,reference,insert,4,0.27916613399997914
+C I,C0126.bmp,reference,insert,5,0.26372413399997185
+C I,C0126.bmp,reference,insert,6,0.2644042580000132
+C I,C0126.bmp,reference,insert,7,0.26311770699999215
+C I,C0126.bmp,reference,insert,8,0.28205878999995093
+C I,C0126.bmp,reference,insert,9,0.31753366899999946
+C I,C0126.bmp,reference,extract,0,0.11391985799991744
+C I,C0126.bmp,reference,extract,1,0.11329351999995652
+C I,C0126.bmp,reference,extract,2,0.11466456499999822
+C I,C0126.bmp,reference,extract,3,0.11260154700005387
+C I,C0126.bmp,reference,extract,4,0.11522819900005743
+C I,C0126.bmp,reference,extract,5,0.11495467899999312
+C I,C0126.bmp,reference,extract,6,0.11465311300003123
+C I,C0126.bmp,reference,extract,7,0.11435272800008534
+C I,C0126.bmp,reference,extract,8,0.11649776499996278
+C I,C0126.bmp,reference,extract,9,0.11706857999990916
+C I,C0126.bmp,reference,verify,0,0.06359217900001113
+C I,C0126.bmp,reference,verify,1,0.06363320299999486
+C I,C0126.bmp,reference,verify,2,0.06877555300002314
+C I,C0126.bmp,reference,verify,3,0.06949047499995231
+C I,C0126.bmp,reference,verify,4,0.07768521100001635
+C I,C0126.bmp,reference,verify,5,0.08433466199994655
+C I,C0126.bmp,reference,verify,6,0.07321187999991707
+C I,C0126.bmp,reference,verify,7,0.06653717200003939
+C I,C0126.bmp,reference,verify,8,0.06234991299993453
+C I,C0126.bmp,reference,verify,9,0.061374500999932025
+C I,C0126.bmp,vectorized,insert,0,0.01685050499997942
+C I,C0126.bmp,vectorized,insert,1,0.016675466000037886
+C I,C0126.bmp,vectorized,insert,2,0.017168934999972407
+C I,C0126.bmp,vectorized,insert,3,0.01636602199994286
+C I,C0126.bmp,vectorized,insert,4,0.01653627999996843
+C I,C0126.bmp,vectorized,insert,5,0.016588362999982564
+C I,C0126.bmp,vectorized,insert,6,0.020441407000021172
+C I,C0126.bmp,vectorized,insert,7,0.016553135999970436
+C I,C0126.bmp,vectorized,insert,8,0.016713184000082038
+C I,C0126.bmp,vectorized,insert,9,0.022536390000027495
+C I,C0126.bmp,vectorized,extract,0,0.0010393969999995534
+C I,C0126.bmp,vectorized,extract,1,0.0008298380000724137
+C I,C0126.bmp,vectorized,extract,2,0.0007807619999766757
+C I,C0126.bmp,vectorized,extract,3,0.0007737270000234275
+C I,C0126.bmp,vectorized,extract,4,0.0007141779999528808
+C I,C0126.bmp,vectorized,extract,5,0.0007885869999881834
+C I,C0126.bmp,vectorized,extract,6,0.0007632320000539039
+C I,C0126.bmp,vectorized,extract,7,0.0007955790000551133
+C I,C0126.bmp,vectorized,extract,8,0.0007163590000800468
+C I,C0126.bmp,vectorized,extract,9,0.0007567630000266945
+C I,C0126.bmp,vectorized,verify,0,0.012463726999953906
+C I,C0126.bmp,vectorized,verify,1,0.012261238000064623
+C I,C0126.bmp,vectorized,verify,2,0.01215905800006567
+C I,C0126.bmp,vectorized,verify,3,0.012316087000044718
+C I,C0126.bmp,vectorized,verify,4,0.012082642999985183
+C I,C0126.bmp,vectorized,verify,5,0.012119751999989603
+C I,C0126.bmp,vectorized,verify,6,0.012114477000068291
+C I,C0126.bmp,vectorized,verify,7,0.012040176999903451
+C I,C0126.bmp,vectorized,verify,8,0.012186950000000252
+C I,C0126.bmp,vectorized,verify,9,0.012196898000070178
+C I,C0163.bmp,reference,insert,0,0.28604565599994203
+C I,C0163.bmp,reference,insert,1,0.29799008899999535
+C I,C0163.bmp,reference,insert,2,0.2917912640000395
+C I,C0163.bmp,reference,insert,3,0.2676905330000636
+C I,C0163.bmp,reference,insert,4,0.273871172999975
+C I,C0163.bmp,reference,insert,5,0.27070575199991254
+C I,C0163.bmp,reference,insert,6,0.27179256599993096
+C I,C0163.bmp,reference,insert,7,0.2897491879999734
+C I,C0163.bmp,reference,insert,8,0.2865863750000699
+C I,C0163.bmp,reference,insert,9,0.27981117199999517
+C I,C0163.bmp,reference,extract,0,0.11951644799989936
+C I,C0163.bmp,reference,extract,1,0.12356639299991912
+C I,C0163.bmp,reference,extract,2,0.11948083300001144
+C I,C0163.bmp,reference,extract,3,0.11689707300001828
+C I,C0163.bmp,reference,extract,4,0.1263442169999962
+C I,C0163.bmp,reference,extract,5,0.1186641150000014
+C I,C0163.bmp,reference,extract,6,0.12514021599997704
+C I,C0163.bmp,reference,extract,7,0.12164696799993635
+C I,C0163.bmp,reference,extract,8,0.11182449199998246
+C I,C0163.bmp,reference,extract,9,0.11544997800001511
+C I,C0163.bmp,reference,verify,0,0.05959431099995527
+C I,C0163.bmp,reference,verify,1,0.05918644400003359
+C I,C0163.bmp,reference,verify,2,0.060279850000029
+C I,C0163.bmp,reference,verify,3,0.06031546799999887
+C I,C0163.bmp,reference,verify,4,0.06132230000002892
+C I,C0163.bmp,reference,verify,5,0.061332811999932346
+C I,C0163.bmp,reference,verify,6,0.061124192999955085
+C I,C0163.bmp,reference,verify,7,0.062297596000007616
+C I,C0163.bmp,reference,verify,8,0.062125648999995065
+C I,C0163.bmp,reference,verify,9,0.062313516000017444
+C I,C0163.bmp,vectorized,insert,0,0.016813478000017312
+C I,C0163.bmp,vectorized,insert,1,0.016367091999995864
+C I,C0163.bmp,vectorized,insert,2,0.0161957650000204
+C I,C0163.bmp,vectorized,insert,3,0.016234369000017068
+C I,C0163.bmp,vectorized,insert,4,0.016326964999962
+C I,C0163.bmp,vectorized,insert,5,0.01646466500005772
+C I,C0163.bmp,vectorized,insert,6,0.016219055999954435
+C I,C0163.bmp,vectorized,insert,7,0.016357865999907517
+C I,C0163.bmp,vectorized,insert,8,0.016526069000065036
+C I,C0163.bmp,vectorized,insert,9,0.016385969999987537
+C I,C0163.bmp,vectorized,extract,0,0.0009463860000096247
+C I,C0163.bmp,vectorized,extract,1,0.0009090020000712684
+C I,C0163.bmp,vectorized,extract,2,0.000711991000002854
+C I,C0163.bmp,vectorized,extract,3,0.0007334460000265608
+C I,C0163.bmp,vectorized,extract,4,0.0007394530000510713
+C I,C0163.bmp,vectorized,extract,5,0.000707779000094888
+C I,C0163.bmp,vectorized,extract,6,0.0006748280000010709
+C I,C0163.bmp,vectorized,extract,7,0.0007224519999908807
+C I,C0163.bmp,vectorized,extract,8,0.0007139489999872239
+C I,C0163.bmp,vectorized,extract,9,0.0006700500000533793
+C I,C0163.bmp,vectorized,verify,0,0.012514056000100027
+C I,C0163.bmp,vectorized,verify,1,0.012129286000003958
+C I,C0163.bmp,vectorized,verify,2,0.012190755999995417
+C I,C0163.bmp,vectorized,verify,3,0.012284513000054176
+C I,C0163.bmp,vectorized,verify,4,0.012186486000018704
+C I,C0163.bmp,vectorized,verify,5,0.012172083999985261
+C I,C0163.bmp,vectorized,verify,6,0.012133285000004435
+C I,C0163.bmp,vectorized,verify,7,0.012340857000026517
+C I,C0163.bmp,vectorized,verify,8,0.012563096000008045
+C I,C0163.bmp,vectorized,verify,9,0.012400404999993953
+C I,C0218.bmp,reference,insert,0,0.2780755769999814
+C I,C0218.bmp,reference,insert,1,0.2799209270000347
+C I,C0218.bmp,reference,insert,2,0.28406259799999134
+C I,C0218.bmp,reference,insert,3,0.29884281299996474
+C I,C0218.bmp,reference,insert,4,0.32176725099998293
+C I,C0218.bmp,reference,insert,5,0.306115701000067
+C I,C0218.bmp,reference,insert,6,0.2861746779999521
+C I,C0218.bmp,reference,insert,7,0.29250896999997167
+C I,C0218.bmp,reference,insert,8,0.2975736999999299
+C I,C0218.bmp,reference,insert,9,0.3323511560000725
+C I,C0218.bmp,reference,extract,0,0.10779220799997802
+C I,C0218.bmp,reference,extract,1,0.1093691089999993
+C I,C0218.bmp,reference,extract,2,0.10790461999999934
+C I,C0218.bmp,reference,extract,3,0.1102276650000249
+C I,C0218.bmp,reference,extract,4,0.11854605200005608
+C I,C0218.bmp,reference,extract,5,0.10666385299998637
+C I,C0218.bmp,reference,extract,6,0.1032619520000253
+C I,C0218.bmp,reference,extract,7,0.10364866499992331
+C I,C0218.bmp,reference,extract,8,0.10639700199999425
+C I,C0218.bmp,reference,extract,9,0.10935571899995011
+C I,C0218.bmp,reference,verify,0,0.06684832100006588
+C I,C0218.bmp,reference,verify,1,0.07129131199997119
+C I,C0218.bmp,reference,verify,2,0.06415299799994045
+C I,C0218.bmp,reference,verify,3,0.06448353099995074
+C I,C0218.bmp,reference,verify,4,0.06387640299999475
+C I,C0218.bmp,reference,verify,5,0.07005198299998483
+C I,C0218.bmp,reference,verify,6,0.08763684799998828
+C I,C0218.bmp,reference,verify,7,0.06468153499997698
+C I,C0218.bmp,reference,verify,8,0.06515974499995991
+C I,C0218.bmp,reference,verify,9,0.06490994399996453
+C I,C0218.bmp,vectorized,insert,0,0.017130038000004788
+C I,C0218.bmp,vectorized,insert,1,0.017166731999964213
+C I,C0218.bmp,vectorized,insert,2,0.016874944000051073
+C I,C0218.bmp,vectorized,insert,3,0.01794300899996415
+C I,C0218.bmp,vectorized,insert,4,0.016621559999975943
+C I,C0218.bmp,vectorized,insert,5,0.016509350999967864
+C I,C0218.bmp,vectorized,insert,6,0.017344710999964263
+C I,C0218.bmp,vectorized,insert,7,0.016510323000034077
+C I,C0218.bmp,vectorized,insert,8,0.016470157000071595
+C I,C0218.bmp,vectorized,insert,9,0.017290388999981587
+C I,C0218.bmp,vectorized,extract,0,0.0010616540000683017
+C I,C0218.bmp,vectorized,extract,1,0.001011045000041122
+C I,C0218.bmp,vectorized,extract,2,0.0007360580000295158
+C I,C0218.bmp,vectorized,extract,3,0.0007635629999640514
+C I,C0218.bmp,vectorized,extract,4,0.0008337449999089586
+C I,C0218.bmp,vectorized,extract,5,0.0007695220000414338
+C I,C0218.bmp,vectorized,extract,6,0.0008968490000142992
+C I,C0218.bmp,vectorized,extract,7,0.0007245000000466462
+C I,C0218.bmp,vectorized,extract,8,0.0008268259999795191
+C I,C0218.bmp,vectorized,extract,9,0.0008248830000638918
+C I,C0218.bmp,vectorized,verify,0,0.012292571999978463
+C I,C0218.bmp,vectorized,verify,1,0.01289732999998705
+C I,C0218.bmp,vectorized,verify,2,0.012187058999984401
+C I,C0218.bmp,vectorized,verify,3,0.012467413999956989
+C I,C0218.bmp,vectorized,verify,4,0.012201197000081265
+C I,C0218.bmp,vectorized,verify,5,0.012138004999997065
+C I,C0218.bmp,vectorized,verify,6,0.012008261000005405
+C I,C0218.bmp,vectorized,verify,7,0.021566707000033603
+C I,C0218.bmp,vectorized,verify,8,0.01700950899999043
+C I,C0218.bmp,vectorized,verify,9,0.013196513000025334
+C I,C0309.bmp,reference,insert,0,0.29555214600009094
+C I,C0309.bmp,reference,insert,1,0.293026374999954
+C I,C0309.bmp,reference,insert,2,0.2935393949999252
+C I,C0309.bmp,reference,insert,3,0.29151635899995654
+C I,C0309.bmp,reference,insert,4,0.2798802480000404
+C I,C0309.bmp,reference,insert,5,0.2824379859999908
+C I,C0309.bmp,reference,insert,6,0.284123118000025
+C I,C0309.bmp,reference,insert,7,0.3175599849998889
+C I,C0309.bmp,reference,insert,8,0.3180140819999906
+C I,C0309.bmp,reference,insert,9,0.3073162189999721
+C I,C0309.bmp,reference,extract,0,0.12719692300004226
+C I,C0309.bmp,reference,extract,1,0.11280912400002308
+C I,C0309.bmp,reference,extract,2,0.11456325300002845
+C I,C0309.bmp,reference,extract,3,0.11788264000006166
+C I,C0309.bmp,reference,extract,4,0.1139166140000043
+C I,C0309.bmp,reference,extract,5,0.11302277499999036
+C I,C0309.bmp,reference,extract,6,0.11357423499998731
+C I,C0309.bmp,reference,extract,7,0.11366927799997484
+C I,C0309.bmp,reference,extract,8,0.1404343000000381
+C I,C0309.bmp,reference,extract,9,0.11806755999998586
+C I,C0309.bmp,reference,verify,0,0.06300023300002522
+C I,C0309.bmp,reference,verify,1,0.0670216309999887
+C I,C0309.bmp,reference,verify,2,0.06272250699998949
+C I,C0309.bmp,reference,verify,3,0.06262626199998067
+C I,C0309.bmp,reference,verify,4,0.0627984299999298
+C I,C0309.bmp,reference,verify,5,0.06283112300002358
+C I,C0309.bmp,reference,verify,6,0.0627423619999945
+C I,C0309.bmp,reference,verify,7,0.06243158400002358
+C I,C0309.bmp,reference,verify,8,0.06231130999992729
+C I,C0309.bmp,reference,verify,9,0.06289002599999094
+C I,C0309.bmp,vectorized,insert,0,0.017613575000041237
+C I,C0309.bmp,vectorized,insert,1,0.01575867599990488
+C I,C0309.bmp,vectorized,insert,2,0.015774090999912005
+C I,C0309.bmp,vectorized,insert,3,0.015328878999980589
+C I,C0309.bmp,vectorized,insert,4,0.01535322199993061
+C I,C0309.bmp,vectorized,insert,5,0.015104336999911538
+C I,C0309.bmp,vectorized,insert,6,0.015673008000021582
+C I,C0309.bmp,vectorized,insert,7,0.01557415199999923
+C I,C0309.bmp,vectorized,insert,8,0.01581386800000928
+C I,C0309.bmp,vectorized,insert,9,0.015524958000014522
+C I,C0309.bmp,vectorized,extract,0,0.0010161989999915022
+C I,C0309.bmp,vectorized,extract,1,0.0010517669999217105
+C I,C0309.bmp,vectorized,extract,2,0.0008412989999442289
+C I,C0309.bmp,vectorized,extract,3,0.0008614150000312293
+C I,C0309.bmp,vectorized,extract,4,0.00079161100006786
+C I,C0309.bmp,vectorized,extract,5,0.0007187720000274567
+C I,C0309.bmp,vectorized,extract,6,0.0006821939999781534
+C I,C0309.bmp,vectorized,extract,7,0.000751455999989048
+C I,C0309.bmp,vectorized,extract,8,0.0007619850000537554
+C I,C0309.bmp,vectorized,extract,9,0.000731927999936488
+C I,C0309.bmp,vectorized,verify,0,0.012319104999960473
+C I,C0309.bmp,vectorized,verify,1,0.012487591999956749
+C I,C0309.bmp,vectorized,verify,2,0.01244425400000182
+C I,C0309.bmp,vectorized,verify,3,0.012787770000045384
+C I,C0309.bmp,vectorized,verify,4,0.012178217999917251
+C I,C0309.bmp,vectorized,verify,5,0.012392987999987781
+C I,C0309.bmp,vectorized,verify,6,0.01235044099996685
+C I,C0309.bmp,vectorized,verify,7,0.011902070000019194
+C I,C0309.bmp,vectorized,verify,8,0.011984931000029064
+C I,C0309.bmp,vectorized,verify,9,0.01189226700000745
+C I,C0411.bmp,reference,insert,0,0.2883972490000133
+C I,C0411.bmp,reference,insert,1,0.2895269000000553
+C I,C0411.bmp,reference,insert,2,0.2838968770000747
+C I,C0411.bmp,reference,insert,3,0.28736382499994306
+C I,C0411.bmp,reference,insert,4,0.28624687999990783
+C I,C0411.bmp,reference,insert,5,0.30048078900006203
+C I,C0411.bmp,reference,insert,6,0.2894045879999112
+C I,C0411.bmp,reference,insert,7,0.3237859009999511
+C I,C0411.bmp,reference,insert,8,0.3076723780000066
+C I,C0411.bmp,reference,insert,9,0.305346558999986
+C I,C0411.bmp,reference,extract,0,0.13130335300002116
+C I,C0411.bmp,reference,extract,1,0.11423574699995243
+C I,C0411.bmp,reference,extract,2,0.1439726650000921
+C I,C0411.bmp,reference,extract,3,0.10900131900007182
+C I,C0411.bmp,reference,extract,4,0.12537587099996017
+C I,C0411.bmp,reference,extract,5,0.11270909800009576
+C I,C0411.bmp,reference,extract,6,0.10695192700006828
+C I,C0411.bmp,reference,extract,7,0.1077156300000297
+C I,C0411.bmp,reference,extract,8,0.10750649900001008
+C I,C0411.bmp,reference,extract,9,0.10827916700009155
+C I,C0411.bmp,reference,verify,0,0.06272957499993481
+C I,C0411.bmp,reference,verify,1,0.07356041100001676
+C I,C0411.bmp,reference,verify,2,0.06956093599990254
+C I,C0411.bmp,reference,verify,3,0.07498918100009178
+C I,C0411.bmp,reference,verify,4,0.09602880800002822
+C I,C0411.bmp,reference,verify,5,0.07014243199989778
+C I,C0411.bmp,reference,verify,6,0.06360546700000214
+C I,C0411.bmp,reference,verify,7,0.06280899199998657
+C I,C0411.bmp,reference,verify,8,0.06346367000003283
+C I,C0411.bmp,reference,verify,9,0.06248925499994584
+C I,C0411.bmp,vectorized,insert,0,0.017306897000025856
+C I,C0411.bmp,vectorized,insert,1,0.017389557000001332
+C I,C0411.bmp,vectorized,insert,2,0.01783529500005443
+C I,C0411.bmp,vectorized,insert,3,0.016625596000039877
+C I,C0411.bmp,vectorized,insert,4,0.017441098000062993
+C I,C0411.bmp,vectorized,insert,5,0.016711685000018406
+C I,C0411.bmp,vectorized,insert,6,0.016484712999954354
+C I,C0411.bmp,vectorized,insert,7,0.022891475000051287
+C I,C0411.bmp,vectorized,insert,8,0.016719233999992866
+C I,C0411.bmp,vectorized,insert,9,0.021181258000069647
+C I,C0411.bmp,vectorized,extract,0,0.0010849389999521009
+C I,C0411.bmp,vectorized,extract,1,0.0008451599999261816
+C I,C0411.bmp,vectorized,extract,2,0.0007884969999167879
+C I,C0411.bmp,vectorized,extract,3,0.0008193070000288571
+C I,C0411.bmp,vectorized,extract,4,0.000714098000003105
+C I,C0411.bmp,vectorized,extract,5,0.0007629410000618009
+C I,C0411.bmp,vectorized,extract,6,0.0007720119999703456
+C I,C0411.bmp,vectorized,extract,7,0.0007751350000262391
+C I,C0411.bmp,vectorized,extract,8,0.0007171510000034687
+C I,C0411.bmp,vectorized,extract,9,0.0008321609999484281
+C I,C0411.bmp,vectorized,verify,0,0.012308857999983047
+C I,C0411.bmp,vectorized,verify,1,0.012640348000104495
+C I,C0411.bmp,vectorized,verify,2,0.012454680000018925
+C I,C0411.bmp,vectorized,verify,3,0.012372943000059422
+C I,C0411.bmp,vectorized,verify,4,0.012216247999958796
+C I,C0411.bmp,vectorized,verify,5,0.012490046000039001
+C I,C0411.bmp,vectorized,verify,6,0.012210609000021577
+C I,C0411.bmp,vectorized,verify,7,0.017638295999972797
+C I,C0411.bmp,vectorized,verify,8,0.012698805000013635
+C I,C0411.bmp,vectorized,verify,9,0.012231449000069006
+C I,C0635.bmp,reference,insert,0,0.2835551210000631
+C I,C0635.bmp,reference,insert,1,0.28241931000002296
+C I,C0635.bmp,reference,insert,2,0.2883071840000184
+C I,C0635.bmp,reference,insert,3,0.29225910399998156
+C I,C0635.bmp,reference,insert,4,0.2790370210000219
+C I,C0635.bmp,reference,insert,5,0.2729888650000021
+C I,C0635.bmp,reference,insert,6,0.2809802230000287
+C I,C0635.bmp,reference,insert,7,0.286973396999997
+C I,C0635.bmp,reference,insert,8,0.2772698840000203
+C I,C0635.bmp,reference,insert,9,0.27605569000002106
+C I,C0635.bmp,reference,extract,0,0.11960451000004468
+C I,C0635.bmp,reference,extract,1,0.11531303899994327
+C I,C0635.bmp,reference,extract,2,0.11504835000005187
+C I,C0635.bmp,reference,extract,3,0.11010543400004735
+C I,C0635.bmp,reference,extract,4,0.11037133399997856
+C I,C0635.bmp,reference,extract,5,0.11827521400005025
+C I,C0635.bmp,reference,extract,6,0.11347690299999158
+C I,C0635.bmp,reference,extract,7,0.11403393699993103
+C I,C0635.bmp,reference,extract,8,0.1165531200000487
+C I,C0635.bmp,reference,extract,9,0.13071729900002538
+C I,C0635.bmp,reference,verify,0,0.06197147099999256
+C I,C0635.bmp,reference,verify,1,0.061678083000060724
+C I,C0635.bmp,reference,verify,2,0.06198379499994644
+C I,C0635.bmp,reference,verify,3,0.061856353999928615
+C I,C0635.bmp,reference,verify,4,0.061733636999974806
+C I,C0635.bmp,reference,verify,5,0.06183681799996066
+C I,C0635.bmp,reference,verify,6,0.06138102499994602
+C I,C0635.bmp,reference,verify,7,0.06187772500004485
+C I,C0635.bmp,reference,verify,8,0.06201824199990824
+C I,C0635.bmp,reference,verify,9,0.062413251999942077
+C I,C0635.bmp,vectorized,insert,0,0.016511090999983935
+C I,C0635.bmp,vectorized,insert,1,0.016463535999946544
+C I,C0635.bmp,vectorized,insert,2,0.01636051100001623
+C I,C0635.bmp,vectorized,insert,3,0.01626100500004668
+C I,C0635.bmp,vectorized,insert,4,0.016181921999987026
+C I,C0635.bmp,vectorized,insert,5,0.01593805599998177
+C I,C0635.bmp,vectorized,insert,6,0.01615099100001771
+C I,C0635.bmp,vectorized,insert,7,0.01638292799998453
+C I,C0635.bmp,vectorized,insert,8,0.016233764000048723
+C I,C0635.bmp,vectorized,insert,9,0.016086286000017935
+C I,C0635.bmp,vectorized,extract,0,0.0012337209999486731
+C I,C0635.bmp,vectorized,extract,1,0.0010274549999849114
+C I,C0635.bmp,vectorized,extract,2,0.0008372079998935078
+C I,C0635.bmp,vectorized,extract,3,0.0007371199999397504
+C I,C0635.bmp,vectorized,extract,4,0.0007683420000148544
+C I,C0635.bmp,vectorized,extract,5,0.0006649779999179373
+C I,C0635.bmp,vectorized,extract,6,0.0007525529999838909
+C I,C0635.bmp,vectorized,extract,7,0.0007760559999496763
+C I,C0635.bmp,vectorized,extract,8,0.0006960209999533618
+C I,C0635.bmp,vectorized,extract,9,0.0007201329999588779
+C I,C0635.bmp,vectorized,verify,0,0.011869299999943905
+C I,C0635.bmp,vectorized,verify,1,0.011507134000112273
+C I,C0635.bmp,vectorized,verify,2,0.011613932999921417
+C I,C0635.bmp,vectorized,verify,3,0.011475190999931328
+C I,C0635.bmp,vectorized,verify,4,0.011636608000003434
+C I,C0635.bmp,vectorized,verify,5,0.011527611000019533
+C I,C0635.bmp,vectorized,verify,6,0.011727158999974563
+C I,C0635.bmp,vectorized,verify,7,0.011666886999933013
+C I,C0635.bmp,vectorized,verify,8,0.011494727000012972
+C I,C0635.bmp,vectorized,verify,9,0.012590159000069434
+C I,C0869.bmp,reference,insert,0,0.2707806039999241
+C I,C0869.bmp,reference,insert,1,0.28076357999998436
+C I,C0869.bmp,reference,insert,2,0.30331999999998516
+C I,C0869.bmp,reference,insert,3,0.29503745799991066
+C I,C0869.bmp,reference,insert,4,0.2822606419999829
+C I,C0869.bmp,reference,insert,5,0.2772069590000683
+C I,C0869.bmp,reference,insert,6,0.277514316999941
+C I,C0869.bmp,reference,insert,7,0.27871253800003615
+C I,C0869.bmp,reference,insert,8,0.2765833260000363
+C I,C0869.bmp,reference,insert,9,0.2846140489999698
+C I,C0869.bmp,reference,extract,0,0.10890398599997297
+C I,C0869.bmp,reference,extract,1,0.1083125850000215
+C I,C0869.bmp,reference,extract,2,0.10979888100007429
+C I,C0869.bmp,reference,extract,3,0.11348327700000027
+C I,C0869.bmp,reference,extract,4,0.11228389599989441
+C I,C0869.bmp,reference,extract,5,0.11370735100001639
+C I,C0869.bmp,reference,extract,6,0.11163151800008109
+C I,C0869.bmp,reference,extract,7,0.11248803300009058
+C I,C0869.bmp,reference,extract,8,0.11039510400007657
+C I,C0869.bmp,reference,extract,9,0.11227307500007555
+C I,C0869.bmp,reference,verify,0,0.060911740000051395
+C I,C0869.bmp,reference,verify,1,0.05989697500001512
+C I,C0869.bmp,reference,verify,2,0.05911282800002482
+C I,C0869.bmp,reference,verify,3,0.05811923199996727
+C I,C0869.bmp,reference,verify,4,0.05945234499995422
+C I,C0869.bmp,reference,verify,5,0.062283423999929255
+C I,C0869.bmp,reference,verify,6,0.058243206999918584
+C I,C0869.bmp,reference,verify,7,0.058693109000046206
+C I,C0869.bmp,reference,verify,8,0.05842550699992444
+C I,C0869.bmp,reference,verify,9,0.06257276799999545
+C I,C0869.bmp,vectorized,insert,0,0.017102870000030634
+C I,C0869.bmp,vectorized,insert,1,0.018884864000028756
+C I,C0869.bmp,vectorized,insert,2,0.017028019999997923
+C I,C0869.bmp,vectorized,insert,3,0.016550387999927807
+C I,C0869.bmp,vectorized,insert,4,0.015791158000070027
+C I,C0869.bmp,vectorized,insert,5,0.015982863999965957
+C I,C0869.bmp,vectorized,insert,6,0.01599661299997024
+C I,C0869.bmp,vectorized,insert,7,0.01650504099995942
+C I,C0869.bmp,vectorized,insert,8,0.016257104000032996
+C I,C0869.bmp,vectorized,insert,9,0.016387119000000894
+C I,C0869.bmp,vectorized,extract,0,0.0010986139999431543
+C I,C0869.bmp,vectorized,extract,1,0.0008425149999311543
+C I,C0869.bmp,vectorized,extract,2,0.0008013610000716653
+C I,C0869.bmp,vectorized,extract,3,0.0007450079999671289
+C I,C0869.bmp,vectorized,extract,4,0.0007111140000688465
+C I,C0869.bmp,vectorized,extract,5,0.0007695079999621157
+C I,C0869.bmp,vectorized,extract,6,0.001311417000010806
+C I,C0869.bmp,vectorized,extract,7,0.0007750820000183012
+C I,C0869.bmp,vectorized,extract,8,0.0007823420000931947
+C I,C0869.bmp,vectorized,extract,9,0.0008464329999924303
+C I,C0869.bmp,vectorized,verify,0,0.013064265999901181
+C I,C0869.bmp,vectorized,verify,1,0.012734976000047027
+C I,C0869.bmp,vectorized,verify,2,0.013478985000006105
+C I,C0869.bmp,vectorized,verify,3,0.014862951000054636
+C I,C0869.bmp,vectorized,verify,4,0.012063775000001442
+C I,C0869.bmp,vectorized,verify,5,0.011655347999976584
+C I,C0869.bmp,vectorized,verify,6,0.01199311300001682
+C I,C0869.bmp,vectorized,verify,7,0.011829535999936525
+C I,C0869.bmp,vectorized,verify,8,0.01156744799993703
+C I,C0869.bmp,vectorized,verify,9,0.012540305000015906
+C I,C0886.bmp,reference,insert,0,0.26423219799994513
+C I,C0886.bmp,reference,insert,1,0.2651539699999148
+C I,C0886.bmp,reference,insert,2,0.2648108639999691
+C I,C0886.bmp,reference,insert,3,0.26444170199999917
+C I,C0886.bmp,reference,insert,4,0.2680785229999856
+C I,C0886.bmp,reference,insert,5,0.2776937219999809
+C I,C0886.bmp,reference,insert,6,0.3097693580000396
+C I,C0886.bmp,reference,insert,7,0.2844136649999882
+C I,C0886.bmp,reference,insert,8,0.2890162720000262
+C I,C0886.bmp,reference,insert,9,0.3184816049999881
+C I,C0886.bmp,reference,extract,0,0.12224652200006858
+C I,C0886.bmp,reference,extract,1,0.1278166179999971
+C I,C0886.bmp,reference,extract,2,0.12216791399998783
+C I,C0886.bmp,reference,extract,3,0.13323706000005586
+C I,C0886.bmp,reference,extract,4,0.11674838599992654
+C I,C0886.bmp,reference,extract,5,0.12764839400006167
+C I,C0886.bmp,reference,extract,6,0.12479963099997349
+C I,C0886.bmp,reference,extract,7,0.11574430100006339
+C I,C0886.bmp,reference,extract,8,0.11524395000003551
+C I,C0886.bmp,reference,extract,9,0.12097572000004675
+C I,C0886.bmp,reference,verify,0,0.06288437099999555
+C I,C0886.bmp,reference,verify,1,0.06557892299997548
+C I,C0886.bmp,reference,verify,2,0.06357139700003245
+C I,C0886.bmp,reference,verify,3,0.06324172699999053
+C I,C0886.bmp,reference,verify,4,0.06255995799995162
+C I,C0886.bmp,reference,verify,5,0.06305194300000494
+C I,C0886.bmp,reference,verify,6,0.06319070200004262
+C I,C0886.bmp,reference,verify,7,0.06583205599997655
+C I,C0886.bmp,reference,verify,8,0.06558903899997404
+C I,C0886.bmp,reference,verify,9,0.06336842999996861
+C I,C0886.bmp,vectorized,insert,0,0.016902895000043827
+C I,C0886.bmp,vectorized,insert,1,0.02295900299998266
+C I,C0886.bmp,vectorized,insert,2,0.023526732000050288
+C I,C0886.bmp,vectorized,insert,3,0.020977431999995133
+C I,C0886.bmp,vectorized,insert,4,0.02309609700000692
+C I,C0886.bmp,vectorized,insert,5,0.01919455699999162
+C I,C0886.bmp,vectorized,insert,6,0.017333923999899525
+C I,C0886.bmp,vectorized,insert,7,0.016534020999984023
+C I,C0886.bmp,vectorized,insert,8,0.016306869000004554
+C I,C0886.bmp,vectorized,insert,9,0.01675449499998649
+C I,C0886.bmp,vectorized,extract,0,0.0009653189999880851
+C I,C0886.bmp,vectorized,extract,1,0.0009261840000363009
+C I,C0886.bmp,vectorized,extract,2,0.0008012980000557945
+C I,C0886.bmp,vectorized,extract,3,0.0007229770000094504
+C I,C0886.bmp,vectorized,extract,4,0.0007052209999756087
+C I,C0886.bmp,vectorized,extract,5,0.0007162859999425564
+C I,C0886.bmp,vectorized,extract,6,0.0007289209999044033
+C I,C0886.bmp,vectorized,extract,7,0.0007662550000304691
+C I,C0886.bmp,vectorized,extract,8,0.0006491379999715718
+C I,C0886.bmp,vectorized,extract,9,0.000727747999917483
+C I,C0886.bmp,vectorized,verify,0,0.012258988999974463
+C I,C0886.bmp,vectorized,verify,1,0.012252412000066215
+C I,C0886.bmp,vectorized,verify,2,0.012100164999992558
+C I,C0886.bmp,vectorized,verify,3,0.012628360000007888
+C I,C0886.bmp,vectorized,verify,4,0.012623547000089275
+C I,C0886.bmp,vectorized,verify,5,0.012450683999986722
+C I,C0886.bmp,vectorized,verify,6,0.012222227999927782
+C I,C0886.bmp,vectorized,verify,7,0.012198147999924913
+C I,C0886.bmp,vectorized,verify,8,0.012200958999983413
+C I,C0886.bmp,vectorized,verify,9,0.012322178999966127
+C II,C0071.bmp,reference,insert,0,0.2898957559999644
+C II,C0071.bmp,reference,insert,1,0.3075861319999831
+C II,C0071.bmp,reference,insert,2,0.3068929290000142
+C II,C0071.bmp,reference,insert,3,0.31151675400008116
+C II,C0071.bmp,reference,insert,4,0.29251049599997714
+C II,C0071.bmp,reference,insert,5,0.30342749600004026
+C II,C0071.bmp,reference,insert,6,0.2900111849999121
+C II,C0071.bmp,reference,insert,7,0.29028651299995545
+C II,C0071.bmp,reference,insert,8,0.289361246999988
+C II,C0071.bmp,reference,insert,9,0.27406929799997215
+C II,C0071.bmp,reference,extract,0,0.11285277900003621
+C II,C0071.bmp,reference,extract,1,0.11350678299993433
+C II,C0071.bmp,reference,extract,2,0.11172153200004686
+C II,C0071.bmp,reference,extract,3,0.11211644999991677
+C II,C0071.bmp,reference,extract,4,0.1125296850000268
+C II,C0071.bmp,reference,extract,5,0.11257306300001346
+C II,C0071.bmp,reference,extract,6,0.11299509399998442
+C II,C0071.bmp,reference,extract,7,0.11074131599991688
+C II,C0071.bmp,reference,extract,8,0.13271025699998518
+C II,C0071.bmp,reference,extract,9,0.12623885300001803
+C II,C0071.bmp,reference,verify,0,0.060275224000065464
+C II,C0071.bmp,reference,verify,1,0.05817925600001672
+C II,C0071.bmp,reference,verify,2,0.05858181999997214
+C II,C0071.bmp,reference,verify,3,0.058483477999971
+C II,C0071.bmp,reference,verify,4,0.058139429999982895
+C II,C0071.bmp,reference,verify,5,0.059112302000016825
+C II,C0071.bmp,reference,verify,6,0.05830794500002412
+C II,C0071.bmp,reference,verify,7,0.0587419900000441
+C II,C0071.bmp,reference,verify,8,0.062043597000069894
+C II,C0071.bmp,reference,verify,9,0.06243069699996795
+C II,C0071.bmp,vectorized,insert,0,0.016754613999978574
+C II,C0071.bmp,vectorized,insert,1,0.01659319099996992
+C II,C0071.bmp,vectorized,insert,2,0.016825907999987066
+C II,C0071.bmp,vectorized,insert,3,0.0164934040000162
+C II,C0071.bmp,vectorized,insert,4,0.016291210999952455
+C II,C0071.bmp,vectorized,insert,5,0.01819435799995972
+C II,C0071.bmp,vectorized,insert,6,0.017183843999987403
+C II,C0071.bmp,vectorized,insert,7,0.016239961999986008
+C II,C0071.bmp,vectorized,insert,8,0.01633300599996801
+C II,C0071.bmp,vectorized,insert,9,0.016690808000021207
+C II,C0071.bmp,vectorized,extract,0,0.0011067860000366636
+C II,C0071.bmp,vectorized,extract,1,0.0008695029999898907
+C II,C0071.bmp,vectorized,extract,2,0.0007727549999572147
+C II,C0071.bmp,vectorized,extract,3,0.0007382420000112688
+C II,C0071.bmp,vectorized,extract,4,0.0007214979999616844
+C II,C0071.bmp,vectorized,extract,5,0.0008022370000162482
+C II,C0071.bmp,vectorized,extract,6,0.0007684290000042893
+C II,C0071.bmp,vectorized,extract,7,0.000749498000004678
+C II,C0071.bmp,vectorized,extract,8,0.0007148429999688233
+C II,C0071.bmp,vectorized,extract,9,0.0007695719999674111
+C II,C0071.bmp,vectorized,verify,0,0.012425005999944005
+C II,C0071.bmp,vectorized,verify,1,0.012198568000030718
+C II,C0071.bmp,vectorized,verify,2,0.012400632999970185
+C II,C0071.bmp,vectorized,verify,3,0.012379437999925358
+C II,C0071.bmp,vectorized,verify,4,0.012210653000011007
+C II,C0071.bmp,vectorized,verify,5,0.012276605000010932
+C II,C0071.bmp,vectorized,verify,6,0.01236073299992313
+C II,C0071.bmp,vectorized,verify,7,0.012200659999962227
+C II,C0071.bmp,vectorized,verify,8,0.012271828000052665
+C II,C0071.bmp,vectorized,verify,9,0.012606068000081905
+C II,C0123.bmp,reference,insert,0,0.26611495899999227
+C II,C0123.bmp,reference,insert,1,0.2740698570000859
+C II,C0123.bmp,reference,insert,2,0.2792471069999465
+C II,C0123.bmp,reference,insert,3,0.28024013399999603
+C II,C0123.bmp,reference,insert,4,0.28149761700001363
+C II,C0123.bmp,reference,insert,5,0.2846748590000061
+C II,C0123.bmp,reference,insert,6,0.27877196099996127
+C II,C0123.bmp,reference,insert,7,0.28190576800000144
+C II,C0123.bmp,reference,insert,8,0.2798697240000365
+C II,C0123.bmp,reference,insert,9,0.2801998159999357
+C II,C0123.bmp,reference,extract,0,0.12176608599997962
+C II,C0123.bmp,reference,extract,1,0.12314684400007536
+C II,C0123.bmp,reference,extract,2,0.11233970099999624
+C II,C0123.bmp,reference,extract,3,0.12072504600007505
+C II,C0123.bmp,reference,extract,4,0.11827265199997328
+C II,C0123.bmp,reference,extract,5,0.11666874100001223
+C II,C0123.bmp,reference,extract,6,0.11665228899994418
+C II,C0123.bmp,reference,extract,7,0.1125484570000026
+C II,C0123.bmp,reference,extract,8,0.11866544199995133
+C II,C0123.bmp,reference,extract,9,0.1146971550000444
+C II,C0123.bmp,reference,verify,0,0.06632987599994067
+C II,C0123.bmp,reference,verify,1,0.06613642599995728
+C II,C0123.bmp,reference,verify,2,0.06557921900002839
+C II,C0123.bmp,reference,verify,3,0.06639062700003251
+C II,C0123.bmp,reference,verify,4,0.0668257890000632
+C II,C0123.bmp,reference,verify,5,0.06398933499997383
+C II,C0123.bmp,reference,verify,6,0.06474417699996593
+C II,C0123.bmp,reference,verify,7,0.06756973900007779
+C II,C0123.bmp,reference,verify,8,0.06623572799992417
+C II,C0123.bmp,reference,verify,9,0.06484535200002028
+C II,C0123.bmp,vectorized,insert,0,0.017033080000032896
+C II,C0123.bmp,vectorized,insert,1,0.016531572000076267
+C II,C0123.bmp,vectorized,insert,2,0.01638506899996628
+C II,C0123.bmp,vectorized,insert,3,0.018542378000006465
+C II,C0123.bmp,vectorized,insert,4,0.015758065999989412
+C II,C0123.bmp,vectorized,insert,5,0.015809653000019352
+C II,C0123.bmp,vectorized,insert,6,0.01552770499995404
+C II,C0123.bmp,vectorized,insert,7,0.01574201100004302
+C II,C0123.bmp,vectorized,insert,8,0.015969655000048988
+C II,C0123.bmp,vectorized,insert,9,0.01595322599996507
+C II,C0123.bmp,vectorized,extract,0,0.0010079359999508597
+C II,C0123.bmp,vectorized,extract,1,0.0009872389999827647
+C II,C0123.bmp,vectorized,extract,2,0.0007624010000881754
+C II,C0123.bmp,vectorized,extract,3,0.0007643129999905796
+C II,C0123.bmp,vectorized,extract,4,0.000768323999977838
+C II,C0123.bmp,vectorized,extract,5,0.0006601489999411569
+C II,C0123.bmp,vectorized,extract,6,0.0007482790000494788
+C II,C0123.bmp,vectorized,extract,7,0.0007153710000693536
+C II,C0123.bmp,vectorized,extract,8,0.0006531720000566565
+C II,C0123.bmp,vectorized,extract,9,0.0007330839999895034
+C II,C0123.bmp,vectorized,verify,0,0.012104930999953467
+C II,C0123.bmp,vectorized,verify,1,0.012104125000064414
+C II,C0123.bmp,vectorized,verify,2,0.012084287999982735
+C II,C0123.bmp,vectorized,verify,3,0.012107803999924727
+C II,C0123.bmp,vectorized,verify,4,0.011863380000022516
+C II,C0123.bmp,vectorized,verify,5,0.01213557200003379
+C II,C0123.bmp,vectorized,verify,6,0.012507085000038387
+C II,C0123.bmp,vectorized,verify,7,0.012243302000001677
+C II,C0123.bmp,vectorized,verify,8,0.012210019000008288
+C II,C0123.bmp,vectorized,verify,9,0.012112730000012562
+C II,C0126.bmp,reference,insert,0,0.2694305019999774
+C II,C0126.bmp,reference,insert,1,0.27257887800010394
+C II,C0126.bmp,reference,insert,2,0.2736286370000016
+C II,C0126.bmp,reference,insert,3,0.2716787880000311
+C II,C0126.bmp,reference,insert,4,0.27178490899996177
+C II,C0126.bmp,reference,insert,5,0.2715725240000211
+C II,C0126.bmp,reference,insert,6,0.27603431600005024
+C II,C0126.bmp,reference,insert,7,0.27441463699994983
+C II,C0126.bmp,reference,insert,8,0.2718065959999194
+C II,C0126.bmp,reference,insert,9,0.27175798600001144
+C II,C0126.bmp,reference,extract,0,0.11278548500001762
+C II,C0126.bmp,reference,extract,1,0.11170419899997341
+C II,C0126.bmp,reference,extract,2,0.11452649499995005
+C II,C0126.bmp,reference,extract,3,0.11356650699997317
+C II,C0126.bmp,reference,extract,4,0.11198734399999921
+C II,C0126.bmp,reference,extract,5,0.1125580140000011
+C II,C0126.bmp,reference,extract,6,0.11276753899994674
+C II,C0126.bmp,reference,extract,7,0.11246573500000068
+C II,C0126.bmp,reference,extract,8,0.11218398800008345
+C II,C0126.bmp,reference,extract,9,0.1126442730000008
+C II,C0126.bmp,reference,verify,0,0.06188072400004785
+C II,C0126.bmp,reference,verify,1,0.07146591499997612
+C II,C0126.bmp,reference,verify,2,0.0618651789999376
+C II,C0126.bmp,reference,verify,3,0.06187069099996734
+C II,C0126.bmp,reference,verify,4,0.061785331000010046
+C II,C0126.bmp,reference,verify,5,0.061578308000093784
+C II,C0126.bmp,reference,verify,6,0.06188946500003567
+C II,C0126.bmp,reference,verify,7,0.06182344999990619
+C II,C0126.bmp,reference,verify,8,0.061764875999983815
+C II,C0126.bmp,reference,verify,9,0.06172070600007373
+C II,C0126.bmp,vectorized,insert,0,0.01711311300005036
+C II,C0126.bmp,vectorized,insert,1,0.017574964999994336
+C II,C0126.bmp,vectorized,insert,2,0.01631809399998474
+C II,C0126.bmp,vectorized,insert,3,0.016032271999961267
+C II,C0126.bmp,vectorized,insert,4,0.01617125699999633
+C II,C0126.bmp,vectorized,insert,5,0.015949241000043912
+C II,C0126.bmp,vectorized,insert,6,0.016107535999935862
+C II,C0126.bmp,vectorized,insert,7,0.016062314000009792
+C II,C0126.bmp,vectorized,insert,8,0.01604318899990176
+C II,C0126.bmp,vectorized,insert,9,0.016142528999921524
+C II,C0126.bmp,vectorized,extract,0,0.0011709840000548866
+C II,C0126.bmp,vectorized,extract,1,0.0009598899999900823
+C II,C0126.bmp,vectorized,extract,2,0.0008776219999617751
+C II,C0126.bmp,vectorized,extract,3,0.0007860040000196022
+C II,C0126.bmp,vectorized,extract,4,0.000805660000082753
+C II,C0126.bmp,vectorized,extract,5,0.0007246179999356173
+C II,C0126.bmp,vectorized,extract,6,0.0007512669999414356
+C II,C0126.bmp,vectorized,extract,7,0.0007752760000130365
+C II,C0126.bmp,vectorized,extract,8,0.0007750239999495534
+C II,C0126.bmp,vectorized,extract,9,0.000822771000002831
+C II,C0126.bmp,vectorized,verify,0,0.012002240000015263
+C II,C0126.bmp,vectorized,verify,1,0.012036112000032517
+C II,C0126.bmp,vectorized,verify,2,0.01193142900001476
+C II,C0126.bmp,vectorized,verify,3,0.012106329000062033
+C II,C0126.bmp,vectorized,verify,4,0.012063340999930006
+C II,C0126.bmp,vectorized,verify,5,0.012355473999946298
+C II,C0126.bmp,vectorized,verify,6,0.011408989000074143
+C II,C0126.bmp,vectorized,verify,7,0.012402066000049672
+C II,C0126.bmp,vectorized,verify,8,0.011427140999899166
+C II,C0126.bmp,vectorized,verify,9,0.01131812699998136
+C II,C0163.bmp,reference,insert,0,0.2647270979999803
+C II,C0163.bmp,reference,insert,1,0.2731580050000275
+C II,C0163.bmp,reference,insert,2,0.27086541599999236
+C II,C0163.bmp,reference,insert,3,0.27176100999997743
+C II,C0163.bmp,reference,insert,4,0.2766467440000042
+C II,C0163.bmp,reference,insert,5,0.27454266000006555
+C II,C0163.bmp,reference,insert,6,0.2763632459999599
+C II,C0163.bmp,reference,insert,7,0.2763540359999297
+C II,C0163.bmp,reference,insert,8,0.27176625099991725
+C II,C0163.bmp,reference,insert,9,0.2712152240000023
+C II,C0163.bmp,reference,extract,0,0.11198614199997792
+C II,C0163.bmp,reference,extract,1,0.11176672600004167
+C II,C0163.bmp,reference,extract,2,0.11180356900001698
+C II,C0163.bmp,reference,extract,3,0.11216938400002618
+C II,C0163.bmp,reference,extract,4,0.11357602099997166
+C II,C0163.bmp,reference,extract,5,0.1130422380000482
+C II,C0163.bmp,reference,extract,6,0.11254484300002332
+C II,C0163.bmp,reference,extract,7,0.11296059999995123
+C II,C0163.bmp,reference,extract,8,0.11287630599997556
+C II,C0163.bmp,reference,extract,9,0.11253140200005873
+C II,C0163.bmp,reference,verify,0,0.06316265600003135
+C II,C0163.bmp,reference,verify,1,0.062344589999952404
+C II,C0163.bmp,reference,verify,2,0.06252969099989514
+C II,C0163.bmp,reference,verify,3,0.06276683900000535
+C II,C0163.bmp,reference,verify,4,0.06248332899997422
+C II,C0163.bmp,reference,verify,5,0.0627043509999794
+C II,C0163.bmp,reference,verify,6,0.06234138500008157
+C II,C0163.bmp,reference,verify,7,0.06264763000001494
+C II,C0163.bmp,reference,verify,8,0.06243921199995839
+C II,C0163.bmp,reference,verify,9,0.06255243800001153
+C II,C0163.bmp,vectorized,insert,0,0.016693461999921055
+C II,C0163.bmp,vectorized,insert,1,0.016500874000030308
+C II,C0163.bmp,vectorized,insert,2,0.016449822999902608
+C II,C0163.bmp,vectorized,insert,3,0.016450831000042854
+C II,C0163.bmp,vectorized,insert,4,0.016409214999953292
+C II,C0163.bmp,vectorized,insert,5,0.016454460999966614
+C II,C0163.bmp,vectorized,insert,6,0.016535678000082044
+C II,C0163.bmp,vectorized,insert,7,0.016453077000051053
+C II,C0163.bmp,vectorized,insert,8,0.016563736999955836
+C II,C0163.bmp,vectorized,insert,9,0.01629893999995602
+C II,C0163.bmp,vectorized,extract,0,0.0010530590000144002
+C II,C0163.bmp,vectorized,extract,1,0.0009808889999476378
+C II,C0163.bmp,vectorized,extract,2,0.0008326090000991826
+C II,C0163.bmp,vectorized,extract,3,0.0006863830000156668
+C II,C0163.bmp,vectorized,extract,4,0.0007587829999238238
+C II,C0163.bmp,vectorized,extract,5,0.0007745350000050166
+C II,C0163.bmp,vectorized,extract,6,0.000775792000013098
+C II,C0163.bmp,vectorized,extract,7,0.0007105240000555568
+C II,C0163.bmp,vectorized,extract,8,0.0007921779999833234
+C II,C0163.bmp,vectorized,extract,9,0.000762281999982406
+C II,C0163.bmp,vectorized,verify,0,0.012103746000093452
+C II,C0163.bmp,vectorized,verify,1,0.012200936999988699
+C II,C0163.bmp,vectorized,verify,2,0.01245095299998411
+C II,C0163.bmp,vectorized,verify,3,0.012122060000024248
+C II,C0163.bmp,vectorized,verify,4,0.012214562000053775
+C II,C0163.bmp,vectorized,verify,5,0.012243032000014864
+C II,C0163.bmp,vectorized,verify,6,0.012219813000001523
+C II,C0163.bmp,vectorized,verify,7,0.01200925399996322
+C II,C0163.bmp,vectorized,verify,8,0.012145454999995309
+C II,C0163.bmp,vectorized,verify,9,0.012114372999917578
+C II,C0218.bmp,reference,insert,0,0.2759516520000034
+C II,C0218.bmp,reference,insert,1,0.27770025699999223
+C II,C0218.bmp,reference,insert,2,0.27820409200000995
+C II,C0218.bmp,reference,insert,3,0.2778089790000422
+C II,C0218.bmp,reference,insert,4,0.29742270799999915
+C II,C0218.bmp,reference,insert,5,0.2649538450000364
+C II,C0218.bmp,reference,insert,6,0.26806697099993926
+C II,C0218.bmp,reference,insert,7,0.2636949989999948
+C II,C0218.bmp,reference,insert,8,0.26589696400003504
+C II,C0218.bmp,reference,insert,9,0.28914154500000677
+C II,C0218.bmp,reference,extract,0,0.12159575900000164
+C II,C0218.bmp,reference,extract,1,0.11455325499991886
+C II,C0218.bmp,reference,extract,2,0.13260014599995884
+C II,C0218.bmp,reference,extract,3,0.1540895159999991
+C II,C0218.bmp,reference,extract,4,0.17968526499998916
+C II,C0218.bmp,reference,extract,5,0.12029098100003921
+C II,C0218.bmp,reference,extract,6,0.11536690100001579
+C II,C0218.bmp,reference,extract,7,0.13876909400005388
+C II,C0218.bmp,reference,extract,8,0.15340425599993068
+C II,C0218.bmp,reference,extract,9,0.14074981200008096
+C II,C0218.bmp,reference,verify,0,0.06367939400001887
+C II,C0218.bmp,reference,verify,1,0.0663288119999379
+C II,C0218.bmp,reference,verify,2,0.11765989299999546
+C II,C0218.bmp,reference,verify,3,0.0772801130000289
+C II,C0218.bmp,reference,verify,4,0.0688207240000338
+C II,C0218.bmp,reference,verify,5,0.0667148109999971
+C II,C0218.bmp,reference,verify,6,0.06833785799994985
+C II,C0218.bmp,reference,verify,7,0.06476106500008427
+C II,C0218.bmp,reference,verify,8,0.0634437030000754
+C II,C0218.bmp,reference,verify,9,0.07651844200006508
+C II,C0218.bmp,vectorized,insert,0,0.02089329099999304
+C II,C0218.bmp,vectorized,insert,1,0.017265784000073836
+C II,C0218.bmp,vectorized,insert,2,0.01763434600002256
+C II,C0218.bmp,vectorized,insert,3,0.01672039200002473
+C II,C0218.bmp,vectorized,insert,4,0.01698847900001965
+C II,C0218.bmp,vectorized,insert,5,0.01740327699997124
+C II,C0218.bmp,vectorized,insert,6,0.016607938999982252
+C II,C0218.bmp,vectorized,insert,7,0.01667502800000875
+C II,C0218.bmp,vectorized,insert,8,0.01714217899996129
+C II,C0218.bmp,vectorized,insert,9,0.016586624999945343
+C II,C0218.bmp,vectorized,extract,0,0.0010509920000458806
+C II,C0218.bmp,vectorized,extract,1,0.0009045189999596914
+C II,C0218.bmp,vectorized,extract,2,0.0007654749999801425
+C II,C0218.bmp,vectorized,extract,3,0.0007628260000274167
+C II,C0218.bmp,vectorized,extract,4,0.0007173269999611875
+C II,C0218.bmp,vectorized,extract,5,0.0007682750000412852
+C II,C0218.bmp,vectorized,extract,6,0.0008062100000643113
+C II,C0218.bmp,vectorized,extract,7,0.0007484800000838732
+C II,C0218.bmp,vectorized,extract,8,0.0007433309999669291
+C II,C0218.bmp,vectorized,extract,9,0.000774817999968036
+C II,C0218.bmp,vectorized,verify,0,0.012055086999907871
+C II,C0218.bmp,vectorized,verify,1,0.01204125499998554
+C II,C0218.bmp,vectorized,verify,2,0.012132970999914505
+C II,C0218.bmp,vectorized,verify,3,0.01213073099995654
+C II,C0218.bmp,vectorized,verify,4,0.01250034700001379
+C II,C0218.bmp,vectorized,verify,5,0.012703982000061842
+C II,C0218.bmp,vectorized,verify,6,0.015033303999985037
+C II,C0218.bmp,vectorized,verify,7,0.012392954000006284
+C II,C0218.bmp,vectorized,verify,8,0.012949206000030244
+C II,C0218.bmp,vectorized,verify,9,0.012214408999966508
+C II,C0309.bmp,reference,insert,0,0.29140837700003885
+C II,C0309.bmp,reference,insert,1,0.3012662390000287
+C II,C0309.bmp,reference,insert,2,0.2876775739999857
+C II,C0309.bmp,reference,insert,3,0.314693831999989
+C II,C0309.bmp,reference,insert,4,0.29973263299996233
+C II,C0309.bmp,reference,insert,5,0.29517254700010653
+C II,C0309.bmp,reference,insert,6,0.2976527929999975
+C II,C0309.bmp,reference,insert,7,0.2806615790000251
+C II,C0309.bmp,reference,insert,8,0.2824074010000004
+C II,C0309.bmp,reference,insert,9,0.2802713699999231
+C II,C0309.bmp,reference,extract,0,0.11547892600003706
+C II,C0309.bmp,reference,extract,1,0.12838691299998573
+C II,C0309.bmp,reference,extract,2,0.12886055299998134
+C II,C0309.bmp,reference,extract,3,0.12330101700001705
+C II,C0309.bmp,reference,extract,4,0.11777690200005964
+C II,C0309.bmp,reference,extract,5,0.12781986099992082
+C II,C0309.bmp,reference,extract,6,0.17374094399997375
+C II,C0309.bmp,reference,extract,7,0.11997855699996762
+C II,C0309.bmp,reference,extract,8,0.1053726430000097
+C II,C0309.bmp,reference,extract,9,0.11107417300001998
+C II,C0309.bmp,reference,verify,0,0.06000909199997295
+C II,C0309.bmp,reference,verify,1,0.06051459499997236
+C II,C0309.bmp,reference,verify,2,0.0613880790000394
+C II,C0309.bmp,reference,verify,3,0.05950665400007438
+C II,C0309.bmp,reference,verify,4,0.05947525700003098
+C II,C0309.bmp,reference,verify,5,0.05920625500004917
+C II,C0309.bmp,reference,verify,6,0.06682368500003122
+C II,C0309.bmp,reference,verify,7,0.07285980699998618
+C II,C0309.bmp,reference,verify,8,0.06487953599992125
+C II,C0309.bmp,reference,verify,9,0.0879388519999793
+C II,C0309.bmp,vectorized,insert,0,0.016991568999969786
+C II,C0309.bmp,vectorized,insert,1,0.017263484999944012
+C II,C0309.bmp,vectorized,insert,2,0.016274672999998074
+C II,C0309.bmp,vectorized,insert,3,0.016199412999981178
+C II,C0309.bmp,vectorized,insert,4,0.016110475999994378
+C II,C0309.bmp,vectorized,insert,5,0.016518273000087902
+C II,C0309.bmp,vectorized,insert,6,0.02099714500002392
+C II,C0309.bmp,vectorized,insert,7,0.016559357999994972
+C II,C0309.bmp,vectorized,insert,8,0.016440253000041594
+C II,C0309.bmp,vectorized,insert,9,0.01610182399997484
+C II,C0309.bmp,vectorized,extract,0,0.0010396110000101544
+C II,C0309.bmp,vectorized,extract,1,0.0008813440000494666
+C II,C0309.bmp,vectorized,extract,2,0.0007854199999428602
+C II,C0309.bmp,vectorized,extract,3,0.0007766429999946922
+C II,C0309.bmp,vectorized,extract,4,0.0007267040000442648
+C II,C0309.bmp,vectorized,extract,5,0.0007567150000795664
+C II,C0309.bmp,vectorized,extract,6,0.0006753559999879144
+C II,C0309.bmp,vectorized,extract,7,0.0007248659999277152
+C II,C0309.bmp,vectorized,extract,8,0.0007073579999996582
+C II,C0309.bmp,vectorized,extract,9,0.000674156999934894
+C II,C0309.bmp,vectorized,verify,0,0.01227627899993422
+C II,C0309.bmp,vectorized,verify,1,0.012413231999971686
+C II,C0309.bmp,vectorized,verify,2,0.012245476999964922
+C II,C0309.bmp,vectorized,verify,3,0.0121457970000165
+C II,C0309.bmp,vectorized,verify,4,0.012086199999998826
+C II,C0309.bmp,vectorized,verify,5,0.013046127999928103
+C II,C0309.bmp,vectorized,verify,6,0.012735402999965117
+C II,C0309.bmp,vectorized,verify,7,0.01250103899997157
+C II,C0309.bmp,vectorized,verify,8,0.012489994000020488
+C II,C0309.bmp,vectorized,verify,9,0.01223647599999822
+C II,C0411.bmp,reference,insert,0,0.33890264199999365
+C II,C0411.bmp,reference,insert,1,0.30419499700008146
+C II,C0411.bmp,reference,insert,2,0.30731416100002207
+C II,C0411.bmp,reference,insert,3,0.2893397720000621
+C II,C0411.bmp,reference,insert,4,0.29033846199990876
+C II,C0411.bmp,reference,insert,5,0.30267249899998205
+C II,C0411.bmp,reference,insert,6,0.3151257339999347
+C II,C0411.bmp,reference,insert,7,0.2918035110000119
+C II,C0411.bmp,reference,insert,8,0.2966438820000121
+C II,C0411.bmp,reference,insert,9,0.3142896409999594
+C II,C0411.bmp,reference,extract,0,0.10940663899998526
+C II,C0411.bmp,reference,extract,1,0.1104501940000091
+C II,C0411.bmp,reference,extract,2,0.10909078400004546
+C II,C0411.bmp,reference,extract,3,0.10648685000001024
+C II,C0411.bmp,reference,extract,4,0.11040806999994857
+C II,C0411.bmp,reference,extract,5,0.11667918000000554
+C II,C0411.bmp,reference,extract,6,0.11280518499995651
+C II,C0411.bmp,reference,extract,7,0.1119985049999741
+C II,C0411.bmp,reference,extract,8,0.1217483909999828
+C II,C0411.bmp,reference,extract,9,0.16281082000000424
+C II,C0411.bmp,reference,verify,0,0.06193479800003843
+C II,C0411.bmp,reference,verify,1,0.06187382699999944
+C II,C0411.bmp,reference,verify,2,0.06161100399992847
+C II,C0411.bmp,reference,verify,3,0.061418164999963665
+C II,C0411.bmp,reference,verify,4,0.06182857199996761
+C II,C0411.bmp,reference,verify,5,0.06704794000006586
+C II,C0411.bmp,reference,verify,6,0.06373998200001552
+C II,C0411.bmp,reference,verify,7,0.061503261000098064
+C II,C0411.bmp,reference,verify,8,0.06131907399992542
+C II,C0411.bmp,reference,verify,9,0.061758347000022695
+C II,C0411.bmp,vectorized,insert,0,0.016795082000044204
+C II,C0411.bmp,vectorized,insert,1,0.016645155999981398
+C II,C0411.bmp,vectorized,insert,2,0.017622283000036987
+C II,C0411.bmp,vectorized,insert,3,0.016557178000084605
+C II,C0411.bmp,vectorized,insert,4,0.016644326000005094
+C II,C0411.bmp,vectorized,insert,5,0.016346209999937855
+C II,C0411.bmp,vectorized,insert,6,0.01679488600007062
+C II,C0411.bmp,vectorized,insert,7,0.019806756999969366
+C II,C0411.bmp,vectorized,insert,8,0.0164144729999407
+C II,C0411.bmp,vectorized,insert,9,0.01666143700003886
+C II,C0411.bmp,vectorized,extract,0,0.0012273319999849264
+C II,C0411.bmp,vectorized,extract,1,0.0012956450000274344
+C II,C0411.bmp,vectorized,extract,2,0.0010070470000300702
+C II,C0411.bmp,vectorized,extract,3,0.001959518000035132
+C II,C0411.bmp,vectorized,extract,4,0.0006857879999415673
+C II,C0411.bmp,vectorized,extract,5,0.0007547769999973752
+C II,C0411.bmp,vectorized,extract,6,0.001227270000072167
+C II,C0411.bmp,vectorized,extract,7,0.000996615999952155
+C II,C0411.bmp,vectorized,extract,8,0.0007963589999917531
+C II,C0411.bmp,vectorized,extract,9,0.0010095420000197919
+C II,C0411.bmp,vectorized,verify,0,0.013124944999958643
+C II,C0411.bmp,vectorized,verify,1,0.013442552000014985
+C II,C0411.bmp,vectorized,verify,2,0.012520362000032037
+C II,C0411.bmp,vectorized,verify,3,0.012901705000103902
+C II,C0411.bmp,vectorized,verify,4,0.013324517000000924
+C II,C0411.bmp,vectorized,verify,5,0.014489120999996885
+C II,C0411.bmp,vectorized,verify,6,0.01288244800002758
+C II,C0411.bmp,vectorized,verify,7,0.013054627999963486
+C II,C0411.bmp,vectorized,verify,8,0.013737183999978697
+C II,C0411.bmp,vectorized,verify,9,0.012408057000016015
+C II,C0635.bmp,reference,insert,0,0.3134792700000162
+C II,C0635.bmp,reference,insert,1,0.3176581290000513
+C II,C0635.bmp,reference,insert,2,0.29583099499996024
+C II,C0635.bmp,reference,insert,3,0.2910859830000163
+C II,C0635.bmp,reference,insert,4,0.28746389300010833
+C II,C0635.bmp,reference,insert,5,0.2779871019999973
+C II,C0635.bmp,reference,insert,6,0.27713274400002774
+C II,C0635.bmp,reference,insert,7,0.28186949000007644
+C II,C0635.bmp,reference,insert,8,0.2863969420000103
+C II,C0635.bmp,reference,insert,9,0.2732580309999548
+C II,C0635.bmp,reference,extract,0,0.10930882699994982
+C II,C0635.bmp,reference,extract,1,0.11824706799995965
+C II,C0635.bmp,reference,extract,2,0.1138845749999291
+C II,C0635.bmp,reference,extract,3,0.11530981699991116
+C II,C0635.bmp,reference,extract,4,0.15037912700006473
+C II,C0635.bmp,reference,extract,5,0.11891981700000542
+C II,C0635.bmp,reference,extract,6,0.12196212100002413
+C II,C0635.bmp,reference,extract,7,0.12155364900002041
+C II,C0635.bmp,reference,extract,8,0.11640779300000759
+C II,C0635.bmp,reference,extract,9,0.12404158299989376
+C II,C0635.bmp,reference,verify,0,0.06375724899999113
+C II,C0635.bmp,reference,verify,1,0.06248648600001161
+C II,C0635.bmp,reference,verify,2,0.06653881099998671
+C II,C0635.bmp,reference,verify,3,0.06211526000004142
+C II,C0635.bmp,reference,verify,4,0.06300721499997053
+C II,C0635.bmp,reference,verify,5,0.0683787589999838
+C II,C0635.bmp,reference,verify,6,0.06812238899999556
+C II,C0635.bmp,reference,verify,7,0.06703265900000588
+C II,C0635.bmp,reference,verify,8,0.061305158999971354
+C II,C0635.bmp,reference,verify,9,0.06455027399999835
+C II,C0635.bmp,vectorized,insert,0,0.024248368000030496
+C II,C0635.bmp,vectorized,insert,1,0.019427726999992956
+C II,C0635.bmp,vectorized,insert,2,0.021304758999917794
+C II,C0635.bmp,vectorized,insert,3,0.016833765000001222
+C II,C0635.bmp,vectorized,insert,4,0.017059402999962003
+C II,C0635.bmp,vectorized,insert,5,0.016593760999967344
+C II,C0635.bmp,vectorized,insert,6,0.01647306400002435
+C II,C0635.bmp,vectorized,insert,7,0.016512106000050153
+C II,C0635.bmp,vectorized,insert,8,0.016386291999992864
+C II,C0635.bmp,vectorized,insert,9,0.016281923000065035
+C II,C0635.bmp,vectorized,extract,0,0.0010373970000046029
+C II,C0635.bmp,vectorized,extract,1,0.001014840999914668
+C II,C0635.bmp,vectorized,extract,2,0.0008148059999939505
+C II,C0635.bmp,vectorized,extract,3,0.0007976079999707508
+C II,C0635.bmp,vectorized,extract,4,0.0007101769999735552
+C II,C0635.bmp,vectorized,extract,5,0.0007460260000016206
+C II,C0635.bmp,vectorized,extract,6,0.000798992999989423
+C II,C0635.bmp,vectorized,extract,7,0.0007696979999991527
+C II,C0635.bmp,vectorized,extract,8,0.0007407640000565152
+C II,C0635.bmp,vectorized,extract,9,0.0007512619999943126
+C II,C0635.bmp,vectorized,verify,0,0.01207847299997411
+C II,C0635.bmp,vectorized,verify,1,0.012140000000044893
+C II,C0635.bmp,vectorized,verify,2,0.012132126000096832
+C II,C0635.bmp,vectorized,verify,3,0.012181403999989016
+C II,C0635.bmp,vectorized,verify,4,0.011955919000001813
+C II,C0635.bmp,vectorized,verify,5,0.012236412999982349
+C II,C0635.bmp,vectorized,verify,6,0.012044124999988526
+C II,C0635.bmp,vectorized,verify,7,0.012079289999974208
+C II,C0635.bmp,vectorized,verify,8,0.012027710000097613
+C II,C0635.bmp,vectorized,verify,9,0.014791522999985318
+C II,C0869.bmp,reference,insert,0,0.27738738000005014
+C II,C0869.bmp,reference,insert,1,0.27608955799996693
+C II,C0869.bmp,reference,insert,2,0.2776669549999724
+C II,C0869.bmp,reference,insert,3,0.2960487209999201
+C II,C0869.bmp,reference,insert,4,0.2965706620000219
+C II,C0869.bmp,reference,insert,5,0.27877559199998814
+C II,C0869.bmp,reference,insert,6,0.277832525000008
+C II,C0869.bmp,reference,insert,7,0.26527406200000314
+C II,C0869.bmp,reference,insert,8,0.2665948320000098
+C II,C0869.bmp,reference,insert,9,0.2674645090000922
+C II,C0869.bmp,reference,extract,0,0.11153585900001417
+C II,C0869.bmp,reference,extract,1,0.11196868299998641
+C II,C0869.bmp,reference,extract,2,0.11166333300002407
+C II,C0869.bmp,reference,extract,3,0.11229951300003904
+C II,C0869.bmp,reference,extract,4,0.11199043699991762
+C II,C0869.bmp,reference,extract,5,0.11274317900006281
+C II,C0869.bmp,reference,extract,6,0.1124888289999717
+C II,C0869.bmp,reference,extract,7,0.11228386199991292
+C II,C0869.bmp,reference,extract,8,0.11244891399996959
+C II,C0869.bmp,reference,extract,9,0.11314553700003671
+C II,C0869.bmp,reference,verify,0,0.0621432550000236
+C II,C0869.bmp,reference,verify,1,0.0624655230000144
+C II,C0869.bmp,reference,verify,2,0.06266932799996994
+C II,C0869.bmp,reference,verify,3,0.061784781999904226
+C II,C0869.bmp,reference,verify,4,0.06254469199996038
+C II,C0869.bmp,reference,verify,5,0.06175448800001959
+C II,C0869.bmp,reference,verify,6,0.06159127399996578
+C II,C0869.bmp,reference,verify,7,0.06176961900007427
+C II,C0869.bmp,reference,verify,8,0.062035205999904974
+C II,C0869.bmp,reference,verify,9,0.06179494799994245
+C II,C0869.bmp,vectorized,insert,0,0.016939393999905406
+C II,C0869.bmp,vectorized,insert,1,0.016734962999976233
+C II,C0869.bmp,vectorized,insert,2,0.016781126999944718
+C II,C0869.bmp,vectorized,insert,3,0.016897282000059022
+C II,C0869.bmp,vectorized,insert,4,0.016656325999974797
+C II,C0869.bmp,vectorized,insert,5,0.0165178450000667
+C II,C0869.bmp,vectorized,insert,6,0.016344549999985247
+C II,C0869.bmp,vectorized,insert,7,0.016347324999969715
+C II,C0869.bmp,vectorized,insert,8,0.016335143999981483
+C II,C0869.bmp,vectorized,insert,9,0.016439499000057367
+C II,C0869.bmp,vectorized,extract,0,0.001071404000072107
+C II,C0869.bmp,vectorized,extract,1,0.0007760350000580729
+C II,C0869.bmp,vectorized,extract,2,0.0008236029999579841
+C II,C0869.bmp,vectorized,extract,3,0.0007771489999868209
+C II,C0869.bmp,vectorized,extract,4,0.0007501620000311959
+C II,C0869.bmp,vectorized,extract,5,0.0007171149999294357
+C II,C0869.bmp,vectorized,extract,6,0.0007690950000096564
+C II,C0869.bmp,vectorized,extract,7,0.0008225970000239613
+C II,C0869.bmp,vectorized,extract,8,0.0007497059999650446
+C II,C0869.bmp,vectorized,extract,9,0.0007855029999745966
+C II,C0869.bmp,vectorized,verify,0,0.012093854999989162
+C II,C0869.bmp,vectorized,verify,1,0.012139341000079185
+C II,C0869.bmp,vectorized,verify,2,0.012229484000044977
+C II,C0869.bmp,vectorized,verify,3,0.012217000999953598
+C II,C0869.bmp,vectorized,verify,4,0.012134301000060077
+C II,C0869.bmp,vectorized,verify,5,0.012228578000076595
+C II,C0869.bmp,vectorized,verify,6,0.012118834999910177
+C II,C0869.bmp,vectorized,verify,7,0.012277933999939705
+C II,C0869.bmp,vectorized,verify,8,0.012117682999928547
+C II,C0869.bmp,vectorized,verify,9,0.012160543999925721
+C II,C0886.bmp,reference,insert,0,0.2816917889999786
+C II,C0886.bmp,reference,insert,1,0.27864560800003346
+C II,C0886.bmp,reference,insert,2,0.2825532889999067
+C II,C0886.bmp,reference,insert,3,0.2853496179999411
+C II,C0886.bmp,reference,insert,4,0.2827595490000476
+C II,C0886.bmp,reference,insert,5,0.2820918239999628
+C II,C0886.bmp,reference,insert,6,0.2794316339999341
+C II,C0886.bmp,reference,insert,7,0.2825405039999396
+C II,C0886.bmp,reference,insert,8,0.28442814000004546
+C II,C0886.bmp,reference,insert,9,0.2835216329999639
+C II,C0886.bmp,reference,extract,0,0.12211466300004759
+C II,C0886.bmp,reference,extract,1,0.11144714699992164
+C II,C0886.bmp,reference,extract,2,0.11429776700003913
+C II,C0886.bmp,reference,extract,3,0.11318874400001278
+C II,C0886.bmp,reference,extract,4,0.11123958199993922
+C II,C0886.bmp,reference,extract,5,0.1186540269999341
+C II,C0886.bmp,reference,extract,6,0.11397311500002161
+C II,C0886.bmp,reference,extract,7,0.11331928000004154
+C II,C0886.bmp,reference,extract,8,0.11323239400007878
+C II,C0886.bmp,reference,extract,9,0.11250342499999988
+C II,C0886.bmp,reference,verify,0,0.08756567199998244
+C II,C0886.bmp,reference,verify,1,0.06322126600002775
+C II,C0886.bmp,reference,verify,2,0.0626972919999389
+C II,C0886.bmp,reference,verify,3,0.06300634700005503
+C II,C0886.bmp,reference,verify,4,0.07003155699999297
+C II,C0886.bmp,reference,verify,5,0.06286845700003596
+C II,C0886.bmp,reference,verify,6,0.06325153799991767
+C II,C0886.bmp,reference,verify,7,0.062213802999963264
+C II,C0886.bmp,reference,verify,8,0.06368202800001654
+C II,C0886.bmp,reference,verify,9,0.06313045599995348
+C II,C0886.bmp,vectorized,insert,0,0.017001645000050303
+C II,C0886.bmp,vectorized,insert,1,0.016953667999928257
+C II,C0886.bmp,vectorized,insert,2,0.016391646999977638
+C II,C0886.bmp,vectorized,insert,3,0.016390495999985433
+C II,C0886.bmp,vectorized,insert,4,0.016351837999991403
+C II,C0886.bmp,vectorized,insert,5,0.016285195000023123
+C II,C0886.bmp,vectorized,insert,6,0.016364883000051123
+C II,C0886.bmp,vectorized,insert,7,0.01632117899998775
+C II,C0886.bmp,vectorized,insert,8,0.016206783000029645
+C II,C0886.bmp,vectorized,insert,9,0.01663918899998862
+C II,C0886.bmp,vectorized,extract,0,0.001012925999930303
+C II,C0886.bmp,vectorized,extract,1,0.0009291400000392969
+C II,C0886.bmp,vectorized,extract,2,0.0008069269999850803
+C II,C0886.bmp,vectorized,extract,3,0.0007883869999432136
+C II,C0886.bmp,vectorized,extract,4,0.0007384479999927862
+C II,C0886.bmp,vectorized,extract,5,0.000702430000046661
+C II,C0886.bmp,vectorized,extract,6,0.0007984759999999369
+C II,C0886.bmp,vectorized,extract,7,0.0007776499999181397
+C II,C0886.bmp,vectorized,extract,8,0.0007837540000537047
+C II,C0886.bmp,vectorized,extract,9,0.0006806690000757953
+C II,C0886.bmp,vectorized,verify,0,0.01204778700002862
+C II,C0886.bmp,vectorized,verify,1,0.012019841999972414
+C II,C0886.bmp,vectorized,verify,2,0.011978419999991274
+C II,C0886.bmp,vectorized,verify,3,0.012005138000063198
+C II,C0886.bmp,vectorized,verify,4,0.012108009000030506
+C II,C0886.bmp,vectorized,verify,5,0.012112549999983457
+C II,C0886.bmp,vectorized,verify,6,0.012034293999931833
+C II,C0886.bmp,vectorized,verify,7,0.012098964000074375
+C II,C0886.bmp,vectorized,verify,8,0.012732151000022895
+C II,C0886.bmp,vectorized,verify,9,0.012180651999983638
+M I,C0071.bmp,reference,insert,0,0.27001908599993385
+M I,C0071.bmp,reference,insert,1,0.28159190300004866
+M I,C0071.bmp,reference,insert,2,0.2733540689999927
+M I,C0071.bmp,reference,insert,3,0.28029927799991583
+M I,C0071.bmp,reference,insert,4,0.2877307420000079
+M I,C0071.bmp,reference,insert,5,0.28853424500005076
+M I,C0071.bmp,reference,insert,6,0.2881016970000019
+M I,C0071.bmp,reference,insert,7,0.2907834739999089
+M I,C0071.bmp,reference,insert,8,0.3271735199999739
+M I,C0071.bmp,reference,insert,9,0.288726143999952
+M I,C0071.bmp,reference,extract,0,0.12096806800002469
+M I,C0071.bmp,reference,extract,1,0.11929500299993379
+M I,C0071.bmp,reference,extract,2,0.11571838099996512
+M I,C0071.bmp,reference,extract,3,0.11928037400002722
+M I,C0071.bmp,reference,extract,4,0.11620143400000416
+M I,C0071.bmp,reference,extract,5,0.13075945299999603
+M I,C0071.bmp,reference,extract,6,0.11966652499995689
+M I,C0071.bmp,reference,extract,7,0.11725455999999213
+M I,C0071.bmp,reference,extract,8,0.11641585400002441
+M I,C0071.bmp,reference,extract,9,0.11854778100007479
+M I,C0071.bmp,reference,verify,0,0.06341047299997626
+M I,C0071.bmp,reference,verify,1,0.06396330299992314
+M I,C0071.bmp,reference,verify,2,0.06406603499999619
+M I,C0071.bmp,reference,verify,3,0.06298666400005004
+M I,C0071.bmp,reference,verify,4,0.06710694899993541
+M I,C0071.bmp,reference,verify,5,0.06634400899997672
+M I,C0071.bmp,reference,verify,6,0.06266685800005689
+M I,C0071.bmp,reference,verify,7,0.06249174699996729
+M I,C0071.bmp,reference,verify,8,0.06481577600004584
+M I,C0071.bmp,reference,verify,9,0.06405744600010621
+M I,C0071.bmp,vectorized,insert,0,0.016576464999957352
+M I,C0071.bmp,vectorized,insert,1,0.016625395999994907
+M I,C0071.bmp,vectorized,insert,2,0.016593961000012314
+M I,C0071.bmp,vectorized,insert,3,0.01654541400000653
+M I,C0071.bmp,vectorized,insert,4,0.01675379299990709
+M I,C0071.bmp,vectorized,insert,5,0.016457860000059554
+M I,C0071.bmp,vectorized,insert,6,0.016350768000052085
+M I,C0071.bmp,vectorized,insert,7,0.015973110999993878
+M I,C0071.bmp,vectorized,insert,8,0.016732296999975915
+M I,C0071.bmp,vectorized,insert,9,0.016426628999965942
+M I,C0071.bmp,vectorized,extract,0,0.0010942689999637878
+M I,C0071.bmp,vectorized,extract,1,0.0008049820000906038
+M I,C0071.bmp,vectorized,extract,2,0.0007722110000258908
+M I,C0071.bmp,vectorized,extract,3,0.0007704970000759204
+M I,C0071.bmp,vectorized,extract,4,0.0007727729999942312
+M I,C0071.bmp,vectorized,extract,5,0.0007030179999674147
+M I,C0071.bmp,vectorized,extract,6,0.0007696049999594834
+M I,C0071.bmp,vectorized,extract,7,0.0007675949999566001
+M I,C0071.bmp,vectorized,extract,8,0.0007489330000680638
+M I,C0071.bmp,vectorized,extract,9,0.0007733470000630405
+M I,C0071.bmp,vectorized,verify,0,0.012123687999974209
+M I,C0071.bmp,vectorized,verify,1,0.013274259000013444
+M I,C0071.bmp,vectorized,verify,2,0.012047480999967775
+M I,C0071.bmp,vectorized,verify,3,0.012129105999974854
+M I,C0071.bmp,vectorized,verify,4,0.012411421000024347
+M I,C0071.bmp,vectorized,verify,5,0.012328179999940403
+M I,C0071.bmp,vectorized,verify,6,0.012132464999922377
+M I,C0071.bmp,vectorized,verify,7,0.012917726999944534
+M I,C0071.bmp,vectorized,verify,8,0.012133267999956843
+M I,C0071.bmp,vectorized,verify,9,0.012329913000030501
+M I,C0123.bmp,reference,insert,0,0.28090603099997224
+M I,C0123.bmp,reference,insert,1,0.2766515429999572
+M I,C0123.bmp,reference,insert,2,0.2829079800000045
+M I,C0123.bmp,reference,insert,3,0.28749529399999574
+M I,C0123.bmp,reference,insert,4,0.28080024300004425
+M I,C0123.bmp,reference,insert,5,0.276106604000006
+M I,C0123.bmp,reference,insert,6,0.2805318849999594
+M I,C0123.bmp,reference,insert,7,0.340260560000047
+M I,C0123.bmp,reference,insert,8,0.37615384900004756
+M I,C0123.bmp,reference,insert,9,0.2641900270000406
+M I,C0123.bmp,reference,extract,0,0.11260032600011982
+M I,C0123.bmp,reference,extract,1,0.11231090000001132
+M I,C0123.bmp,reference,extract,2,0.11248790300010114
+M I,C0123.bmp,reference,extract,3,0.11482234200002495
+M I,C0123.bmp,reference,extract,4,0.11368718800008537
+M I,C0123.bmp,reference,extract,5,0.12260196600004747
+M I,C0123.bmp,reference,extract,6,0.11345887400011634
+M I,C0123.bmp,reference,extract,7,0.1201654660001168
+M I,C0123.bmp,reference,extract,8,0.11405869000009261
+M I,C0123.bmp,reference,extract,9,0.11273617699998795
+M I,C0123.bmp,reference,verify,0,0.06244837999997799
+M I,C0123.bmp,reference,verify,1,0.06236042799991992
+M I,C0123.bmp,reference,verify,2,0.06347367700004725
+M I,C0123.bmp,reference,verify,3,0.06282795500010252
+M I,C0123.bmp,reference,verify,4,0.06340395999995962
+M I,C0123.bmp,reference,verify,5,0.0625581990000228
+M I,C0123.bmp,reference,verify,6,0.06216004799989605
+M I,C0123.bmp,reference,verify,7,0.06207111399999121
+M I,C0123.bmp,reference,verify,8,0.06211576900000182
+M I,C0123.bmp,reference,verify,9,0.061947996000071726
+M I,C0123.bmp,vectorized,insert,0,0.016402600999981587
+M I,C0123.bmp,vectorized,insert,1,0.016508176999877833
+M I,C0123.bmp,vectorized,insert,2,0.016096047000019098
+M I,C0123.bmp,vectorized,insert,3,0.01603610999995908
+M I,C0123.bmp,vectorized,insert,4,0.016245483000147942
+M I,C0123.bmp,vectorized,insert,5,0.016237897000110024
+M I,C0123.bmp,vectorized,insert,6,0.01663218099997721
+M I,C0123.bmp,vectorized,insert,7,0.01617055400015488
+M I,C0123.bmp,vectorized,insert,8,0.01636767099989811
+M I,C0123.bmp,vectorized,insert,9,0.017641309000055116
+M I,C0123.bmp,vectorized,extract,0,0.0010073910000301112
+M I,C0123.bmp,vectorized,extract,1,0.0008948799998051982
+M I,C0123.bmp,vectorized,extract,2,0.0008176920000551036
+M I,C0123.bmp,vectorized,extract,3,0.0007871339998928306
+M I,C0123.bmp,vectorized,extract,4,0.000769726000044102
+M I,C0123.bmp,vectorized,extract,5,0.0006755809999958728
+M I,C0123.bmp,vectorized,extract,6,0.0007800470000347559
+M I,C0123.bmp,vectorized,extract,7,0.0008380199999464821
+M I,C0123.bmp,vectorized,extract,8,0.0007585040000321897
+M I,C0123.bmp,vectorized,extract,9,0.0006671099999948638
+M I,C0123.bmp,vectorized,verify,0,0.011653426000066247
+M I,C0123.bmp,vectorized,verify,1,0.0115632120000555
+M I,C0123.bmp,vectorized,verify,2,0.011698794000039925
+M I,C0123.bmp,vectorized,verify,3,0.011602686000060203
+M I,C0123.bmp,vectorized,verify,4,0.011279054999931759
+M I,C0123.bmp,vectorized,verify,5,0.011131198000157383
+M I,C0123.bmp,vectorized,verify,6,0.011186964999978954
+M I,C0123.bmp,vectorized,verify,7,0.011230393000005279
+M I,C0123.bmp,vectorized,verify,8,0.011094704000015554
+M I,C0123.bmp,vectorized,verify,9,0.011212940999939747
+M I,C0126.bmp,reference,insert,0,0.2670791579998877
+M I,C0126.bmp,reference,insert,1,0.2632157489999827
+M I,C0126.bmp,reference,insert,2,0.2706576650000443
+M I,C0126.bmp,reference,insert,3,0.2675410680001278
+M I,C0126.bmp,reference,insert,4,0.2639199939999344
+M I,C0126.bmp,reference,insert,5,0.26311467799996535
+M I,C0126.bmp,reference,insert,6,0.25375404700002946
+M I,C0126.bmp,reference,insert,7,0.26079075400002694
+M I,C0126.bmp,reference,insert,8,0.31311966300017957
+M I,C0126.bmp,reference,insert,9,0.3004806980000012
+M I,C0126.bmp,reference,extract,0,0.11329922400000214
+M I,C0126.bmp,reference,extract,1,0.11198990299999423
+M I,C0126.bmp,reference,extract,2,0.1127868999999464
+M I,C0126.bmp,reference,extract,3,0.1130495620000147
+M I,C0126.bmp,reference,extract,4,0.11297495799999524
+M I,C0126.bmp,reference,extract,5,0.11213660199996411
+M I,C0126.bmp,reference,extract,6,0.11228605099995548
+M I,C0126.bmp,reference,extract,7,0.11271159199986869
+M I,C0126.bmp,reference,extract,8,0.11272419600004469
+M I,C0126.bmp,reference,extract,9,0.11532678200001101
+M I,C0126.bmp,reference,verify,0,0.06207817200015597
+M I,C0126.bmp,reference,verify,1,0.06193963900000199
+M I,C0126.bmp,reference,verify,2,0.06230209000000286
+M I,C0126.bmp,reference,verify,3,0.06154506500001844
+M I,C0126.bmp,reference,verify,4,0.06519645400021545
+M I,C0126.bmp,reference,verify,5,0.06327255900009732
+M I,C0126.bmp,reference,verify,6,0.06244081099998766
+M I,C0126.bmp,reference,verify,7,0.062242943000001105
+M I,C0126.bmp,reference,verify,8,0.06318416600015553
+M I,C0126.bmp,reference,verify,9,0.06340200599993295
+M I,C0126.bmp,vectorized,insert,0,0.0171161169998868
+M I,C0126.bmp,vectorized,insert,1,0.015975864999973055
+M I,C0126.bmp,vectorized,insert,2,0.016590740000083315
+M I,C0126.bmp,vectorized,insert,3,0.019669635000127528
+M I,C0126.bmp,vectorized,insert,4,0.016200279000031514
+M I,C0126.bmp,vectorized,insert,5,0.01565151399995557
+M I,C0126.bmp,vectorized,insert,6,0.01674745700006497
+M I,C0126.bmp,vectorized,insert,7,0.016520367999873997
+M I,C0126.bmp,vectorized,insert,8,0.016791327999953864
+M I,C0126.bmp,vectorized,insert,9,0.018755246999944575
+M I,C0126.bmp,vectorized,extract,0,0.0010851219999494788
+M I,C0126.bmp,vectorized,extract,1,0.0015460849999726634
+M I,C0126.bmp,vectorized,extract,2,0.0008356480000202282
+M I,C0126.bmp,vectorized,extract,3,0.0007333030000609142
+M I,C0126.bmp,vectorized,extract,4,0.0008228780000081315
+M I,C0126.bmp,vectorized,extract,5,0.0007345649999024317
+M I,C0126.bmp,vectorized,extract,6,0.0006966060000195284
+M I,C0126.bmp,vectorized,extract,7,0.00085985299983804
+M I,C0126.bmp,vectorized,extract,8,0.0008107950000066921
+M I,C0126.bmp,vectorized,extract,9,0.0013766769998255768
+M I,C0126.bmp,vectorized,verify,0,0.01226283300002251
+M I,C0126.bmp,vectorized,verify,1,0.0124946999999338
+M I,C0126.bmp,vectorized,verify,2,0.01231283600009192
+M I,C0126.bmp,vectorized,verify,3,0.012500457999976788
+M I,C0126.bmp,vectorized,verify,4,0.012825406000047224
+M I,C0126.bmp,vectorized,verify,5,0.012648879999915152
+M I,C0126.bmp,vectorized,verify,6,0.012997751000057178
+M I,C0126.bmp,vectorized,verify,7,0.012294608000047447
+M I,C0126.bmp,vectorized,verify,8,0.012119259000201055
+M I,C0126.bmp,vectorized,verify,9,0.013504764999879626
+M I,C0163.bmp,reference,insert,0,0.3414210640000874
+M I,C0163.bmp,reference,insert,1,0.2893400880000172
+M I,C0163.bmp,reference,insert,2,0.3010171169999012
+M I,C0163.bmp,reference,insert,3,0.3032199449999098
+M I,C0163.bmp,reference,insert,4,0.29752625100013574
+M I,C0163.bmp,reference,insert,5,0.2941685270000107
+M I,C0163.bmp,reference,insert,6,0.29513556799997787
+M I,C0163.bmp,reference,insert,7,0.3688197390001733
+M I,C0163.bmp,reference,insert,8,0.2892272100000355
+M I,C0163.bmp,reference,insert,9,0.2795705580001595
+M I,C0163.bmp,reference,extract,0,0.11367792600003668
+M I,C0163.bmp,reference,extract,1,0.11297925899998518
+M I,C0163.bmp,reference,extract,2,0.11286851999989267
+M I,C0163.bmp,reference,extract,3,0.11341322700013734
+M I,C0163.bmp,reference,extract,4,0.11299327000006087
+M I,C0163.bmp,reference,extract,5,0.11744686499991985
+M I,C0163.bmp,reference,extract,6,0.11273102200016183
+M I,C0163.bmp,reference,extract,7,0.11443821400007437
+M I,C0163.bmp,reference,extract,8,0.1094055149999349
+M I,C0163.bmp,reference,extract,9,0.10937616299997899
+M I,C0163.bmp,reference,verify,0,0.062032051999949545
+M I,C0163.bmp,reference,verify,1,0.06373896800005241
+M I,C0163.bmp,reference,verify,2,0.06538745600005313
+M I,C0163.bmp,reference,verify,3,0.06366171499985285
+M I,C0163.bmp,reference,verify,4,0.06405830599987894
+M I,C0163.bmp,reference,verify,5,0.0642530740001348
+M I,C0163.bmp,reference,verify,6,0.06393312100021831
+M I,C0163.bmp,reference,verify,7,0.06559573799995633
+M I,C0163.bmp,reference,verify,8,0.06257204500002445
+M I,C0163.bmp,reference,verify,9,0.062394973999971626
+M I,C0163.bmp,vectorized,insert,0,0.016501611999956367
+M I,C0163.bmp,vectorized,insert,1,0.015949512000133836
+M I,C0163.bmp,vectorized,insert,2,0.01612062699996386
+M I,C0163.bmp,vectorized,insert,3,0.015789562999998452
+M I,C0163.bmp,vectorized,insert,4,0.015769345000080648
+M I,C0163.bmp,vectorized,insert,5,0.016132129999959943
+M I,C0163.bmp,vectorized,insert,6,0.01643635200002791
+M I,C0163.bmp,vectorized,insert,7,0.015836739000178568
+M I,C0163.bmp,vectorized,insert,8,0.015826693999997588
+M I,C0163.bmp,vectorized,insert,9,0.015677604999837058
+M I,C0163.bmp,vectorized,extract,0,0.0009617959999559389
+M I,C0163.bmp,vectorized,extract,1,0.000869545000114158
+M I,C0163.bmp,vectorized,extract,2,0.0007960020000155055
+M I,C0163.bmp,vectorized,extract,3,0.0007301000000552449
+M I,C0163.bmp,vectorized,extract,4,0.0006758920001175284
+M I,C0163.bmp,vectorized,extract,5,0.000752721000026213
+M I,C0163.bmp,vectorized,extract,6,0.0007013479998931871
+M I,C0163.bmp,vectorized,extract,7,0.0006627870000102121
+M I,C0163.bmp,vectorized,extract,8,0.0007229459999962273
+M I,C0163.bmp,vectorized,extract,9,0.0006944490000933001
+M I,C0163.bmp,vectorized,verify,0,0.012091657000155465
+M I,C0163.bmp,vectorized,verify,1,0.012193691999982548
+M I,C0163.bmp,vectorized,verify,2,0.012157161000004635
+M I,C0163.bmp,vectorized,verify,3,0.012187974999960716
+M I,C0163.bmp,vectorized,verify,4,0.01196994400015683
+M I,C0163.bmp,vectorized,verify,5,0.012144446000093012
+M I,C0163.bmp,vectorized,verify,6,0.012155914000004486
+M I,C0163.bmp,vectorized,verify,7,0.012051665999933903
+M I,C0163.bmp,vectorized,verify,8,0.01218002400014484
+M I,C0163.bmp,vectorized,verify,9,0.012123908999910782
+M I,C0218.bmp,reference,insert,0,0.3060915710000245
+M I,C0218.bmp,reference,insert,1,0.3437479520000579
+M I,C0218.bmp,reference,insert,2,0.26765384500004075
+M I,C0218.bmp,reference,insert,3,0.2666030460000002
+M I,C0218.bmp,reference,insert,4,0.2771233199998733
+M I,C0218.bmp,reference,insert,5,0.27340674299989587
+M I,C0218.bmp,reference,insert,6,0.27528427800007194
+M I,C0218.bmp,reference,insert,7,0.28490947099999175
+M I,C0218.bmp,reference,insert,8,0.2791548980001153
+M I,C0218.bmp,reference,insert,9,0.2811606860000211
+M I,C0218.bmp,reference,extract,0,0.11371817199983525
+M I,C0218.bmp,reference,extract,1,0.11768091700014338
+M I,C0218.bmp,reference,extract,2,0.11679375099993194
+M I,C0218.bmp,reference,extract,3,0.11425851000012699
+M I,C0218.bmp,reference,extract,4,0.1155027899999368
+M I,C0218.bmp,reference,extract,5,0.11548011800005042
+M I,C0218.bmp,reference,extract,6,0.1149844710000707
+M I,C0218.bmp,reference,extract,7,0.11460446799992496
+M I,C0218.bmp,reference,extract,8,0.11459024000009777
+M I,C0218.bmp,reference,extract,9,0.11316371499992783
+M I,C0218.bmp,reference,verify,0,0.06161258499992073
+M I,C0218.bmp,reference,verify,1,0.06152707199998986
+M I,C0218.bmp,reference,verify,2,0.06182260899981884
+M I,C0218.bmp,reference,verify,3,0.062027639000007184
+M I,C0218.bmp,reference,verify,4,0.06699680999986413
+M I,C0218.bmp,reference,verify,5,0.06367629700002908
+M I,C0218.bmp,reference,verify,6,0.06248252400018828
+M I,C0218.bmp,reference,verify,7,0.06290098999988913
+M I,C0218.bmp,reference,verify,8,0.06215798299990638
+M I,C0218.bmp,reference,verify,9,0.06318868500011376
+M I,C0218.bmp,vectorized,insert,0,0.01665598699992188
+M I,C0218.bmp,vectorized,insert,1,0.01638609299993732
+M I,C0218.bmp,vectorized,insert,2,0.016604126999936852
+M I,C0218.bmp,vectorized,insert,3,0.01672020999990309
+M I,C0218.bmp,vectorized,insert,4,0.016751189999922644
+M I,C0218.bmp,vectorized,insert,5,0.016620719000002282
+M I,C0218.bmp,vectorized,insert,6,0.016887483000118664
+M I,C0218.bmp,vectorized,insert,7,0.016534264000028998
+M I,C0218.bmp,vectorized,insert,8,0.016415758999983154
+M I,C0218.bmp,vectorized,insert,9,0.01678579700001137
+M I,C0218.bmp,vectorized,extract,0,0.0010846440000022994
+M I,C0218.bmp,vectorized,extract,1,0.0009256060000097932
+M I,C0218.bmp,vectorized,extract,2,0.0007841809999717952
+M I,C0218.bmp,vectorized,extract,3,0.0008299809999243735
+M I,C0218.bmp,vectorized,extract,4,0.0007414089998292184
+M I,C0218.bmp,vectorized,extract,5,0.0007866680000461201
+M I,C0218.bmp,vectorized,extract,6,0.000785475000157021
+M I,C0218.bmp,vectorized,extract,7,0.0007690039999488363
+M I,C0218.bmp,vectorized,extract,8,0.000899560000107158
+M I,C0218.bmp,vectorized,extract,9,0.0007309359998544096
+M I,C0218.bmp,vectorized,verify,0,0.01233150799998839
+M I,C0218.bmp,vectorized,verify,1,0.012328893000130847
+M I,C0218.bmp,vectorized,verify,2,0.012160353999888684
+M I,C0218.bmp,vectorized,verify,3,0.012406163000150627
+M I,C0218.bmp,vectorized,verify,4,0.012491772999965178
+M I,C0218.bmp,vectorized,verify,5,0.012264043999948626
+M I,C0218.bmp,vectorized,verify,6,0.012222915999927864
+M I,C0218.bmp,vectorized,verify,7,0.012843092999901273
+M I,C0218.bmp,vectorized,verify,8,0.012420926000004329
+M I,C0218.bmp,vectorized,verify,9,0.01218123899980128
+M I,C0309.bmp,reference,insert,0,0.3484470269997928
+M I,C0309.bmp,reference,insert,1,0.2796947829999681
+M I,C0309.bmp,reference,insert,2,0.27359557299996595
+M I,C0309.bmp,reference,insert,3,0.2743999259998873
+M I,C0309.bmp,reference,insert,4,0.2731331089999003
+M I,C0309.bmp,reference,insert,5,0.274234419999857
+M I,C0309.bmp,reference,insert,6,0.2773001150001164
+M I,C0309.bmp,reference,insert,7,0.27598696599989125
+M I,C0309.bmp,reference,insert,8,0.27499806700006957
+M I,C0309.bmp,reference,insert,9,0.27461929300011434
+M I,C0309.bmp,reference,extract,0,0.10894006400008038
+M I,C0309.bmp,reference,extract,1,0.10930730800009769
+M I,C0309.bmp,reference,extract,2,0.10976689199992506
+M I,C0309.bmp,reference,extract,3,0.11128693899991049
+M I,C0309.bmp,reference,extract,4,0.11317628700021487
+M I,C0309.bmp,reference,extract,5,0.11298572499981674
+M I,C0309.bmp,reference,extract,6,0.11326866500007782
+M I,C0309.bmp,reference,extract,7,0.11393870300003073
+M I,C0309.bmp,reference,extract,8,0.1133756279998579
+M I,C0309.bmp,reference,extract,9,0.11328348600000027
+M I,C0309.bmp,reference,verify,0,0.059489272000064375
+M I,C0309.bmp,reference,verify,1,0.059354446000043026
+M I,C0309.bmp,reference,verify,2,0.059309368000185714
+M I,C0309.bmp,reference,verify,3,0.05922836600007031
+M I,C0309.bmp,reference,verify,4,0.06382733500004178
+M I,C0309.bmp,reference,verify,5,0.06863769599999614
+M I,C0309.bmp,reference,verify,6,0.06568044999994527
+M I,C0309.bmp,reference,verify,7,0.06872924399999647
+M I,C0309.bmp,reference,verify,8,0.06583740800010673
+M I,C0309.bmp,reference,verify,9,0.06924470399985694
+M I,C0309.bmp,vectorized,insert,0,0.016024352000158615
+M I,C0309.bmp,vectorized,insert,1,0.017104298999811363
+M I,C0309.bmp,vectorized,insert,2,0.01619623400006276
+M I,C0309.bmp,vectorized,insert,3,0.01588586499997291
+M I,C0309.bmp,vectorized,insert,4,0.01710887800004457
+M I,C0309.bmp,vectorized,insert,5,0.01620164099995236
+M I,C0309.bmp,vectorized,insert,6,0.01711368099995525
+M I,C0309.bmp,vectorized,insert,7,0.016395441999975446
+M I,C0309.bmp,vectorized,insert,8,0.016252802000053634
+M I,C0309.bmp,vectorized,insert,9,0.016548314000147002
+M I,C0309.bmp,vectorized,extract,0,0.0011040449999200064
+M I,C0309.bmp,vectorized,extract,1,0.0008882949998678669
+M I,C0309.bmp,vectorized,extract,2,0.0007144960000005085
+M I,C0309.bmp,vectorized,extract,3,0.0008131199999752425
+M I,C0309.bmp,vectorized,extract,4,0.0007625119999374874
+M I,C0309.bmp,vectorized,extract,5,0.000803849000021728
+M I,C0309.bmp,vectorized,extract,6,0.0007773580000502989
+M I,C0309.bmp,vectorized,extract,7,0.0006708640000852029
+M I,C0309.bmp,vectorized,extract,8,0.0007441370000833558
+M I,C0309.bmp,vectorized,extract,9,0.0007711409998591989
+M I,C0309.bmp,vectorized,verify,0,0.01835660899996583
+M I,C0309.bmp,vectorized,verify,1,0.012426090999952066
+M I,C0309.bmp,vectorized,verify,2,0.012097684999844205
+M I,C0309.bmp,vectorized,verify,3,0.012471867999920505
+M I,C0309.bmp,vectorized,verify,4,0.012428879000026427
+M I,C0309.bmp,vectorized,verify,5,0.012327756000104273
+M I,C0309.bmp,vectorized,verify,6,0.012534866000123657
+M I,C0309.bmp,vectorized,verify,7,0.012655909999921278
+M I,C0309.bmp,vectorized,verify,8,0.015263513000036255
+M I,C0309.bmp,vectorized,verify,9,0.012311206000049424
+M I,C0411.bmp,reference,insert,0,0.2819872000000032
+M I,C0411.bmp,reference,insert,1,0.28031199400015794
+M I,C0411.bmp,reference,insert,2,0.3168109959999583
+M I,C0411.bmp,reference,insert,3,0.3264628839999659
+M I,C0411.bmp,reference,insert,4,0.3172855679999884
+M I,C0411.bmp,reference,insert,5,0.28190081499997177
+M I,C0411.bmp,reference,insert,6,0.2966221429999223
+M I,C0411.bmp,reference,insert,7,0.30335771999989447
+M I,C0411.bmp,reference,insert,8,0.293707558000051
+M I,C0411.bmp,reference,insert,9,0.2787849979999919
+M I,C0411.bmp,reference,extract,0,0.11422742299987476
+M I,C0411.bmp,reference,extract,1,0.11369919000003392
+M I,C0411.bmp,reference,extract,2,0.112786129999904
+M I,C0411.bmp,reference,extract,3,0.11554995500000587
+M I,C0411.bmp,reference,extract,4,0.12249765700016724
+M I,C0411.bmp,reference,extract,5,0.11709953800004769
+M I,C0411.bmp,reference,extract,6,0.11394008599995686
+M I,C0411.bmp,reference,extract,7,0.1141326320000644
+M I,C0411.bmp,reference,extract,8,0.11605726899983893
+M I,C0411.bmp,reference,extract,9,0.11403372200015838
+M I,C0411.bmp,reference,verify,0,0.059420414999976856
+M I,C0411.bmp,reference,verify,1,0.05944098700001632
+M I,C0411.bmp,reference,verify,2,0.05961079500002597
+M I,C0411.bmp,reference,verify,3,0.05960817000004681
+M I,C0411.bmp,reference,verify,4,0.060252977999880386
+M I,C0411.bmp,reference,verify,5,0.06054681199998413
+M I,C0411.bmp,reference,verify,6,0.06127114499986419
+M I,C0411.bmp,reference,verify,7,0.06085672699987299
+M I,C0411.bmp,reference,verify,8,0.06071613500012063
+M I,C0411.bmp,reference,verify,9,0.06095407799989516
+M I,C0411.bmp,vectorized,insert,0,0.01679472699993312
+M I,C0411.bmp,vectorized,insert,1,0.0168130449999353
+M I,C0411.bmp,vectorized,insert,2,0.016726206000157617
+M I,C0411.bmp,vectorized,insert,3,0.016557327000100486
+M I,C0411.bmp,vectorized,insert,4,0.01652687299997524
+M I,C0411.bmp,vectorized,insert,5,0.016477616999964084
+M I,C0411.bmp,vectorized,insert,6,0.016291005000084624
+M I,C0411.bmp,vectorized,insert,7,0.01665595100007522
+M I,C0411.bmp,vectorized,insert,8,0.016537290000087523
+M I,C0411.bmp,vectorized,insert,9,0.016613439999900947
+M I,C0411.bmp,vectorized,extract,0,0.0010723399998369132
+M I,C0411.bmp,vectorized,extract,1,0.0008595819999754895
+M I,C0411.bmp,vectorized,extract,2,0.0007712659999015159
+M I,C0411.bmp,vectorized,extract,3,0.0007078720000208705
+M I,C0411.bmp,vectorized,extract,4,0.0007738770000287332
+M I,C0411.bmp,vectorized,extract,5,0.0008101519999854645
+M I,C0411.bmp,vectorized,extract,6,0.0007676909999645432
+M I,C0411.bmp,vectorized,extract,7,0.0007104530000106024
+M I,C0411.bmp,vectorized,extract,8,0.0007466489998932957
+M I,C0411.bmp,vectorized,extract,9,0.0007658340000489261
+M I,C0411.bmp,vectorized,verify,0,0.012582661000124062
+M I,C0411.bmp,vectorized,verify,1,0.012362242999870432
+M I,C0411.bmp,vectorized,verify,2,0.01228878100005204
+M I,C0411.bmp,vectorized,verify,3,0.01207595100004255
+M I,C0411.bmp,vectorized,verify,4,0.012271012000155679
+M I,C0411.bmp,vectorized,verify,5,0.012260025999921709
+M I,C0411.bmp,vectorized,verify,6,0.012193019000051208
+M I,C0411.bmp,vectorized,verify,7,0.012196480000056908
+M I,C0411.bmp,vectorized,verify,8,0.012243111000088902
+M I,C0411.bmp,vectorized,verify,9,0.012302028000021892
+M I,C0635.bmp,reference,insert,0,0.27762504799989074
+M I,C0635.bmp,reference,insert,1,0.2815250799999376
+M I,C0635.bmp,reference,insert,2,0.2745780359998662
+M I,C0635.bmp,reference,insert,3,0.279489859000023
+M I,C0635.bmp,reference,insert,4,0.27724379799997223
+M I,C0635.bmp,reference,insert,5,0.27299240199999986
+M I,C0635.bmp,reference,insert,6,0.276064156999837
+M I,C0635.bmp,reference,insert,7,0.2761158770001657
+M I,C0635.bmp,reference,insert,8,0.27761011500001587
+M I,C0635.bmp,reference,insert,9,0.28812956900014797
+M I,C0635.bmp,reference,extract,0,0.12332184900014909
+M I,C0635.bmp,reference,extract,1,0.11265581199995722
+M I,C0635.bmp,reference,extract,2,0.11278190200005156
+M I,C0635.bmp,reference,extract,3,0.1121544319998975
+M I,C0635.bmp,reference,extract,4,0.1124474180001016
+M I,C0635.bmp,reference,extract,5,0.11455736600009914
+M I,C0635.bmp,reference,extract,6,0.11326989300005152
+M I,C0635.bmp,reference,extract,7,0.11121922000006634
+M I,C0635.bmp,reference,extract,8,0.1098854060001031
+M I,C0635.bmp,reference,extract,9,0.11173012700010077
+M I,C0635.bmp,reference,verify,0,0.06537307799999326
+M I,C0635.bmp,reference,verify,1,0.06549743599998692
+M I,C0635.bmp,reference,verify,2,0.06616077500007123
+M I,C0635.bmp,reference,verify,3,0.06538232999992033
+M I,C0635.bmp,reference,verify,4,0.06546493199994075
+M I,C0635.bmp,reference,verify,5,0.06431341899997278
+M I,C0635.bmp,reference,verify,6,0.06465033299991774
+M I,C0635.bmp,reference,verify,7,0.06410208900001635
+M I,C0635.bmp,reference,verify,8,0.06401254399997924
+M I,C0635.bmp,reference,verify,9,0.06472650599994267
+M I,C0635.bmp,vectorized,insert,0,0.016604104000180087
+M I,C0635.bmp,vectorized,insert,1,0.0162226989998544
+M I,C0635.bmp,vectorized,insert,2,0.015923279000162438
+M I,C0635.bmp,vectorized,insert,3,0.015956471999970745
+M I,C0635.bmp,vectorized,insert,4,0.015908862000060253
+M I,C0635.bmp,vectorized,insert,5,0.016083925999964777
+M I,C0635.bmp,vectorized,insert,6,0.01606130100003611
+M I,C0635.bmp,vectorized,insert,7,0.016003809000039837
+M I,C0635.bmp,vectorized,insert,8,0.0159748450000734
+M I,C0635.bmp,vectorized,insert,9,0.015916239000034693
+M I,C0635.bmp,vectorized,extract,0,0.0010702570000376
+M I,C0635.bmp,vectorized,extract,1,0.0009580009998444439
+M I,C0635.bmp,vectorized,extract,2,0.0007936559998142911
+M I,C0635.bmp,vectorized,extract,3,0.0007700999999542546
+M I,C0635.bmp,vectorized,extract,4,0.0007522590001372009
+M I,C0635.bmp,vectorized,extract,5,0.00074111100002483
+M I,C0635.bmp,vectorized,extract,6,0.0007569530000637315
+M I,C0635.bmp,vectorized,extract,7,0.0006956219999665336
+M I,C0635.bmp,vectorized,extract,8,0.000757577000058518
+M I,C0635.bmp,vectorized,extract,9,0.0007722360001025663
+M I,C0635.bmp,vectorized,verify,0,0.011829237000029025
+M I,C0635.bmp,vectorized,verify,1,0.0118031140000312
+M I,C0635.bmp,vectorized,verify,2,0.011784495000028983
+M I,C0635.bmp,vectorized,verify,3,0.012827806999894165
+M I,C0635.bmp,vectorized,verify,4,0.011780817999806459
+M I,C0635.bmp,vectorized,verify,5,0.012091785000166055
+M I,C0635.bmp,vectorized,verify,6,0.012036898000133078
+M I,C0635.bmp,vectorized,verify,7,0.011839182999892728
+M I,C0635.bmp,vectorized,verify,8,0.011717639999915264
+M I,C0635.bmp,vectorized,verify,9,0.011613668999871152
+M I,C0869.bmp,reference,insert,0,0.27397177100010595
+M I,C0869.bmp,reference,insert,1,0.2772330539999075
+M I,C0869.bmp,reference,insert,2,0.2736490170000252
+M I,C0869.bmp,reference,insert,3,0.27397509000002174
+M I,C0869.bmp,reference,insert,4,0.27441310899985183
+M I,C0869.bmp,reference,insert,5,0.27360034699995595
+M I,C0869.bmp,reference,insert,6,0.27361130799999955
+M I,C0869.bmp,reference,insert,7,0.2739754169999742
+M I,C0869.bmp,reference,insert,8,0.2742564669999865
+M I,C0869.bmp,reference,insert,9,0.2738913489999959
+M I,C0869.bmp,reference,extract,0,0.11402087800001937
+M I,C0869.bmp,reference,extract,1,0.11367428600010498
+M I,C0869.bmp,reference,extract,2,0.11510527299992646
+M I,C0869.bmp,reference,extract,3,0.11261192799997843
+M I,C0869.bmp,reference,extract,4,0.1109950810000555
+M I,C0869.bmp,reference,extract,5,0.11232439100012925
+M I,C0869.bmp,reference,extract,6,0.1112440179999794
+M I,C0869.bmp,reference,extract,7,0.11151213600010124
+M I,C0869.bmp,reference,extract,8,0.11150700500002131
+M I,C0869.bmp,reference,extract,9,0.11152106800000183
+M I,C0869.bmp,reference,verify,0,0.06314170399991781
+M I,C0869.bmp,reference,verify,1,0.06294409400015866
+M I,C0869.bmp,reference,verify,2,0.06812460800006193
+M I,C0869.bmp,reference,verify,3,0.08404604899988044
+M I,C0869.bmp,reference,verify,4,0.07721929700005603
+M I,C0869.bmp,reference,verify,5,0.07358068200005619
+M I,C0869.bmp,reference,verify,6,0.06432453699994767
+M I,C0869.bmp,reference,verify,7,0.06356165099987265
+M I,C0869.bmp,reference,verify,8,0.06683341899997686
+M I,C0869.bmp,reference,verify,9,0.06865990100004637
+M I,C0869.bmp,vectorized,insert,0,0.017044480000095064
+M I,C0869.bmp,vectorized,insert,1,0.016855623000083142
+M I,C0869.bmp,vectorized,insert,2,0.016632711000056588
+M I,C0869.bmp,vectorized,insert,3,0.016945312999951057
+M I,C0869.bmp,vectorized,insert,4,0.016891532000045117
+M I,C0869.bmp,vectorized,insert,5,0.016798333999986426
+M I,C0869.bmp,vectorized,insert,6,0.016531923999991704
+M I,C0869.bmp,vectorized,insert,7,0.01648132200011787
+M I,C0869.bmp,vectorized,insert,8,0.016194231000099535
+M I,C0869.bmp,vectorized,insert,9,0.017049878000079843
+M I,C0869.bmp,vectorized,extract,0,0.001067267000053107
+M I,C0869.bmp,vectorized,extract,1,0.0007505559999572142
+M I,C0869.bmp,vectorized,extract,2,0.0006494459998975799
+M I,C0869.bmp,vectorized,extract,3,0.0007566330000372545
+M I,C0869.bmp,vectorized,extract,4,0.0007270379999226861
+M I,C0869.bmp,vectorized,extract,5,0.0006692609999845445
+M I,C0869.bmp,vectorized,extract,6,0.0007421450000038021
+M I,C0869.bmp,vectorized,extract,7,0.0007242720000704139
+M I,C0869.bmp,vectorized,extract,8,0.0007534650001161936
+M I,C0869.bmp,vectorized,extract,9,0.0006697379999422992
+M I,C0869.bmp,vectorized,verify,0,0.011656579000145939
+M I,C0869.bmp,vectorized,verify,1,0.01152444900003502
+M I,C0869.bmp,vectorized,verify,2,0.011430043000018486
+M I,C0869.bmp,vectorized,verify,3,0.011448809000057736
+M I,C0869.bmp,vectorized,verify,4,0.011473584999976083
+M I,C0869.bmp,vectorized,verify,5,0.011515228999996907
+M I,C0869.bmp,vectorized,verify,6,0.011338827999907153
+M I,C0869.bmp,vectorized,verify,7,0.011483716999919125
+M I,C0869.bmp,vectorized,verify,8,0.011411097000063819
+M I,C0869.bmp,vectorized,verify,9,0.011909854999885283
+M I,C0886.bmp,reference,insert,0,0.2745432560000154
+M I,C0886.bmp,reference,insert,1,0.27734458300005826
+M I,C0886.bmp,reference,insert,2,0.28349886999990304
+M I,C0886.bmp,reference,insert,3,0.2781551960001707
+M I,C0886.bmp,reference,insert,4,0.27896499600001334
+M I,C0886.bmp,reference,insert,5,0.28670287699992514
+M I,C0886.bmp,reference,insert,6,0.31220774000007623
+M I,C0886.bmp,reference,insert,7,0.28693043399994167
+M I,C0886.bmp,reference,insert,8,0.2813948230000278
+M I,C0886.bmp,reference,insert,9,0.27781061799987583
+M I,C0886.bmp,reference,extract,0,0.11126279599989175
+M I,C0886.bmp,reference,extract,1,0.1115556550000747
+M I,C0886.bmp,reference,extract,2,0.11220686199999363
+M I,C0886.bmp,reference,extract,3,0.11194915100008984
+M I,C0886.bmp,reference,extract,4,0.11239533800016943
+M I,C0886.bmp,reference,extract,5,0.11241928399999779
+M I,C0886.bmp,reference,extract,6,0.11258731799989619
+M I,C0886.bmp,reference,extract,7,0.11150867500009554
+M I,C0886.bmp,reference,extract,8,0.11120907200006513
+M I,C0886.bmp,reference,extract,9,0.11475005499983126
+M I,C0886.bmp,reference,verify,0,0.0618376189997889
+M I,C0886.bmp,reference,verify,1,0.06195789700018395
+M I,C0886.bmp,reference,verify,2,0.06297728100003042
+M I,C0886.bmp,reference,verify,3,0.06290188700018007
+M I,C0886.bmp,reference,verify,4,0.061505965000151264
+M I,C0886.bmp,reference,verify,5,0.061650384999893504
+M I,C0886.bmp,reference,verify,6,0.06141142499996022
+M I,C0886.bmp,reference,verify,7,0.06154446200002894
+M I,C0886.bmp,reference,verify,8,0.0637023260001115
+M I,C0886.bmp,reference,verify,9,0.07803285199997845
+M I,C0886.bmp,vectorized,insert,0,0.017380292000098052
+M I,C0886.bmp,vectorized,insert,1,0.017216510000025664
+M I,C0886.bmp,vectorized,insert,2,0.016572112999938327
+M I,C0886.bmp,vectorized,insert,3,0.016486714999928154
+M I,C0886.bmp,vectorized,insert,4,0.016624718999992183
+M I,C0886.bmp,vectorized,insert,5,0.016690719000052923
+M I,C0886.bmp,vectorized,insert,6,0.01755182200008676
+M I,C0886.bmp,vectorized,insert,7,0.016345559999990655
+M I,C0886.bmp,vectorized,insert,8,0.015339919999860285
+M I,C0886.bmp,vectorized,insert,9,0.015288880999833054
+M I,C0886.bmp,vectorized,extract,0,0.001013459999967381
+M I,C0886.bmp,vectorized,extract,1,0.0007966499999838561
+M I,C0886.bmp,vectorized,extract,2,0.0007595959998525359
+M I,C0886.bmp,vectorized,extract,3,0.0007766910000555072
+M I,C0886.bmp,vectorized,extract,4,0.0007199889998901199
+M I,C0886.bmp,vectorized,extract,5,0.0006455000000187283
+M I,C0886.bmp,vectorized,extract,6,0.0007113630001640558
+M I,C0886.bmp,vectorized,extract,7,0.0007072390001212625
+M I,C0886.bmp,vectorized,extract,8,0.0007009570001628163
+M I,C0886.bmp,vectorized,extract,9,0.0007156879999001831
+M I,C0886.bmp,vectorized,verify,0,0.011422671999980594
+M I,C0886.bmp,vectorized,verify,1,0.011597242000107144
+M I,C0886.bmp,vectorized,verify,2,0.011999357000149757
+M I,C0886.bmp,vectorized,verify,3,0.01148297999998249
+M I,C0886.bmp,vectorized,verify,4,0.011544905000164363
+M I,C0886.bmp,vectorized,verify,5,0.011614001999987522
+M I,C0886.bmp,vectorized,verify,6,0.011520388999997522
+M I,C0886.bmp,vectorized,verify,7,0.011733301000049323
+M I,C0886.bmp,vectorized,verify,8,0.011516093000182082
+M I,C0886.bmp,vectorized,verify,9,0.011913210000102481
+M II,C0071.bmp,reference,insert,0,0.27222840500007806
+M II,C0071.bmp,reference,insert,1,0.2755164629998035
+M II,C0071.bmp,reference,insert,2,0.27521084600016366
+M II,C0071.bmp,reference,insert,3,0.2839650440000696
+M II,C0071.bmp,reference,insert,4,0.27717292100010127
+M II,C0071.bmp,reference,insert,5,0.2840688629999022
+M II,C0071.bmp,reference,insert,6,0.2812913230000049
+M II,C0071.bmp,reference,insert,7,0.27976512300006107
+M II,C0071.bmp,reference,insert,8,0.2794568790000085
+M II,C0071.bmp,reference,insert,9,0.28174000900003193
+M II,C0071.bmp,reference,extract,0,0.11477170000011938
+M II,C0071.bmp,reference,extract,1,0.11364740800013351
+M II,C0071.bmp,reference,extract,2,0.11320038700000623
+M II,C0071.bmp,reference,extract,3,0.11165888300001825
+M II,C0071.bmp,reference,extract,4,0.11204094799995801
+M II,C0071.bmp,reference,extract,5,0.11092055000017353
+M II,C0071.bmp,reference,extract,6,0.11117718700006662
+M II,C0071.bmp,reference,extract,7,0.11231562600005418
+M II,C0071.bmp,reference,extract,8,0.11089449199994306
+M II,C0071.bmp,reference,extract,9,0.11308074099997611
+M II,C0071.bmp,reference,verify,0,0.0615846309999597
+M II,C0071.bmp,reference,verify,1,0.061468684999908874
+M II,C0071.bmp,reference,verify,2,0.06178551399989374
+M II,C0071.bmp,reference,verify,3,0.06218979799996305
+M II,C0071.bmp,reference,verify,4,0.0615383300000758
+M II,C0071.bmp,reference,verify,5,0.06165187600004174
+M II,C0071.bmp,reference,verify,6,0.0614752750000207
+M II,C0071.bmp,reference,verify,7,0.061500381999849196
+M II,C0071.bmp,reference,verify,8,0.06281268299994736
+M II,C0071.bmp,reference,verify,9,0.061580689000038547
+M II,C0071.bmp,vectorized,insert,0,0.01675973399983377
+M II,C0071.bmp,vectorized,insert,1,0.016584493999971528
+M II,C0071.bmp,vectorized,insert,2,0.016211813999916558
+M II,C0071.bmp,vectorized,insert,3,0.01619951299994682
+M II,C0071.bmp,vectorized,insert,4,0.01606125900002553
+M II,C0071.bmp,vectorized,insert,5,0.016215134000049147
+M II,C0071.bmp,vectorized,insert,6,0.01625192899996364
+M II,C0071.bmp,vectorized,insert,7,0.016052537999939887
+M II,C0071.bmp,vectorized,insert,8,0.01628083300010985
+M II,C0071.bmp,vectorized,insert,9,0.016115767999963282
+M II,C0071.bmp,vectorized,extract,0,0.0010496909999346826
+M II,C0071.bmp,vectorized,extract,1,0.00083047200018882
+M II,C0071.bmp,vectorized,extract,2,0.0007910450001418212
+M II,C0071.bmp,vectorized,extract,3,0.0007860260000143171
+M II,C0071.bmp,vectorized,extract,4,0.0007572540000637673
+M II,C0071.bmp,vectorized,extract,5,0.0007016519998614967
+M II,C0071.bmp,vectorized,extract,6,0.0008179220001238718
+M II,C0071.bmp,vectorized,extract,7,0.0007761019999179553
+M II,C0071.bmp,vectorized,extract,8,0.0007655399999748624
+M II,C0071.bmp,vectorized,extract,9,0.0007081399999151472
+M II,C0071.bmp,vectorized,verify,0,0.01200175600001785
+M II,C0071.bmp,vectorized,verify,1,0.012187288999939483
+M II,C0071.bmp,vectorized,verify,2,0.012104695000061838
+M II,C0071.bmp,vectorized,verify,3,0.012087209000128496
+M II,C0071.bmp,vectorized,verify,4,0.012091360000113127
+M II,C0071.bmp,vectorized,verify,5,0.012175040999863995
+M II,C0071.bmp,vectorized,verify,6,0.012503696000067066
+M II,C0071.bmp,vectorized,verify,7,0.01226219599993783
+M II,C0071.bmp,vectorized,verify,8,0.012355901000091762
+M II,C0071.bmp,vectorized,verify,9,0.012172061000001122
+M II,C0123.bmp,reference,insert,0,0.27327189300012833
+M II,C0123.bmp,reference,insert,1,0.2727993600001355
+M II,C0123.bmp,reference,insert,2,0.2755072189997918
+M II,C0123.bmp,reference,insert,3,0.27490255299994715
+M II,C0123.bmp,reference,insert,4,0.2753242720000344
+M II,C0123.bmp,reference,insert,5,0.2738001669999903
+M II,C0123.bmp,reference,insert,6,0.32176716200001465
+M II,C0123.bmp,reference,insert,7,0.34296817799986457
+M II,C0123.bmp,reference,insert,8,0.293404548999888
+M II,C0123.bmp,reference,insert,9,0.28979728800004523
+M II,C0123.bmp,reference,extract,0,0.11389486799998849
+M II,C0123.bmp,reference,extract,1,0.11389254799996706
+M II,C0123.bmp,reference,extract,2,0.11222294399999555
+M II,C0123.bmp,reference,extract,3,0.11486809200005155
+M II,C0123.bmp,reference,extract,4,0.1124265970001943
+M II,C0123.bmp,reference,extract,5,0.11214634400016621
+M II,C0123.bmp,reference,extract,6,0.10926147100008166
+M II,C0123.bmp,reference,extract,7,0.10972740900001554
+M II,C0123.bmp,reference,extract,8,0.10759871300001578
+M II,C0123.bmp,reference,extract,9,0.10720647700009067
+M II,C0123.bmp,reference,verify,0,0.060134571000162396
+M II,C0123.bmp,reference,verify,1,0.058204552000006515
+M II,C0123.bmp,reference,verify,2,0.05857454700003473
+M II,C0123.bmp,reference,verify,3,0.058115857000075266
+M II,C0123.bmp,reference,verify,4,0.05814715799988335
+M II,C0123.bmp,reference,verify,5,0.058121739000171146
+M II,C0123.bmp,reference,verify,6,0.058105436000005284
+M II,C0123.bmp,reference,verify,7,0.05800611799986655
+M II,C0123.bmp,reference,verify,8,0.058725315000174305
+M II,C0123.bmp,reference,verify,9,0.05816068199987967
+M II,C0123.bmp,vectorized,insert,0,0.0165533479998885
+M II,C0123.bmp,vectorized,insert,1,0.016648105000058422
+M II,C0123.bmp,vectorized,insert,2,0.01632115600000361
+M II,C0123.bmp,vectorized,insert,3,0.015938329999926282
+M II,C0123.bmp,vectorized,insert,4,0.015996421000181726
+M II,C0123.bmp,vectorized,insert,5,0.015753248999999414
+M II,C0123.bmp,vectorized,insert,6,0.015882399000020087
+M II,C0123.bmp,vectorized,insert,7,0.015818459000001894
+M II,C0123.bmp,vectorized,insert,8,0.01587055199979659
+M II,C0123.bmp,vectorized,insert,9,0.01578428800007714
+M II,C0123.bmp,vectorized,extract,0,0.0009954429999652348
+M II,C0123.bmp,vectorized,extract,1,0.0008140429999912158
+M II,C0123.bmp,vectorized,extract,2,0.0008342869998614333
+M II,C0123.bmp,vectorized,extract,3,0.0007216989999960788
+M II,C0123.bmp,vectorized,extract,4,0.0007230389999222098
+M II,C0123.bmp,vectorized,extract,5,0.0007566630001747399
+M II,C0123.bmp,vectorized,extract,6,0.0006905549998919014
+M II,C0123.bmp,vectorized,extract,7,0.0006646780000210128
+M II,C0123.bmp,vectorized,extract,8,0.0007593339998948068
+M II,C0123.bmp,vectorized,extract,9,0.0006955940000352712
+M II,C0123.bmp,vectorized,verify,0,0.012150906999977451
+M II,C0123.bmp,vectorized,verify,1,0.01215781199994126
+M II,C0123.bmp,vectorized,verify,2,0.01207134799983578
+M II,C0123.bmp,vectorized,verify,3,0.012054555999839067
+M II,C0123.bmp,vectorized,verify,4,0.01209741299999223
+M II,C0123.bmp,vectorized,verify,5,0.012081093000006149
+M II,C0123.bmp,vectorized,verify,6,0.01222136399996998
+M II,C0123.bmp,vectorized,verify,7,0.012097201999949903
+M II,C0123.bmp,vectorized,verify,8,0.012117923999994673
+M II,C0123.bmp,vectorized,verify,9,0.012099139999918407
+M II,C0126.bmp,reference,insert,0,0.2648799929997949
+M II,C0126.bmp,reference,insert,1,0.2671362149999368
+M II,C0126.bmp,reference,insert,2,0.2760562470000423
+M II,C0126.bmp,reference,insert,3,0.2787303280001652
+M II,C0126.bmp,reference,insert,4,0.2764284410000073
+M II,C0126.bmp,reference,insert,5,0.2778006259998165
+M II,C0126.bmp,reference,insert,6,0.27752523200001633
+M II,C0126.bmp,reference,insert,7,0.27732812799990825
+M II,C0126.bmp,reference,insert,8,0.27811460000020816
+M II,C0126.bmp,reference,insert,9,0.27603193000004467
+M II,C0126.bmp,reference,extract,0,0.11623749499995029
+M II,C0126.bmp,reference,extract,1,0.12328613699992275
+M II,C0126.bmp,reference,extract,2,0.12094354200007729
+M II,C0126.bmp,reference,extract,3,0.11587076899991189
+M II,C0126.bmp,reference,extract,4,0.11424050999994506
+M II,C0126.bmp,reference,extract,5,0.11613120900005924
+M II,C0126.bmp,reference,extract,6,0.11375044299984438
+M II,C0126.bmp,reference,extract,7,0.11855713899990405
+M II,C0126.bmp,reference,extract,8,0.11186208200001602
+M II,C0126.bmp,reference,extract,9,0.1123862710001049
+M II,C0126.bmp,reference,verify,0,0.06341011400013485
+M II,C0126.bmp,reference,verify,1,0.062442164000003686
+M II,C0126.bmp,reference,verify,2,0.06287405900002341
+M II,C0126.bmp,reference,verify,3,0.06267576999994162
+M II,C0126.bmp,reference,verify,4,0.06219653799985281
+M II,C0126.bmp,reference,verify,5,0.06232149500010564
+M II,C0126.bmp,reference,verify,6,0.06617866800002048
+M II,C0126.bmp,reference,verify,7,0.06262852999998358
+M II,C0126.bmp,reference,verify,8,0.06215385700011211
+M II,C0126.bmp,reference,verify,9,0.0627391410000655
+M II,C0126.bmp,vectorized,insert,0,0.016545838999945772
+M II,C0126.bmp,vectorized,insert,1,0.016938822999918557
+M II,C0126.bmp,vectorized,insert,2,0.01650414300002012
+M II,C0126.bmp,vectorized,insert,3,0.016549248000046646
+M II,C0126.bmp,vectorized,insert,4,0.01663271799998256
+M II,C0126.bmp,vectorized,insert,5,0.016482989999985875
+M II,C0126.bmp,vectorized,insert,6,0.01666841800010843
+M II,C0126.bmp,vectorized,insert,7,0.016817411999909382
+M II,C0126.bmp,vectorized,insert,8,0.016553195999904347
+M II,C0126.bmp,vectorized,insert,9,0.016458290000173292
+M II,C0126.bmp,vectorized,extract,0,0.0011624650001067494
+M II,C0126.bmp,vectorized,extract,1,0.0007377859999451175
+M II,C0126.bmp,vectorized,extract,2,0.0007650100001228566
+M II,C0126.bmp,vectorized,extract,3,0.0007835639999029809
+M II,C0126.bmp,vectorized,extract,4,0.0007811530001617939
+M II,C0126.bmp,vectorized,extract,5,0.0007791709999764862
+M II,C0126.bmp,vectorized,extract,6,0.0007553949999419274
+M II,C0126.bmp,vectorized,extract,7,0.0007819009999820992
+M II,C0126.bmp,vectorized,extract,8,0.0007862360000672197
+M II,C0126.bmp,vectorized,extract,9,0.0007703740000124526
+M II,C0126.bmp,vectorized,verify,0,0.012176229000033345
+M II,C0126.bmp,vectorized,verify,1,0.012198211999930209
+M II,C0126.bmp,vectorized,verify,2,0.01228265999998257
+M II,C0126.bmp,vectorized,verify,3,0.012132409999821903
+M II,C0126.bmp,vectorized,verify,4,0.012145953999834092
+M II,C0126.bmp,vectorized,verify,5,0.012091829999917536
+M II,C0126.bmp,vectorized,verify,6,0.012454371000103492
+M II,C0126.bmp,vectorized,verify,7,0.012255014000174924
+M II,C0126.bmp,vectorized,verify,8,0.012094301000161067
+M II,C0126.bmp,vectorized,verify,9,0.012083964000112246
+M II,C0163.bmp,reference,insert,0,0.3050213020001138
+M II,C0163.bmp,reference,insert,1,0.2888406940001005
+M II,C0163.bmp,reference,insert,2,0.2992749330001061
+M II,C0163.bmp,reference,insert,3,0.2997128909998992
+M II,C0163.bmp,reference,insert,4,0.29401503899998715
+M II,C0163.bmp,reference,insert,5,0.2885551790000136
+M II,C0163.bmp,reference,insert,6,0.28754179299994576
+M II,C0163.bmp,reference,insert,7,0.29330239599994457
+M II,C0163.bmp,reference,insert,8,0.2978165810000064
+M II,C0163.bmp,reference,insert,9,0.28921920299990234
+M II,C0163.bmp,reference,extract,0,0.11179972200011434
+M II,C0163.bmp,reference,extract,1,0.11395765000020219
+M II,C0163.bmp,reference,extract,2,0.10904720999997153
+M II,C0163.bmp,reference,extract,3,0.10849336699993728
+M II,C0163.bmp,reference,extract,4,0.11047536699993543
+M II,C0163.bmp,reference,extract,5,0.11116530499998589
+M II,C0163.bmp,reference,extract,6,0.11100285500015161
+M II,C0163.bmp,reference,extract,7,0.10877171099991756
+M II,C0163.bmp,reference,extract,8,0.10818986599997515
+M II,C0163.bmp,reference,extract,9,0.11610598199990818
+M II,C0163.bmp,reference,verify,0,0.06258655400006319
+M II,C0163.bmp,reference,verify,1,0.06195578699998805
+M II,C0163.bmp,reference,verify,2,0.06251359899988529
+M II,C0163.bmp,reference,verify,3,0.0609713629999078
+M II,C0163.bmp,reference,verify,4,0.06551280500002576
+M II,C0163.bmp,reference,verify,5,0.0615237959998467
+M II,C0163.bmp,reference,verify,6,0.06058410399987224
+M II,C0163.bmp,reference,verify,7,0.0608777940001346
+M II,C0163.bmp,reference,verify,8,0.06773926400001073
+M II,C0163.bmp,reference,verify,9,0.06517528000017592
+M II,C0163.bmp,vectorized,insert,0,0.015958465000039723
+M II,C0163.bmp,vectorized,insert,1,0.01598217399987334
+M II,C0163.bmp,vectorized,insert,2,0.018982438999955775
+M II,C0163.bmp,vectorized,insert,3,0.016376218000004883
+M II,C0163.bmp,vectorized,insert,4,0.015607769000098415
+M II,C0163.bmp,vectorized,insert,5,0.027301345000068977
+M II,C0163.bmp,vectorized,insert,6,0.021180576999995537
+M II,C0163.bmp,vectorized,insert,7,0.016481295000176033
+M II,C0163.bmp,vectorized,insert,8,0.016836258000012094
+M II,C0163.bmp,vectorized,insert,9,0.018370169000036185
+M II,C0163.bmp,vectorized,extract,0,0.0011084889999892766
+M II,C0163.bmp,vectorized,extract,1,0.0009864259998266789
+M II,C0163.bmp,vectorized,extract,2,0.0008081510000010894
+M II,C0163.bmp,vectorized,extract,3,0.000788830999908896
+M II,C0163.bmp,vectorized,extract,4,0.0008265339999979915
+M II,C0163.bmp,vectorized,extract,5,0.0007324650000555266
+M II,C0163.bmp,vectorized,extract,6,0.0008036040001115907
+M II,C0163.bmp,vectorized,extract,7,0.000795411999888529
+M II,C0163.bmp,vectorized,extract,8,0.0007872639998822706
+M II,C0163.bmp,vectorized,extract,9,0.000835929999993823
+M II,C0163.bmp,vectorized,verify,0,0.014722941999934847
+M II,C0163.bmp,vectorized,verify,1,0.019525402999988728
+M II,C0163.bmp,vectorized,verify,2,0.014379254999994373
+M II,C0163.bmp,vectorized,verify,3,0.013385883999944781
+M II,C0163.bmp,vectorized,verify,4,0.01293519799992282
+M II,C0163.bmp,vectorized,verify,5,0.012627006999991863
+M II,C0163.bmp,vectorized,verify,6,0.012622657000065374
+M II,C0163.bmp,vectorized,verify,7,0.01260149600011573
+M II,C0163.bmp,vectorized,verify,8,0.014746158999969339
+M II,C0163.bmp,vectorized,verify,9,0.012332177999951455
+M II,C0218.bmp,reference,insert,0,0.3312828990001435
+M II,C0218.bmp,reference,insert,1,0.2937553389999721
+M II,C0218.bmp,reference,insert,2,0.27216513500002293
+M II,C0218.bmp,reference,insert,3,0.2679359960000056
+M II,C0218.bmp,reference,insert,4,0.28042989400000806
+M II,C0218.bmp,reference,insert,5,0.2743956459999026
+M II,C0218.bmp,reference,insert,6,0.25928638300001694
+M II,C0218.bmp,reference,insert,7,0.2883313470001667
+M II,C0218.bmp,reference,insert,8,0.2924905540000964
+M II,C0218.bmp,reference,insert,9,0.2650145260001864
+M II,C0218.bmp,reference,extract,0,0.1135152700001072
+M II,C0218.bmp,reference,extract,1,0.11299636799981272
+M II,C0218.bmp,reference,extract,2,0.1137307179999425
+M II,C0218.bmp,reference,extract,3,0.11354602999995222
+M II,C0218.bmp,reference,extract,4,0.11227627800008122
+M II,C0218.bmp,reference,extract,5,0.11237686899994515
+M II,C0218.bmp,reference,extract,6,0.11261796799999502
+M II,C0218.bmp,reference,extract,7,0.11279106400002092
+M II,C0218.bmp,reference,extract,8,0.113298327999928
+M II,C0218.bmp,reference,extract,9,0.1166205849999642
+M II,C0218.bmp,reference,verify,0,0.06273260599982677
+M II,C0218.bmp,reference,verify,1,0.06307388699997318
+M II,C0218.bmp,reference,verify,2,0.06366466100007528
+M II,C0218.bmp,reference,verify,3,0.06393948899994939
+M II,C0218.bmp,reference,verify,4,0.062236949999942226
+M II,C0218.bmp,reference,verify,5,0.06283800000005613
+M II,C0218.bmp,reference,verify,6,0.06329541399986738
+M II,C0218.bmp,reference,verify,7,0.062378144000149405
+M II,C0218.bmp,reference,verify,8,0.062210819000029005
+M II,C0218.bmp,reference,verify,9,0.06292484599998716
+M II,C0218.bmp,vectorized,insert,0,0.016675439999971786
+M II,C0218.bmp,vectorized,insert,1,0.016697209999847473
+M II,C0218.bmp,vectorized,insert,2,0.016980534000140324
+M II,C0218.bmp,vectorized,insert,3,0.0167159189998074
+M II,C0218.bmp,vectorized,insert,4,0.016497585000024628
+M II,C0218.bmp,vectorized,insert,5,0.016737530999989758
+M II,C0218.bmp,vectorized,insert,6,0.01652935700008129
+M II,C0218.bmp,vectorized,insert,7,0.016516671000090355
+M II,C0218.bmp,vectorized,insert,8,0.01648313199984841
+M II,C0218.bmp,vectorized,insert,9,0.016700444999969477
+M II,C0218.bmp,vectorized,extract,0,0.001077917999964484
+M II,C0218.bmp,vectorized,extract,1,0.0008686899998338049
+M II,C0218.bmp,vectorized,extract,2,0.0007755990000077873
+M II,C0218.bmp,vectorized,extract,3,0.0008065549998264032
+M II,C0218.bmp,vectorized,extract,4,0.0007752569999865955
+M II,C0218.bmp,vectorized,extract,5,0.0006903620001139643
+M II,C0218.bmp,vectorized,extract,6,0.000769605999948908
+M II,C0218.bmp,vectorized,extract,7,0.0007677019998482137
+M II,C0218.bmp,vectorized,extract,8,0.0008124099999804457
+M II,C0218.bmp,vectorized,extract,9,0.0007069139999202889
+M II,C0218.bmp,vectorized,verify,0,0.01212721000001693
+M II,C0218.bmp,vectorized,verify,1,0.012203808999856847
+M II,C0218.bmp,vectorized,verify,2,0.012070553000057771
+M II,C0218.bmp,vectorized,verify,3,0.01211466100016878
+M II,C0218.bmp,vectorized,verify,4,0.01229214799991496
+M II,C0218.bmp,vectorized,verify,5,0.012456686999939848
+M II,C0218.bmp,vectorized,verify,6,0.012159815999893908
+M II,C0218.bmp,vectorized,verify,7,0.012214677999963897
+M II,C0218.bmp,vectorized,verify,8,0.012752888000022722
+M II,C0218.bmp,vectorized,verify,9,0.012151043999892863
+M II,C0309.bmp,reference,insert,0,0.2831295789999331
+M II,C0309.bmp,reference,insert,1,0.2832559539999693
+M II,C0309.bmp,reference,insert,2,0.2786002129998906
+M II,C0309.bmp,reference,insert,3,0.27969379299997854
+M II,C0309.bmp,reference,insert,4,0.2811029449999296
+M II,C0309.bmp,reference,insert,5,0.28135158899999624
+M II,C0309.bmp,reference,insert,6,0.2764770920000501
+M II,C0309.bmp,reference,insert,7,0.24370479200001682
+M II,C0309.bmp,reference,insert,8,0.2505001849999644
+M II,C0309.bmp,reference,insert,9,0.2828441369999837
+M II,C0309.bmp,reference,extract,0,0.11609438499999669
+M II,C0309.bmp,reference,extract,1,0.11431768300008116
+M II,C0309.bmp,reference,extract,2,0.11343600599980164
+M II,C0309.bmp,reference,extract,3,0.11290600100005577
+M II,C0309.bmp,reference,extract,4,0.11401171100010288
+M II,C0309.bmp,reference,extract,5,0.1140725160000784
+M II,C0309.bmp,reference,extract,6,0.11302503999991131
+M II,C0309.bmp,reference,extract,7,0.11505404100012129
+M II,C0309.bmp,reference,extract,8,0.11487998500001595
+M II,C0309.bmp,reference,extract,9,0.11421659899997394
+M II,C0309.bmp,reference,verify,0,0.06270278500005588
+M II,C0309.bmp,reference,verify,1,0.06287885400001869
+M II,C0309.bmp,reference,verify,2,0.06271992899996803
+M II,C0309.bmp,reference,verify,3,0.06259333800016975
+M II,C0309.bmp,reference,verify,4,0.06313825400002315
+M II,C0309.bmp,reference,verify,5,0.06211956700008159
+M II,C0309.bmp,reference,verify,6,0.06255411999995886
+M II,C0309.bmp,reference,verify,7,0.06299786099998528
+M II,C0309.bmp,reference,verify,8,0.06272311699990496
+M II,C0309.bmp,reference,verify,9,0.0622702109999409
+M II,C0309.bmp,vectorized,insert,0,0.01656190000016977
+M II,C0309.bmp,vectorized,insert,1,0.016546714000014617
+M II,C0309.bmp,vectorized,insert,2,0.016542580000077578
+M II,C0309.bmp,vectorized,insert,3,0.01640503599992371
+M II,C0309.bmp,vectorized,insert,4,0.01660563199993703
+M II,C0309.bmp,vectorized,insert,5,0.0165759579999758
+M II,C0309.bmp,vectorized,insert,6,0.01625956300017606
+M II,C0309.bmp,vectorized,insert,7,0.016320769000003565
+M II,C0309.bmp,vectorized,insert,8,0.0159254200000305
+M II,C0309.bmp,vectorized,insert,9,0.01629206300003716
+M II,C0309.bmp,vectorized,extract,0,0.0009431679998215259
+M II,C0309.bmp,vectorized,extract,1,0.0009359319999475701
+M II,C0309.bmp,vectorized,extract,2,0.0007502900000417867
+M II,C0309.bmp,vectorized,extract,3,0.0007099800000105461
+M II,C0309.bmp,vectorized,extract,4,0.0006984959998135309
+M II,C0309.bmp,vectorized,extract,5,0.0007367129999238387
+M II,C0309.bmp,vectorized,extract,6,0.0008022729998629075
+M II,C0309.bmp,vectorized,extract,7,0.0007595429999582848
+M II,C0309.bmp,vectorized,extract,8,0.000677098000096521
+M II,C0309.bmp,vectorized,extract,9,0.0007389699999293953
+M II,C0309.bmp,vectorized,verify,0,0.012317174000145314
+M II,C0309.bmp,vectorized,verify,1,0.012307252000027802
+M II,C0309.bmp,vectorized,verify,2,0.012289557000030982
+M II,C0309.bmp,vectorized,verify,3,0.012204939999946873
+M II,C0309.bmp,vectorized,verify,4,0.012290429000131553
+M II,C0309.bmp,vectorized,verify,5,0.01261418500007494
+M II,C0309.bmp,vectorized,verify,6,0.012457908999977008
+M II,C0309.bmp,vectorized,verify,7,0.012417744999993374
+M II,C0309.bmp,vectorized,verify,8,0.012355146999880162
+M II,C0309.bmp,vectorized,verify,9,0.012391712999942683
+M II,C0411.bmp,reference,insert,0,0.28480538600001637
+M II,C0411.bmp,reference,insert,1,0.27781263100018805
+M II,C0411.bmp,reference,insert,2,0.2746420340001805
+M II,C0411.bmp,reference,insert,3,0.2712310270001126
+M II,C0411.bmp,reference,insert,4,0.2694687939999767
+M II,C0411.bmp,reference,insert,5,0.2605237309999211
+M II,C0411.bmp,reference,insert,6,0.2609439029999976
+M II,C0411.bmp,reference,insert,7,0.2657149919998574
+M II,C0411.bmp,reference,insert,8,0.27517835300000115
+M II,C0411.bmp,reference,insert,9,0.272846096999956
+M II,C0411.bmp,reference,extract,0,0.11090991099990788
+M II,C0411.bmp,reference,extract,1,0.1082807299999331
+M II,C0411.bmp,reference,extract,2,0.10708705000001828
+M II,C0411.bmp,reference,extract,3,0.10742188199992597
+M II,C0411.bmp,reference,extract,4,0.10753186000010828
+M II,C0411.bmp,reference,extract,5,0.10962214099981793
+M II,C0411.bmp,reference,extract,6,0.10796933000005993
+M II,C0411.bmp,reference,extract,7,0.1131433030000153
+M II,C0411.bmp,reference,extract,8,0.11305622400004722
+M II,C0411.bmp,reference,extract,9,0.11390268200011633
+M II,C0411.bmp,reference,verify,0,0.06302137700004096
+M II,C0411.bmp,reference,verify,1,0.06311519699988821
+M II,C0411.bmp,reference,verify,2,0.062136163000104716
+M II,C0411.bmp,reference,verify,3,0.06202894299985928
+M II,C0411.bmp,reference,verify,4,0.060754304000056436
+M II,C0411.bmp,reference,verify,5,0.06188995299999078
+M II,C0411.bmp,reference,verify,6,0.06304872400005479
+M II,C0411.bmp,reference,verify,7,0.062320128999999724
+M II,C0411.bmp,reference,verify,8,0.0626290880002216
+M II,C0411.bmp,reference,verify,9,0.06271686600007342
+M II,C0411.bmp,vectorized,insert,0,0.01672245899999325
+M II,C0411.bmp,vectorized,insert,1,0.016343325999969238
+M II,C0411.bmp,vectorized,insert,2,0.016188285999987784
+M II,C0411.bmp,vectorized,insert,3,0.016147338999871863
+M II,C0411.bmp,vectorized,insert,4,0.016091229000039675
+M II,C0411.bmp,vectorized,insert,5,0.016161604999979318
+M II,C0411.bmp,vectorized,insert,6,0.01600417899999229
+M II,C0411.bmp,vectorized,insert,7,0.015918321000071955
+M II,C0411.bmp,vectorized,insert,8,0.015787653999950635
+M II,C0411.bmp,vectorized,insert,9,0.015906342999869594
+M II,C0411.bmp,vectorized,extract,0,0.001048107000087839
+M II,C0411.bmp,vectorized,extract,1,0.0008394930000577006
+M II,C0411.bmp,vectorized,extract,2,0.0007923499999833439
+M II,C0411.bmp,vectorized,extract,3,0.0007073269998727483
+M II,C0411.bmp,vectorized,extract,4,0.0007747649999600981
+M II,C0411.bmp,vectorized,extract,5,0.0008044379999319062
+M II,C0411.bmp,vectorized,extract,6,0.0007767140000396466
+M II,C0411.bmp,vectorized,extract,7,0.0007143319999158848
+M II,C0411.bmp,vectorized,extract,8,0.0007527769998887379
+M II,C0411.bmp,vectorized,extract,9,0.0007728309999492922
+M II,C0411.bmp,vectorized,verify,0,0.0122401449998506
+M II,C0411.bmp,vectorized,verify,1,0.012189032000151201
+M II,C0411.bmp,vectorized,verify,2,0.012112569000009898
+M II,C0411.bmp,vectorized,verify,3,0.011988464000069143
+M II,C0411.bmp,vectorized,verify,4,0.01214520700000321
+M II,C0411.bmp,vectorized,verify,5,0.01208724399998573
+M II,C0411.bmp,vectorized,verify,6,0.01221078599996872
+M II,C0411.bmp,vectorized,verify,7,0.012136160999943968
+M II,C0411.bmp,vectorized,verify,8,0.012191948999998203
+M II,C0411.bmp,vectorized,verify,9,0.012196377000009306
+M II,C0635.bmp,reference,insert,0,0.2863207959999272
+M II,C0635.bmp,reference,insert,1,0.2938885369999298
+M II,C0635.bmp,reference,insert,2,0.28615519199979644
+M II,C0635.bmp,reference,insert,3,0.2852002810000158
+M II,C0635.bmp,reference,insert,4,0.2960263659999782
+M II,C0635.bmp,reference,insert,5,0.3458889609999005
+M II,C0635.bmp,reference,insert,6,0.34072336899998845
+M II,C0635.bmp,reference,insert,7,0.3703989549999278
+M II,C0635.bmp,reference,insert,8,0.3600411710001481
+M II,C0635.bmp,reference,insert,9,0.3102738229999886
+M II,C0635.bmp,reference,extract,0,0.11093021800002134
+M II,C0635.bmp,reference,extract,1,0.10803694300011557
+M II,C0635.bmp,reference,extract,2,0.11137141099993642
+M II,C0635.bmp,reference,extract,3,0.11270361199990475
+M II,C0635.bmp,reference,extract,4,0.11391299399997479
+M II,C0635.bmp,reference,extract,5,0.11131954799998312
+M II,C0635.bmp,reference,extract,6,0.11118102999989787
+M II,C0635.bmp,reference,extract,7,0.11117431999991823
+M II,C0635.bmp,reference,extract,8,0.11675517200001195
+M II,C0635.bmp,reference,extract,9,0.1129897030000393
+M II,C0635.bmp,reference,verify,0,0.06192612800009556
+M II,C0635.bmp,reference,verify,1,0.06186499300019932
+M II,C0635.bmp,reference,verify,2,0.062155346000054124
+M II,C0635.bmp,reference,verify,3,0.062056995999910214
+M II,C0635.bmp,reference,verify,4,0.06265853099989727
+M II,C0635.bmp,reference,verify,5,0.06337015600001905
+M II,C0635.bmp,reference,verify,6,0.07015799999999217
+M II,C0635.bmp,reference,verify,7,0.06689389799998935
+M II,C0635.bmp,reference,verify,8,0.06224612000005436
+M II,C0635.bmp,reference,verify,9,0.06527464500004498
+M II,C0635.bmp,vectorized,insert,0,0.016718225999966307
+M II,C0635.bmp,vectorized,insert,1,0.016681850999930248
+M II,C0635.bmp,vectorized,insert,2,0.016255223999905866
+M II,C0635.bmp,vectorized,insert,3,0.016185323999934553
+M II,C0635.bmp,vectorized,insert,4,0.016346077999969566
+M II,C0635.bmp,vectorized,insert,5,0.01667477399996642
+M II,C0635.bmp,vectorized,insert,6,0.016837139000017487
+M II,C0635.bmp,vectorized,insert,7,0.019935709000037605
+M II,C0635.bmp,vectorized,insert,8,0.01686603100006323
+M II,C0635.bmp,vectorized,insert,9,0.016444916999944326
+M II,C0635.bmp,vectorized,extract,0,0.001061607999872649
+M II,C0635.bmp,vectorized,extract,1,0.0010208180001427536
+M II,C0635.bmp,vectorized,extract,2,0.0008177480001450022
+M II,C0635.bmp,vectorized,extract,3,0.0007088539998676424
+M II,C0635.bmp,vectorized,extract,4,0.0007585360001485242
+M II,C0635.bmp,vectorized,extract,5,0.0008099440001387848
+M II,C0635.bmp,vectorized,extract,6,0.0007550390000687912
+M II,C0635.bmp,vectorized,extract,7,0.0007379270000456017
+M II,C0635.bmp,vectorized,extract,8,0.0007511700000577548
+M II,C0635.bmp,vectorized,extract,9,0.0007598499998948682
+M II,C0635.bmp,vectorized,verify,0,0.012497090999886495
+M II,C0635.bmp,vectorized,verify,1,0.012192085000151565
+M II,C0635.bmp,vectorized,verify,2,0.013147622000133197
+M II,C0635.bmp,vectorized,verify,3,0.012309818000176165
+M II,C0635.bmp,vectorized,verify,4,0.012189948000013828
+M II,C0635.bmp,vectorized,verify,5,0.0121796240000549
+M II,C0635.bmp,vectorized,verify,6,0.012211211000021649
+M II,C0635.bmp,vectorized,verify,7,0.012416944999813495
+M II,C0635.bmp,vectorized,verify,8,0.01307917299982364
+M II,C0635.bmp,vectorized,verify,9,0.01227190999998129
+M II,C0869.bmp,reference,insert,0,0.27601165999999466
+M II,C0869.bmp,reference,insert,1,0.2632777580001857
+M II,C0869.bmp,reference,insert,2,0.2752834860000348
+M II,C0869.bmp,reference,insert,3,0.2873000699999011
+M II,C0869.bmp,reference,insert,4,0.28492088899997725
+M II,C0869.bmp,reference,insert,5,0.2747546709999824
+M II,C0869.bmp,reference,insert,6,0.27258154800006196
+M II,C0869.bmp,reference,insert,7,0.2730844610000531
+M II,C0869.bmp,reference,insert,8,0.2802598860000671
+M II,C0869.bmp,reference,insert,9,0.2838282249999793
+M II,C0869.bmp,reference,extract,0,0.11254542500000753
+M II,C0869.bmp,reference,extract,1,0.11402828899986162
+M II,C0869.bmp,reference,extract,2,0.11249480299989045
+M II,C0869.bmp,reference,extract,3,0.11231848500005981
+M II,C0869.bmp,reference,extract,4,0.11258890099998098
+M II,C0869.bmp,reference,extract,5,0.11463832399999774
+M II,C0869.bmp,reference,extract,6,0.11005089199989015
+M II,C0869.bmp,reference,extract,7,0.10970025999995414
+M II,C0869.bmp,reference,extract,8,0.115643215000091
+M II,C0869.bmp,reference,extract,9,0.108710561999942
+M II,C0869.bmp,reference,verify,0,0.06125162500006809
+M II,C0869.bmp,reference,verify,1,0.062329849999969156
+M II,C0869.bmp,reference,verify,2,0.06255208900006437
+M II,C0869.bmp,reference,verify,3,0.06140316100004384
+M II,C0869.bmp,reference,verify,4,0.058670119999987946
+M II,C0869.bmp,reference,verify,5,0.05879177800011348
+M II,C0869.bmp,reference,verify,6,0.06165608300011627
+M II,C0869.bmp,reference,verify,7,0.06385054999987005
+M II,C0869.bmp,reference,verify,8,0.06490464699982113
+M II,C0869.bmp,reference,verify,9,0.06290189399987867
+M II,C0869.bmp,vectorized,insert,0,0.016370273000120505
+M II,C0869.bmp,vectorized,insert,1,0.016217230000165728
+M II,C0869.bmp,vectorized,insert,2,0.0159740399999464
+M II,C0869.bmp,vectorized,insert,3,0.016096736000008605
+M II,C0869.bmp,vectorized,insert,4,0.015586499999926673
+M II,C0869.bmp,vectorized,insert,5,0.015399577999914982
+M II,C0869.bmp,vectorized,insert,6,0.015411521000032735
+M II,C0869.bmp,vectorized,insert,7,0.01551610299998174
+M II,C0869.bmp,vectorized,insert,8,0.01594677100001718
+M II,C0869.bmp,vectorized,insert,9,0.015818333999959577
+M II,C0869.bmp,vectorized,extract,0,0.000962916000162295
+M II,C0869.bmp,vectorized,extract,1,0.0007815440001195384
+M II,C0869.bmp,vectorized,extract,2,0.0006639840000843833
+M II,C0869.bmp,vectorized,extract,3,0.0007602729999689473
+M II,C0869.bmp,vectorized,extract,4,0.0007330030000503029
+M II,C0869.bmp,vectorized,extract,5,0.0006795570000122098
+M II,C0869.bmp,vectorized,extract,6,0.0006863040000553156
+M II,C0869.bmp,vectorized,extract,7,0.000725198000054661
+M II,C0869.bmp,vectorized,extract,8,0.0007493339999200543
+M II,C0869.bmp,vectorized,extract,9,0.0006732100000590435
+M II,C0869.bmp,vectorized,verify,0,0.012387364000005618
+M II,C0869.bmp,vectorized,verify,1,0.01228560300000936
+M II,C0869.bmp,vectorized,verify,2,0.012383973999931186
+M II,C0869.bmp,vectorized,verify,3,0.012317344999928537
+M II,C0869.bmp,vectorized,verify,4,0.012263959999927465
+M II,C0869.bmp,vectorized,verify,5,0.012528320000001258
+M II,C0869.bmp,vectorized,verify,6,0.01231122600006529
+M II,C0869.bmp,vectorized,verify,7,0.01230730199995378
+M II,C0869.bmp,vectorized,verify,8,0.01224044499986121
+M II,C0869.bmp,vectorized,verify,9,0.01215033699986634
+M II,C0886.bmp,reference,insert,0,0.2950057759999254
+M II,C0886.bmp,reference,insert,1,0.28543862800006536
+M II,C0886.bmp,reference,insert,2,0.27645510499996817
+M II,C0886.bmp,reference,insert,3,0.28439442000012605
+M II,C0886.bmp,reference,insert,4,0.2701541769999949
+M II,C0886.bmp,reference,insert,5,0.2623497449999377
+M II,C0886.bmp,reference,insert,6,0.24632436699994287
+M II,C0886.bmp,reference,insert,7,0.27083664600013435
+M II,C0886.bmp,reference,insert,8,0.2823058219998984
+M II,C0886.bmp,reference,insert,9,0.2626037059999362
+M II,C0886.bmp,reference,extract,0,0.10761425199984842
+M II,C0886.bmp,reference,extract,1,0.11042168599988145
+M II,C0886.bmp,reference,extract,2,0.11316779200001292
+M II,C0886.bmp,reference,extract,3,0.11068206300001293
+M II,C0886.bmp,reference,extract,4,0.11035511899990524
+M II,C0886.bmp,reference,extract,5,0.10776990300018952
+M II,C0886.bmp,reference,extract,6,0.10728735899988351
+M II,C0886.bmp,reference,extract,7,0.10655021099978512
+M II,C0886.bmp,reference,extract,8,0.10704180300012922
+M II,C0886.bmp,reference,extract,9,0.10502521300008993
+M II,C0886.bmp,reference,verify,0,0.0579800380000961
+M II,C0886.bmp,reference,verify,1,0.05842202799999541
+M II,C0886.bmp,reference,verify,2,0.0582798080001794
+M II,C0886.bmp,reference,verify,3,0.05705409500001224
+M II,C0886.bmp,reference,verify,4,0.05683502800002316
+M II,C0886.bmp,reference,verify,5,0.05670233499995447
+M II,C0886.bmp,reference,verify,6,0.0578515489999063
+M II,C0886.bmp,reference,verify,7,0.0582619589999922
+M II,C0886.bmp,reference,verify,8,0.05817722799997682
+M II,C0886.bmp,reference,verify,9,0.058101467999904344
+M II,C0886.bmp,vectorized,insert,0,0.016366396000194072
+M II,C0886.bmp,vectorized,insert,1,0.016111040999930992
+M II,C0886.bmp,vectorized,insert,2,0.015944707000016933
+M II,C0886.bmp,vectorized,insert,3,0.01589706799995838
+M II,C0886.bmp,vectorized,insert,4,0.015932249000115917
+M II,C0886.bmp,vectorized,insert,5,0.015759396000021297
+M II,C0886.bmp,vectorized,insert,6,0.015647371000113708
+M II,C0886.bmp,vectorized,insert,7,0.01564245600002323
+M II,C0886.bmp,vectorized,insert,8,0.015726137000001472
+M II,C0886.bmp,vectorized,insert,9,0.01683107899998504
+M II,C0886.bmp,vectorized,extract,0,0.0010749070002020744
+M II,C0886.bmp,vectorized,extract,1,0.0009895400000914378
+M II,C0886.bmp,vectorized,extract,2,0.0008752159999403375
+M II,C0886.bmp,vectorized,extract,3,0.0007657030000700615
+M II,C0886.bmp,vectorized,extract,4,0.0006995980002102442
+M II,C0886.bmp,vectorized,extract,5,0.0007259320000230218
+M II,C0886.bmp,vectorized,extract,6,0.0007799390000400308
+M II,C0886.bmp,vectorized,extract,7,0.0007307979999495728
+M II,C0886.bmp,vectorized,extract,8,0.0007202079998478439
+M II,C0886.bmp,vectorized,extract,9,0.0007310169999072968
+M II,C0886.bmp,vectorized,verify,0,0.011307207000072594
+M II,C0886.bmp,vectorized,verify,1,0.015070945999923424
+M II,C0886.bmp,vectorized,verify,2,0.01550360000010187
+M II,C0886.bmp,vectorized,verify,3,0.011468952000086574
+M II,C0886.bmp,vectorized,verify,4,0.011359972000036578
+M II,C0886.bmp,vectorized,verify,5,0.011310870999977851
+M II,C0886.bmp,vectorized,verify,6,0.011294237999891266
+M II,C0886.bmp,vectorized,verify,7,0.011451823000015793
+M II,C0886.bmp,vectorized,verify,8,0.011629176999804258
+M II,C0886.bmp,vectorized,verify,9,0.011582587000020794
+DCT,C0071.bmp,reference,insert,0,0.28850496499990186
+DCT,C0071.bmp,reference,insert,1,0.28980520799996157
+DCT,C0071.bmp,reference,insert,2,0.43700022300004093
+DCT,C0071.bmp,reference,insert,3,0.28456524299986086
+DCT,C0071.bmp,reference,insert,4,0.29056904999993094
+DCT,C0071.bmp,reference,insert,5,0.28947923100008666
+DCT,C0071.bmp,reference,insert,6,0.29968330900010187
+DCT,C0071.bmp,reference,insert,7,0.28808880300016426
+DCT,C0071.bmp,reference,insert,8,0.2843408299997918
+DCT,C0071.bmp,reference,insert,9,0.28017864999992526
+DCT,C0071.bmp,reference,extract,0,0.11382818600009159
+DCT,C0071.bmp,reference,extract,1,0.11158323599988762
+DCT,C0071.bmp,reference,extract,2,0.10953109299998687
+DCT,C0071.bmp,reference,extract,3,0.11035620200004814
+DCT,C0071.bmp,reference,extract,4,0.11400632000004407
+DCT,C0071.bmp,reference,extract,5,0.11637479199998779
+DCT,C0071.bmp,reference,extract,6,0.11470431399993686
+DCT,C0071.bmp,reference,extract,7,0.11440490400013914
+DCT,C0071.bmp,reference,extract,8,0.11878174000003128
+DCT,C0071.bmp,reference,extract,9,0.118080910000117
+DCT,C0071.bmp,reference,verify,0,0.06148920700002236
+DCT,C0071.bmp,reference,verify,1,0.06294935599999008
+DCT,C0071.bmp,reference,verify,2,0.06291381799996998
+DCT,C0071.bmp,reference,verify,3,0.06378542900006323
+DCT,C0071.bmp,reference,verify,4,0.06899324500000148
+DCT,C0071.bmp,reference,verify,5,0.060810378000041965
+DCT,C0071.bmp,reference,verify,6,0.062307071000077485
+DCT,C0071.bmp,reference,verify,7,0.062287179999884756
+DCT,C0071.bmp,reference,verify,8,0.061011685000039506
+DCT,C0071.bmp,reference,verify,9,0.06321611600014876
+DCT,C0071.bmp,vectorized,insert,0,0.017150872000001982
+DCT,C0071.bmp,vectorized,insert,1,0.01787354700013566
+DCT,C0071.bmp,vectorized,insert,2,0.01721629100006794
+DCT,C0071.bmp,vectorized,insert,3,0.01706537799987018
+DCT,C0071.bmp,vectorized,insert,4,0.016733016999978645
+DCT,C0071.bmp,vectorized,insert,5,0.016864835000205858
+DCT,C0071.bmp,vectorized,insert,6,0.01679099599982692
+DCT,C0071.bmp,vectorized,insert,7,0.016872610000064014
+DCT,C0071.bmp,vectorized,insert,8,0.016470517000016116
+DCT,C0071.bmp,vectorized,insert,9,0.016718714000035106
+DCT,C0071.bmp,vectorized,extract,0,0.0010639679999258078
+DCT,C0071.bmp,vectorized,extract,1,0.0009337300000424875
+DCT,C0071.bmp,vectorized,extract,2,0.0007763910000448959
+DCT,C0071.bmp,vectorized,extract,3,0.0008342109999830427
+DCT,C0071.bmp,vectorized,extract,4,0.0007885919999353064
+DCT,C0071.bmp,vectorized,extract,5,0.0007630650000010064
+DCT,C0071.bmp,vectorized,extract,6,0.0007268240001394588
+DCT,C0071.bmp,vectorized,extract,7,0.0007911679999779153
+DCT,C0071.bmp,vectorized,extract,8,0.0008366909999040217
+DCT,C0071.bmp,vectorized,extract,9,0.0007909480000307667
+DCT,C0071.bmp,vectorized,verify,0,0.012696569000127056
+DCT,C0071.bmp,vectorized,verify,1,0.01273183200009953
+DCT,C0071.bmp,vectorized,verify,2,0.012663750999990953
+DCT,C0071.bmp,vectorized,verify,3,0.01243422799984728
+DCT,C0071.bmp,vectorized,verify,4,0.012592441999913717
+DCT,C0071.bmp,vectorized,verify,5,0.012604993999957514
+DCT,C0071.bmp,vectorized,verify,6,0.01242999900000541
+DCT,C0071.bmp,vectorized,verify,7,0.0125553770001261
+DCT,C0071.bmp,vectorized,verify,8,0.01280321199988066
+DCT,C0071.bmp,vectorized,verify,9,0.01240522900002361
+DCT,C0123.bmp,reference,insert,0,0.30765916600012133
+DCT,C0123.bmp,reference,insert,1,0.2869564329998866
+DCT,C0123.bmp,reference,insert,2,0.28475117599987243
+DCT,C0123.bmp,reference,insert,3,0.28712258699988524
+DCT,C0123.bmp,reference,insert,4,0.2856572129999222
+DCT,C0123.bmp,reference,insert,5,0.2795087380000041
+DCT,C0123.bmp,reference,insert,6,0.28715613700001086
+DCT,C0123.bmp,reference,insert,7,0.2697817789999135
+DCT,C0123.bmp,reference,insert,8,0.27268351499992605
+DCT,C0123.bmp,reference,insert,9,0.2738537669999914
+DCT,C0123.bmp,reference,extract,0,0.10745618600003581
+DCT,C0123.bmp,reference,extract,1,0.10531982800011974
+DCT,C0123.bmp,reference,extract,2,0.10879301699992538
+DCT,C0123.bmp,reference,extract,3,0.10964229199998954
+DCT,C0123.bmp,reference,extract,4,0.11187421299996458
+DCT,C0123.bmp,reference,extract,5,0.11040110099997946
+DCT,C0123.bmp,reference,extract,6,0.10916302600003291
+DCT,C0123.bmp,reference,extract,7,0.10745740600009412
+DCT,C0123.bmp,reference,extract,8,0.10776186399994003
+DCT,C0123.bmp,reference,extract,9,0.10865932899992004
+DCT,C0123.bmp,reference,verify,0,0.060396176000040214
+DCT,C0123.bmp,reference,verify,1,0.05943696600002113
+DCT,C0123.bmp,reference,verify,2,0.05764196199993421
+DCT,C0123.bmp,reference,verify,3,0.057576960000005784
+DCT,C0123.bmp,reference,verify,4,0.05814854999994168
+DCT,C0123.bmp,reference,verify,5,0.058444290000124965
+DCT,C0123.bmp,reference,verify,6,0.057998730000008436
+DCT,C0123.bmp,reference,verify,7,0.06109102000004896
+DCT,C0123.bmp,reference,verify,8,0.061698101999809296
+DCT,C0123.bmp,reference,verify,9,0.061702817999957915
+DCT,C0123.bmp,vectorized,insert,0,0.016482118000112678
+DCT,C0123.bmp,vectorized,insert,1,0.01641642699996737
+DCT,C0123.bmp,vectorized,insert,2,0.01652061700019658
+DCT,C0123.bmp,vectorized,insert,3,0.01608259500017084
+DCT,C0123.bmp,vectorized,insert,4,0.0162446589999945
+DCT,C0123.bmp,vectorized,insert,5,0.016095724000024347
+DCT,C0123.bmp,vectorized,insert,6,0.016136958000060986
+DCT,C0123.bmp,vectorized,insert,7,0.016414868000083516
+DCT,C0123.bmp,vectorized,insert,8,0.016089773999965473
+DCT,C0123.bmp,vectorized,insert,9,0.016802952000034566
+DCT,C0123.bmp,vectorized,extract,0,0.0009946360000867571
+DCT,C0123.bmp,vectorized,extract,1,0.0009069189998172078
+DCT,C0123.bmp,vectorized,extract,2,0.0006915079998179863
+DCT,C0123.bmp,vectorized,extract,3,0.0007336600001508486
+DCT,C0123.bmp,vectorized,extract,4,0.0007252289999541972
+DCT,C0123.bmp,vectorized,extract,5,0.0007236920000650571
+DCT,C0123.bmp,vectorized,extract,6,0.0006502669998553756
+DCT,C0123.bmp,vectorized,extract,7,0.000750614000025962
+DCT,C0123.bmp,vectorized,extract,8,0.0007024779999937891
+DCT,C0123.bmp,vectorized,extract,9,0.0006356280000545667
+DCT,C0123.bmp,vectorized,verify,0,0.012339888000042265
+DCT,C0123.bmp,vectorized,verify,1,0.012334290000126202
+DCT,C0123.bmp,vectorized,verify,2,0.012229253000214158
+DCT,C0123.bmp,vectorized,verify,3,0.012147938999987673
+DCT,C0123.bmp,vectorized,verify,4,0.012222180999970078
+DCT,C0123.bmp,vectorized,verify,5,0.012176573000033386
+DCT,C0123.bmp,vectorized,verify,6,0.012105792999818732
+DCT,C0123.bmp,vectorized,verify,7,0.012333742000009806
+DCT,C0123.bmp,vectorized,verify,8,0.012238265000178217
+DCT,C0123.bmp,vectorized,verify,9,0.012494686000081856
+DCT,C0126.bmp,reference,insert,0,0.2792793649998657
+DCT,C0126.bmp,reference,insert,1,0.2717463339999995
+DCT,C0126.bmp,reference,insert,2,0.2753873610001847
+DCT,C0126.bmp,reference,insert,3,0.2639477090001492
+DCT,C0126.bmp,reference,insert,4,0.2610436850000042
+DCT,C0126.bmp,reference,insert,5,0.2627539650000017
+DCT,C0126.bmp,reference,insert,6,0.2622512339999048
+DCT,C0126.bmp,reference,insert,7,0.2608570929999132
+DCT,C0126.bmp,reference,insert,8,0.26156164799999715
+DCT,C0126.bmp,reference,insert,9,0.2610121379998418
+DCT,C0126.bmp,reference,extract,0,0.11060156999997162
+DCT,C0126.bmp,reference,extract,1,0.10770893600010822
+DCT,C0126.bmp,reference,extract,2,0.10860961299999872
+DCT,C0126.bmp,reference,extract,3,0.10825351599987698
+DCT,C0126.bmp,reference,extract,4,0.10937946200010629
+DCT,C0126.bmp,reference,extract,5,0.11363327899994147
+DCT,C0126.bmp,reference,extract,6,0.10956144099986886
+DCT,C0126.bmp,reference,extract,7,0.1087361449999662
+DCT,C0126.bmp,reference,extract,8,0.10962100400001873
+DCT,C0126.bmp,reference,extract,9,0.1084031689999847
+DCT,C0126.bmp,reference,verify,0,0.062365254000042114
+DCT,C0126.bmp,reference,verify,1,0.062382695999986026
+DCT,C0126.bmp,reference,verify,2,0.06285174100003132
+DCT,C0126.bmp,reference,verify,3,0.06227722400012681
+DCT,C0126.bmp,reference,verify,4,0.05859798500000579
+DCT,C0126.bmp,reference,verify,5,0.05824172000006911
+DCT,C0126.bmp,reference,verify,6,0.062255185000140045
+DCT,C0126.bmp,reference,verify,7,0.06640516600009505
+DCT,C0126.bmp,reference,verify,8,0.06236164100005226
+DCT,C0126.bmp,reference,verify,9,0.06422654699986197
+DCT,C0126.bmp,vectorized,insert,0,0.016416498000126012
+DCT,C0126.bmp,vectorized,insert,1,0.016489085000102932
+DCT,C0126.bmp,vectorized,insert,2,0.016260269000213157
+DCT,C0126.bmp,vectorized,insert,3,0.01617652499999167
+DCT,C0126.bmp,vectorized,insert,4,0.016181760999870676
+DCT,C0126.bmp,vectorized,insert,5,0.01613636199999746
+DCT,C0126.bmp,vectorized,insert,6,0.016187917000024754
+DCT,C0126.bmp,vectorized,insert,7,0.01676397400001406
+DCT,C0126.bmp,vectorized,insert,8,0.016119051000032414
+DCT,C0126.bmp,vectorized,insert,9,0.016057082000088485
+DCT,C0126.bmp,vectorized,extract,0,0.0010324859999855107
+DCT,C0126.bmp,vectorized,extract,1,0.0008619780001026811
+DCT,C0126.bmp,vectorized,extract,2,0.000691452999944886
+DCT,C0126.bmp,vectorized,extract,3,0.0007983400000739493
+DCT,C0126.bmp,vectorized,extract,4,0.0007563690001006762
+DCT,C0126.bmp,vectorized,extract,5,0.0007523320000473177
+DCT,C0126.bmp,vectorized,extract,6,0.0006785449998005788
+DCT,C0126.bmp,vectorized,extract,7,0.0007631659998423856
+DCT,C0126.bmp,vectorized,extract,8,0.0007940200000575715
+DCT,C0126.bmp,vectorized,extract,9,0.0007488199998988421
+DCT,C0126.bmp,vectorized,verify,0,0.012553232999835018
+DCT,C0126.bmp,vectorized,verify,1,0.012326788999871496
+DCT,C0126.bmp,vectorized,verify,2,0.01218887499999255
+DCT,C0126.bmp,vectorized,verify,3,0.01219429399998262
+DCT,C0126.bmp,vectorized,verify,4,0.012138365000055273
+DCT,C0126.bmp,vectorized,verify,5,0.0121247869999479
+DCT,C0126.bmp,vectorized,verify,6,0.012193604999993113
+DCT,C0126.bmp,vectorized,verify,7,0.012119702000063626
+DCT,C0126.bmp,vectorized,verify,8,0.012193519999982527
+DCT,C0126.bmp,vectorized,verify,9,0.012116643000126714
+DCT,C0163.bmp,reference,insert,0,0.27802050700006475
+DCT,C0163.bmp,reference,insert,1,0.27175965200012797
+DCT,C0163.bmp,reference,insert,2,0.2831150869999419
+DCT,C0163.bmp,reference,insert,3,0.27509319000000687
+DCT,C0163.bmp,reference,insert,4,0.273343124999883
+DCT,C0163.bmp,reference,insert,5,0.2712587580001582
+DCT,C0163.bmp,reference,insert,6,0.2742950159999964
+DCT,C0163.bmp,reference,insert,7,0.2774877379999907
+DCT,C0163.bmp,reference,insert,8,0.2735761650001223
+DCT,C0163.bmp,reference,insert,9,0.27228982100018584
+DCT,C0163.bmp,reference,extract,0,0.1113532159999977
+DCT,C0163.bmp,reference,extract,1,0.11402718699991965
+DCT,C0163.bmp,reference,extract,2,0.1106536940001206
+DCT,C0163.bmp,reference,extract,3,0.11014381000018147
+DCT,C0163.bmp,reference,extract,4,0.11339493999980732
+DCT,C0163.bmp,reference,extract,5,0.11427202699996997
+DCT,C0163.bmp,reference,extract,6,0.11709254199990937
+DCT,C0163.bmp,reference,extract,7,0.11338818400008677
+DCT,C0163.bmp,reference,extract,8,0.1134905300000355
+DCT,C0163.bmp,reference,extract,9,0.115718834000063
+DCT,C0163.bmp,reference,verify,0,0.06283082300001297
+DCT,C0163.bmp,reference,verify,1,0.06272408799986806
+DCT,C0163.bmp,reference,verify,2,0.06244195400017816
+DCT,C0163.bmp,reference,verify,3,0.06288715200003026
+DCT,C0163.bmp,reference,verify,4,0.0636047469999994
+DCT,C0163.bmp,reference,verify,5,0.06279787099992973
+DCT,C0163.bmp,reference,verify,6,0.06359822100012025
+DCT,C0163.bmp,reference,verify,7,0.06330657800003792
+DCT,C0163.bmp,reference,verify,8,0.06248923799989825
+DCT,C0163.bmp,reference,verify,9,0.0641167010001027
+DCT,C0163.bmp,vectorized,insert,0,0.016510072000073706
+DCT,C0163.bmp,vectorized,insert,1,0.016565863999858266
+DCT,C0163.bmp,vectorized,insert,2,0.016098645000056422
+DCT,C0163.bmp,vectorized,insert,3,0.016344367999863607
+DCT,C0163.bmp,vectorized,insert,4,0.01638010800002121
+DCT,C0163.bmp,vectorized,insert,5,0.016320461000077557
+DCT,C0163.bmp,vectorized,insert,6,0.016597708999825045
+DCT,C0163.bmp,vectorized,insert,7,0.016699607999953514
+DCT,C0163.bmp,vectorized,insert,8,0.016739954000058788
+DCT,C0163.bmp,vectorized,insert,9,0.01645047900001373
+DCT,C0163.bmp,vectorized,extract,0,0.0010780229999909352
+DCT,C0163.bmp,vectorized,extract,1,0.000988491000043723
+DCT,C0163.bmp,vectorized,extract,2,0.0007616289999532455
+DCT,C0163.bmp,vectorized,extract,3,0.0007043759999305621
+DCT,C0163.bmp,vectorized,extract,4,0.0007727130000603211
+DCT,C0163.bmp,vectorized,extract,5,0.0008029620000797877
+DCT,C0163.bmp,vectorized,extract,6,0.0007982150000316324
+DCT,C0163.bmp,vectorized,extract,7,0.0007847790000141686
+DCT,C0163.bmp,vectorized,extract,8,0.0007401020000088465
+DCT,C0163.bmp,vectorized,extract,9,0.0007725840000603057
+DCT,C0163.bmp,vectorized,verify,0,0.012523850999969
+DCT,C0163.bmp,vectorized,verify,1,0.011740240999870366
+DCT,C0163.bmp,vectorized,verify,2,0.011478116000034788
+DCT,C0163.bmp,vectorized,verify,3,0.011971011000014187
+DCT,C0163.bmp,vectorized,verify,4,0.011767223999868293
+DCT,C0163.bmp,vectorized,verify,5,0.01185174400006872
+DCT,C0163.bmp,vectorized,verify,6,0.011699699000018882
+DCT,C0163.bmp,vectorized,verify,7,0.012032944000111456
+DCT,C0163.bmp,vectorized,verify,8,0.011837001999992935
+DCT,C0163.bmp,vectorized,verify,9,0.011713025000062771
+DCT,C0218.bmp,reference,insert,0,0.27565614700006336
+DCT,C0218.bmp,reference,insert,1,0.27403447100004996
+DCT,C0218.bmp,reference,insert,2,0.2707672450001155
+DCT,C0218.bmp,reference,insert,3,0.27069150400006947
+DCT,C0218.bmp,reference,insert,4,0.2727421839999806
+DCT,C0218.bmp,reference,insert,5,0.2699944420000975
+DCT,C0218.bmp,reference,insert,6,0.2760335559999021
+DCT,C0218.bmp,reference,insert,7,0.27789670800007116
+DCT,C0218.bmp,reference,insert,8,0.2796790229999715
+DCT,C0218.bmp,reference,insert,9,0.2775242600000638
+DCT,C0218.bmp,reference,extract,0,0.1121572259999084
+DCT,C0218.bmp,reference,extract,1,0.11164078699994207
+DCT,C0218.bmp,reference,extract,2,0.1124924190000911
+DCT,C0218.bmp,reference,extract,3,0.11204137100003209
+DCT,C0218.bmp,reference,extract,4,0.11214723800003412
+DCT,C0218.bmp,reference,extract,5,0.11125418400001763
+DCT,C0218.bmp,reference,extract,6,0.11074664300008408
+DCT,C0218.bmp,reference,extract,7,0.11270519100003185
+DCT,C0218.bmp,reference,extract,8,0.1117347049998898
+DCT,C0218.bmp,reference,extract,9,0.11229491900007815
+DCT,C0218.bmp,reference,verify,0,0.06125392500007365
+DCT,C0218.bmp,reference,verify,1,0.061101670999960334
+DCT,C0218.bmp,reference,verify,2,0.06102997600009985
+DCT,C0218.bmp,reference,verify,3,0.06099518899986833
+DCT,C0218.bmp,reference,verify,4,0.061136753000027966
+DCT,C0218.bmp,reference,verify,5,0.06125104700004158
+DCT,C0218.bmp,reference,verify,6,0.061685458000056315
+DCT,C0218.bmp,reference,verify,7,0.06142524899996715
+DCT,C0218.bmp,reference,verify,8,0.06158117199993285
+DCT,C0218.bmp,reference,verify,9,0.06169220900005712
+DCT,C0218.bmp,vectorized,insert,0,0.016564733999985037
+DCT,C0218.bmp,vectorized,insert,1,0.01649556699999266
+DCT,C0218.bmp,vectorized,insert,2,0.016418740000062826
+DCT,C0218.bmp,vectorized,insert,3,0.016761013999939678
+DCT,C0218.bmp,vectorized,insert,4,0.016593393999983164
+DCT,C0218.bmp,vectorized,insert,5,0.016482459999906496
+DCT,C0218.bmp,vectorized,insert,6,0.016189101000009032
+DCT,C0218.bmp,vectorized,insert,7,0.016119651000053636
+DCT,C0218.bmp,vectorized,insert,8,0.016205873999979303
+DCT,C0218.bmp,vectorized,insert,9,0.016542290999950637
+DCT,C0218.bmp,vectorized,extract,0,0.0010279629998422024
+DCT,C0218.bmp,vectorized,extract,1,0.0008318119998875773
+DCT,C0218.bmp,vectorized,extract,2,0.0006800880000810139
+DCT,C0218.bmp,vectorized,extract,3,0.0007255340001393051
+DCT,C0218.bmp,vectorized,extract,4,0.0006995219998771063
+DCT,C0218.bmp,vectorized,extract,5,0.0007346639999923354
+DCT,C0218.bmp,vectorized,extract,6,0.0007034509999357397
+DCT,C0218.bmp,vectorized,extract,7,0.0007157420000112324
+DCT,C0218.bmp,vectorized,extract,8,0.0006896909999341005
+DCT,C0218.bmp,vectorized,extract,9,0.000664326999867626
+DCT,C0218.bmp,vectorized,verify,0,0.012226811000118687
+DCT,C0218.bmp,vectorized,verify,1,0.012147013000003426
+DCT,C0218.bmp,vectorized,verify,2,0.012188777999881495
+DCT,C0218.bmp,vectorized,verify,3,0.012191822999966462
+DCT,C0218.bmp,vectorized,verify,4,0.012151071000062075
+DCT,C0218.bmp,vectorized,verify,5,0.012343279000106122
+DCT,C0218.bmp,vectorized,verify,6,0.012240880000035759
+DCT,C0218.bmp,vectorized,verify,7,0.012176050000107352
+DCT,C0218.bmp,vectorized,verify,8,0.012208676000000196
+DCT,C0218.bmp,vectorized,verify,9,0.012042243999985658
+DCT,C0309.bmp,reference,insert,0,0.27598629099998107
+DCT,C0309.bmp,reference,insert,1,0.2760329800000818
+DCT,C0309.bmp,reference,insert,2,0.27743772500002706
+DCT,C0309.bmp,reference,insert,3,0.2776939240000047
+DCT,C0309.bmp,reference,insert,4,0.2769813959998828
+DCT,C0309.bmp,reference,insert,5,0.2770416660000592
+DCT,C0309.bmp,reference,insert,6,0.2731249129999469
+DCT,C0309.bmp,reference,insert,7,0.275766147000013
+DCT,C0309.bmp,reference,insert,8,0.2773978210000223
+DCT,C0309.bmp,reference,insert,9,0.2788212749999275
+DCT,C0309.bmp,reference,extract,0,0.11395328899993729
+DCT,C0309.bmp,reference,extract,1,0.11365025800000694
+DCT,C0309.bmp,reference,extract,2,0.11387038899988511
+DCT,C0309.bmp,reference,extract,3,0.11378170700004375
+DCT,C0309.bmp,reference,extract,4,0.11472635600011927
+DCT,C0309.bmp,reference,extract,5,0.11172239400002582
+DCT,C0309.bmp,reference,extract,6,0.11292688599996836
+DCT,C0309.bmp,reference,extract,7,0.11321615099996052
+DCT,C0309.bmp,reference,extract,8,0.11380543599989323
+DCT,C0309.bmp,reference,extract,9,0.11535978500000965
+DCT,C0309.bmp,reference,verify,0,0.06070379600009801
+DCT,C0309.bmp,reference,verify,1,0.06536479100009274
+DCT,C0309.bmp,reference,verify,2,0.06355506799991417
+DCT,C0309.bmp,reference,verify,3,0.06302014600009898
+DCT,C0309.bmp,reference,verify,4,0.06326220999994803
+DCT,C0309.bmp,reference,verify,5,0.06225833299981787
+DCT,C0309.bmp,reference,verify,6,0.06243448800000806
+DCT,C0309.bmp,reference,verify,7,0.062194086000090465
+DCT,C0309.bmp,reference,verify,8,0.06257284399998753
+DCT,C0309.bmp,reference,verify,9,0.06209276699996735
+DCT,C0309.bmp,vectorized,insert,0,0.016582912000103534
+DCT,C0309.bmp,vectorized,insert,1,0.01633172900005775
+DCT,C0309.bmp,vectorized,insert,2,0.016114959000105955
+DCT,C0309.bmp,vectorized,insert,3,0.016318607000130214
+DCT,C0309.bmp,vectorized,insert,4,0.016103536999935386
+DCT,C0309.bmp,vectorized,insert,5,0.01623260099995605
+DCT,C0309.bmp,vectorized,insert,6,0.016075303999969037
+DCT,C0309.bmp,vectorized,insert,7,0.01625378600010663
+DCT,C0309.bmp,vectorized,insert,8,0.016033563000064532
+DCT,C0309.bmp,vectorized,insert,9,0.015933828000015637
+DCT,C0309.bmp,vectorized,extract,0,0.0010385880000285397
+DCT,C0309.bmp,vectorized,extract,1,0.0009745520001160912
+DCT,C0309.bmp,vectorized,extract,2,0.00079902199991011
+DCT,C0309.bmp,vectorized,extract,3,0.000757851000116716
+DCT,C0309.bmp,vectorized,extract,4,0.0007167419998950209
+DCT,C0309.bmp,vectorized,extract,5,0.0007625139999163366
+DCT,C0309.bmp,vectorized,extract,6,0.0008064030000696221
+DCT,C0309.bmp,vectorized,extract,7,0.0007423730000937212
+DCT,C0309.bmp,vectorized,extract,8,0.0007160519999160897
+DCT,C0309.bmp,vectorized,extract,9,0.0007671180001125322
+DCT,C0309.bmp,vectorized,verify,0,0.012161873999957606
+DCT,C0309.bmp,vectorized,verify,1,0.012254033000090203
+DCT,C0309.bmp,vectorized,verify,2,0.012353807000181405
+DCT,C0309.bmp,vectorized,verify,3,0.01226087500003814
+DCT,C0309.bmp,vectorized,verify,4,0.012248976999899241
+DCT,C0309.bmp,vectorized,verify,5,0.012202299999898969
+DCT,C0309.bmp,vectorized,verify,6,0.012134994000007282
+DCT,C0309.bmp,vectorized,verify,7,0.01210422600001948
+DCT,C0309.bmp,vectorized,verify,8,0.01215682400015794
+DCT,C0309.bmp,vectorized,verify,9,0.012185532000103194
+DCT,C0411.bmp,reference,insert,0,0.27299508100009007
+DCT,C0411.bmp,reference,insert,1,0.274684015000048
+DCT,C0411.bmp,reference,insert,2,0.2725631929999963
+DCT,C0411.bmp,reference,insert,3,0.25188148600000204
+DCT,C0411.bmp,reference,insert,4,0.2318726059997971
+DCT,C0411.bmp,reference,insert,5,0.27408146799984934
+DCT,C0411.bmp,reference,insert,6,0.2723560759998236
+DCT,C0411.bmp,reference,insert,7,0.27272760200003177
+DCT,C0411.bmp,reference,insert,8,0.2748591710001165
+DCT,C0411.bmp,reference,insert,9,0.26947350699992967
+DCT,C0411.bmp,reference,extract,0,0.11074060200007807
+DCT,C0411.bmp,reference,extract,1,0.11157870500005629
+DCT,C0411.bmp,reference,extract,2,0.11200362400018093
+DCT,C0411.bmp,reference,extract,3,0.1113506829999551
+DCT,C0411.bmp,reference,extract,4,0.11197922299993479
+DCT,C0411.bmp,reference,extract,5,0.11212709800020093
+DCT,C0411.bmp,reference,extract,6,0.10976895499993589
+DCT,C0411.bmp,reference,extract,7,0.10818199499999537
+DCT,C0411.bmp,reference,extract,8,0.10841201899984299
+DCT,C0411.bmp,reference,extract,9,0.10830741400013721
+DCT,C0411.bmp,reference,verify,0,0.05939062599986755
+DCT,C0411.bmp,reference,verify,1,0.05925995500001591
+DCT,C0411.bmp,reference,verify,2,0.05893545699996139
+DCT,C0411.bmp,reference,verify,3,0.05849180600012005
+DCT,C0411.bmp,reference,verify,4,0.059272362999990946
+DCT,C0411.bmp,reference,verify,5,0.05939110999997865
+DCT,C0411.bmp,reference,verify,6,0.06341294000003472
+DCT,C0411.bmp,reference,verify,7,0.06341918900011478
+DCT,C0411.bmp,reference,verify,8,0.06268651499999578
+DCT,C0411.bmp,reference,verify,9,0.06261463199984973
+DCT,C0411.bmp,vectorized,insert,0,0.016644648999999845
+DCT,C0411.bmp,vectorized,insert,1,0.016474384000048303
+DCT,C0411.bmp,vectorized,insert,2,0.016537246000098094
+DCT,C0411.bmp,vectorized,insert,3,0.01655041699996218
+DCT,C0411.bmp,vectorized,insert,4,0.016496879999976954
+DCT,C0411.bmp,vectorized,insert,5,0.016494136000119397
+DCT,C0411.bmp,vectorized,insert,6,0.016294906999974046
+DCT,C0411.bmp,vectorized,insert,7,0.016253770999810513
+DCT,C0411.bmp,vectorized,insert,8,0.016529238999964946
+DCT,C0411.bmp,vectorized,insert,9,0.01630367099983232
+DCT,C0411.bmp,vectorized,extract,0,0.0010931459999028448
+DCT,C0411.bmp,vectorized,extract,1,0.0007265460001235624
+DCT,C0411.bmp,vectorized,extract,2,0.000824134999902526
+DCT,C0411.bmp,vectorized,extract,3,0.0007647219999853405
+DCT,C0411.bmp,vectorized,extract,4,0.0007623799999691983
+DCT,C0411.bmp,vectorized,extract,5,0.0007146080001803057
+DCT,C0411.bmp,vectorized,extract,6,0.0007509570000365784
+DCT,C0411.bmp,vectorized,extract,7,0.000822905999939394
+DCT,C0411.bmp,vectorized,extract,8,0.0007699249999859603
+DCT,C0411.bmp,vectorized,extract,9,0.0007088600000315637
+DCT,C0411.bmp,vectorized,verify,0,0.012143515000161642
+DCT,C0411.bmp,vectorized,verify,1,0.012136390000023312
+DCT,C0411.bmp,vectorized,verify,2,0.012123734999931912
+DCT,C0411.bmp,vectorized,verify,3,0.012179468999875098
+DCT,C0411.bmp,vectorized,verify,4,0.012303381999799967
+DCT,C0411.bmp,vectorized,verify,5,0.012271921000092334
+DCT,C0411.bmp,vectorized,verify,6,0.012104892000024847
+DCT,C0411.bmp,vectorized,verify,7,0.012215589000106775
+DCT,C0411.bmp,vectorized,verify,8,0.012222769999880256
+DCT,C0411.bmp,vectorized,verify,9,0.012082306999900538
+DCT,C0635.bmp,reference,insert,0,0.2731248029999733
+DCT,C0635.bmp,reference,insert,1,0.27555873400001474
+DCT,C0635.bmp,reference,insert,2,0.2702859089999947
+DCT,C0635.bmp,reference,insert,3,0.26836792600010995
+DCT,C0635.bmp,reference,insert,4,0.26728700199987543
+DCT,C0635.bmp,reference,insert,5,0.26959703600005014
+DCT,C0635.bmp,reference,insert,6,0.27295042799983094
+DCT,C0635.bmp,reference,insert,7,0.271250567999914
+DCT,C0635.bmp,reference,insert,8,0.2710527499998534
+DCT,C0635.bmp,reference,insert,9,0.2712137169999096
+DCT,C0635.bmp,reference,extract,0,0.11441038699990713
+DCT,C0635.bmp,reference,extract,1,0.11518389799994111
+DCT,C0635.bmp,reference,extract,2,0.11354590400014786
+DCT,C0635.bmp,reference,extract,3,0.11420203400007267
+DCT,C0635.bmp,reference,extract,4,0.112820321000072
+DCT,C0635.bmp,reference,extract,5,0.1123618809999698
+DCT,C0635.bmp,reference,extract,6,0.1153812630000175
+DCT,C0635.bmp,reference,extract,7,0.11316412899986972
+DCT,C0635.bmp,reference,extract,8,0.11317537199988692
+DCT,C0635.bmp,reference,extract,9,0.11872092599992357
+DCT,C0635.bmp,reference,verify,0,0.06277741400003833
+DCT,C0635.bmp,reference,verify,1,0.06785108799999762
+DCT,C0635.bmp,reference,verify,2,0.06320621000008941
+DCT,C0635.bmp,reference,verify,3,0.0628708290000759
+DCT,C0635.bmp,reference,verify,4,0.06343609999998989
+DCT,C0635.bmp,reference,verify,5,0.06272352199994202
+DCT,C0635.bmp,reference,verify,6,0.06299832500008051
+DCT,C0635.bmp,reference,verify,7,0.06266062200006672
+DCT,C0635.bmp,reference,verify,8,0.0628643860000011
+DCT,C0635.bmp,reference,verify,9,0.06357831100012845
+DCT,C0635.bmp,vectorized,insert,0,0.015223266000020885
+DCT,C0635.bmp,vectorized,insert,1,0.015376126999854023
+DCT,C0635.bmp,vectorized,insert,2,0.01484489700010272
+DCT,C0635.bmp,vectorized,insert,3,0.014923713000143835
+DCT,C0635.bmp,vectorized,insert,4,0.014767823000056524
+DCT,C0635.bmp,vectorized,insert,5,0.014857681000194134
+DCT,C0635.bmp,vectorized,insert,6,0.014672828999891863
+DCT,C0635.bmp,vectorized,insert,7,0.014829314000053273
+DCT,C0635.bmp,vectorized,insert,8,0.014869109000073877
+DCT,C0635.bmp,vectorized,insert,9,0.014907024999956775
+DCT,C0635.bmp,vectorized,extract,0,0.0009856529998160113
+DCT,C0635.bmp,vectorized,extract,1,0.00094991600008143
+DCT,C0635.bmp,vectorized,extract,2,0.0008180419999916921
+DCT,C0635.bmp,vectorized,extract,3,0.0006918889998814848
+DCT,C0635.bmp,vectorized,extract,4,0.0007366820000243024
+DCT,C0635.bmp,vectorized,extract,5,0.0007182389999798033
+DCT,C0635.bmp,vectorized,extract,6,0.0007415550001041993
+DCT,C0635.bmp,vectorized,extract,7,0.0006388419999439066
+DCT,C0635.bmp,vectorized,extract,8,0.0007386320000932756
+DCT,C0635.bmp,vectorized,extract,9,0.0007156380002015794
+DCT,C0635.bmp,vectorized,verify,0,0.010806974999923114
+DCT,C0635.bmp,vectorized,verify,1,0.01100811900005283
+DCT,C0635.bmp,vectorized,verify,2,0.011289724999869577
+DCT,C0635.bmp,vectorized,verify,3,0.011271076000184621
+DCT,C0635.bmp,vectorized,verify,4,0.011087466000162749
+DCT,C0635.bmp,vectorized,verify,5,0.01138137199995981
+DCT,C0635.bmp,vectorized,verify,6,0.011192519999895012
+DCT,C0635.bmp,vectorized,verify,7,0.011348093999913544
+DCT,C0635.bmp,vectorized,verify,8,0.011145040999963385
+DCT,C0635.bmp,vectorized,verify,9,0.011221117000104641
+DCT,C0869.bmp,reference,insert,0,0.252349046000063
+DCT,C0869.bmp,reference,insert,1,0.2496601540001393
+DCT,C0869.bmp,reference,insert,2,0.2556832889999896
+DCT,C0869.bmp,reference,insert,3,0.2666331870000249
+DCT,C0869.bmp,reference,insert,4,0.2592106459999286
+DCT,C0869.bmp,reference,insert,5,0.2354608159998861
+DCT,C0869.bmp,reference,insert,6,0.25635033000003205
+DCT,C0869.bmp,reference,insert,7,0.2586248190000333
+DCT,C0869.bmp,reference,insert,8,0.2506132589999197
+DCT,C0869.bmp,reference,insert,9,0.2574791270001242
+DCT,C0869.bmp,reference,extract,0,0.10743587599995408
+DCT,C0869.bmp,reference,extract,1,0.1070789060001971
+DCT,C0869.bmp,reference,extract,2,0.10795271299980413
+DCT,C0869.bmp,reference,extract,3,0.10773955299987392
+DCT,C0869.bmp,reference,extract,4,0.10225339399994482
+DCT,C0869.bmp,reference,extract,5,0.10161012799994751
+DCT,C0869.bmp,reference,extract,6,0.10463976800019736
+DCT,C0869.bmp,reference,extract,7,0.11274336699989362
+DCT,C0869.bmp,reference,extract,8,0.1009570740000072
+DCT,C0869.bmp,reference,extract,9,0.10127762199999779
+DCT,C0869.bmp,reference,verify,0,0.05877186300017456
+DCT,C0869.bmp,reference,verify,1,0.06016117800004395
+DCT,C0869.bmp,reference,verify,2,0.06273761099987496
+DCT,C0869.bmp,reference,verify,3,0.0588976870001261
+DCT,C0869.bmp,reference,verify,4,0.05981801899997663
+DCT,C0869.bmp,reference,verify,5,0.06018627999992532
+DCT,C0869.bmp,reference,verify,6,0.06330674300011196
+DCT,C0869.bmp,reference,verify,7,0.05898112299996683
+DCT,C0869.bmp,reference,verify,8,0.05898219899995638
+DCT,C0869.bmp,reference,verify,9,0.058716590000130964
+DCT,C0869.bmp,vectorized,insert,0,0.017620165000153065
+DCT,C0869.bmp,vectorized,insert,1,0.017685200999949302
+DCT,C0869.bmp,vectorized,insert,2,0.017481889999999112
+DCT,C0869.bmp,vectorized,insert,3,0.018747170000096958
+DCT,C0869.bmp,vectorized,insert,4,0.01761712899997292
+DCT,C0869.bmp,vectorized,insert,5,0.017783606999955737
+DCT,C0869.bmp,vectorized,insert,6,0.017112354000119012
+DCT,C0869.bmp,vectorized,insert,7,0.017338701999960904
+DCT,C0869.bmp,vectorized,insert,8,0.017801787999815133
+DCT,C0869.bmp,vectorized,insert,9,0.017010165999863602
+DCT,C0869.bmp,vectorized,extract,0,0.0012836219998462184
+DCT,C0869.bmp,vectorized,extract,1,0.0010290599998370453
+DCT,C0869.bmp,vectorized,extract,2,0.000853182999890123
+DCT,C0869.bmp,vectorized,extract,3,0.0009097140000449144
+DCT,C0869.bmp,vectorized,extract,4,0.0009801420001167571
+DCT,C0869.bmp,vectorized,extract,5,0.0008175230000233569
+DCT,C0869.bmp,vectorized,extract,6,0.000835032999930263
+DCT,C0869.bmp,vectorized,extract,7,0.000766531999943254
+DCT,C0869.bmp,vectorized,extract,8,0.0007892890000675834
+DCT,C0869.bmp,vectorized,extract,9,0.0008201670000289596
+DCT,C0869.bmp,vectorized,verify,0,0.02502415399999336
+DCT,C0869.bmp,vectorized,verify,1,0.012811480999971536
+DCT,C0869.bmp,vectorized,verify,2,0.01272528500021508
+DCT,C0869.bmp,vectorized,verify,3,0.012436800999921616
+DCT,C0869.bmp,vectorized,verify,4,0.01275716400004967
+DCT,C0869.bmp,vectorized,verify,5,0.012373112999966907
+DCT,C0869.bmp,vectorized,verify,6,0.013792598999998518
+DCT,C0869.bmp,vectorized,verify,7,0.012384080999936486
+DCT,C0869.bmp,vectorized,verify,8,0.01255823499991493
+DCT,C0869.bmp,vectorized,verify,9,0.013205359000039607
+DCT,C0886.bmp,reference,insert,0,0.28394530700006726
+DCT,C0886.bmp,reference,insert,1,0.3163454719999663
+DCT,C0886.bmp,reference,insert,2,0.3360613390000253
+DCT,C0886.bmp,reference,insert,3,0.2747540420000405
+DCT,C0886.bmp,reference,insert,4,0.25149342399981833
+DCT,C0886.bmp,reference,insert,5,0.2506521939999402
+DCT,C0886.bmp,reference,insert,6,0.25737144499998976
+DCT,C0886.bmp,reference,insert,7,0.27099156199983554
+DCT,C0886.bmp,reference,insert,8,0.2699268500000471
+DCT,C0886.bmp,reference,insert,9,0.27080970199995136
+DCT,C0886.bmp,reference,extract,0,0.1172496819999651
+DCT,C0886.bmp,reference,extract,1,0.12823948000004748
+DCT,C0886.bmp,reference,extract,2,0.11440706400003364
+DCT,C0886.bmp,reference,extract,3,0.11437466200004565
+DCT,C0886.bmp,reference,extract,4,0.11484927999981664
+DCT,C0886.bmp,reference,extract,5,0.11309503200004656
+DCT,C0886.bmp,reference,extract,6,0.11791561599989109
+DCT,C0886.bmp,reference,extract,7,0.11582548299998052
+DCT,C0886.bmp,reference,extract,8,0.11489553899991733
+DCT,C0886.bmp,reference,extract,9,0.11457408699993721
+DCT,C0886.bmp,reference,verify,0,0.05827675399996224
+DCT,C0886.bmp,reference,verify,1,0.05866507000018828
+DCT,C0886.bmp,reference,verify,2,0.058365290999972785
+DCT,C0886.bmp,reference,verify,3,0.05911607600000934
+DCT,C0886.bmp,reference,verify,4,0.05871487500007788
+DCT,C0886.bmp,reference,verify,5,0.0583259900001849
+DCT,C0886.bmp,reference,verify,6,0.05852964499990776
+DCT,C0886.bmp,reference,verify,7,0.05904637699995874
+DCT,C0886.bmp,reference,verify,8,0.058679471000004924
+DCT,C0886.bmp,reference,verify,9,0.06026221100000839
+DCT,C0886.bmp,vectorized,insert,0,0.015886959999988903
+DCT,C0886.bmp,vectorized,insert,1,0.015539886000169645
+DCT,C0886.bmp,vectorized,insert,2,0.015528732000120726
+DCT,C0886.bmp,vectorized,insert,3,0.01596388799998749
+DCT,C0886.bmp,vectorized,insert,4,0.017787870999882216
+DCT,C0886.bmp,vectorized,insert,5,0.0162695359999816
+DCT,C0886.bmp,vectorized,insert,6,0.01721807099988837
+DCT,C0886.bmp,vectorized,insert,7,0.018167105999964406
+DCT,C0886.bmp,vectorized,insert,8,0.015902754999842728
+DCT,C0886.bmp,vectorized,insert,9,0.016652235999799814
+DCT,C0886.bmp,vectorized,extract,0,0.0011076440000579169
+DCT,C0886.bmp,vectorized,extract,1,0.0010346389999540406
+DCT,C0886.bmp,vectorized,extract,2,0.0007956219999414316
+DCT,C0886.bmp,vectorized,extract,3,0.00122464899982333
+DCT,C0886.bmp,vectorized,extract,4,0.0016118769999593496
+DCT,C0886.bmp,vectorized,extract,5,0.0013835960000960768
+DCT,C0886.bmp,vectorized,extract,6,0.0007687019999593758
+DCT,C0886.bmp,vectorized,extract,7,0.0012242150000929541
+DCT,C0886.bmp,vectorized,extract,8,0.0008106669999961014
+DCT,C0886.bmp,vectorized,extract,9,0.0006851090001873672
+DCT,C0886.bmp,vectorized,verify,0,0.013710166999999274
+DCT,C0886.bmp,vectorized,verify,1,0.012480100000175298
+DCT,C0886.bmp,vectorized,verify,2,0.013192762000016955
+DCT,C0886.bmp,vectorized,verify,3,0.01345114800005831
+DCT,C0886.bmp,vectorized,verify,4,0.012553643999808628
+DCT,C0886.bmp,vectorized,verify,5,0.017126175000157673
+DCT,C0886.bmp,vectorized,verify,6,0.011641528999916773
+DCT,C0886.bmp,vectorized,verify,7,0.011546557999963625
+DCT,C0886.bmp,vectorized,verify,8,0.011483270999860906
+DCT,C0886.bmp,vectorized,verify,9,0.011569428000029802

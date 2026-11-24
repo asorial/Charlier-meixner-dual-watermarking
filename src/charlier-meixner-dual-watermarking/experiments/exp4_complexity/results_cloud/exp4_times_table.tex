@@ -1,0 +1,24 @@
+\begin{table}[t]
+\centering
+\caption{Execution time per $512\times512$ RGB image (median [interquartile range] over 10 images $\times$ 10 runs after one warm-up run) and peak memory of each operation (tracemalloc). Embedding includes the robust and the fragile layers; robust extraction includes the inverse Arnold transform of the $64\times64$ watermark (37 iterations in the reference implementation, a precomputed permutation in the vectorized one); authentication returns the map of tampered blocks. Reference: block-by-block implementation; vectorized: batched NumPy implementation producing bit-identical outputs. Hardware: Intel(R) Xeon(R) Processor @ 2.10GHz, 2 logical cores, 7.8 GB RAM, Linux-6.18.44-fc-v726-x86\_64-with-glibc2.39, Python 3.13.18, NumPy 2.5.3 (openblas), OpenCV 5.0.0.}
+\label{tab:execution_time}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{llcccc}
+\toprule
+Implem. & Transf. & Embedding (ms) & Extraction (ms) & Authentication (ms) & Memory (MB) \\
+\midrule
+Ref. & C\,I & 284.0 [277.4, 291.9] & 113.7 [110.1, 117.3] & 62.6 [61.3, 64.5] & 1.4 \\
+ & C\,II & 280.5 [274.3, 291.2] & 113.2 [112.3, 120.1] & 62.5 [61.8, 65.1] & 1.4 \\
+ & M\,I & 279.3 [274.3, 288.9] & 113.3 [112.3, 114.9] & 63.1 [62.0, 64.7] & 1.4 \\
+ & M\,II & 279.1 [273.7, 287.7] & 112.4 [110.4, 113.9] & 62.2 [60.9, 62.8] & 1.4 \\
+ & DCT & 273.2 [269.6, 277.9] & 112.1 [109.5, 114.0] & 61.9 [59.4, 62.9] & 1.4 \\
+\midrule
+Vect. & C\,I & 16.5 [16.0, 17.0] & 0.8 [0.7, 0.8] & 12.2 [12.0, 12.4] & 10.8 \\
+ & C\,II & 16.5 [16.3, 16.8] & 0.8 [0.7, 0.8] & 12.2 [12.1, 12.4] & 10.8 \\
+ & M\,I & 16.5 [16.2, 16.7] & 0.8 [0.7, 0.8] & 12.1 [11.7, 12.3] & 10.8 \\
+ & M\,II & 16.3 [16.0, 16.6] & 0.8 [0.7, 0.8] & 12.2 [12.1, 12.4] & 10.8 \\
+ & DCT & 16.4 [16.1, 16.7] & 0.8 [0.7, 0.8] & 12.2 [12.1, 12.4] & 10.8 \\
+\bottomrule
+\end{tabular}
+\end{table}

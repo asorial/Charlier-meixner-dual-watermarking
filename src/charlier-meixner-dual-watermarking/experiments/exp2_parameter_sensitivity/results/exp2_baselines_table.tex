@@ -1,0 +1,26 @@
+\begin{table}[t]
+\centering
+\caption{Moment transforms versus the orthonormal DCT, all with $\Delta=150$ and coefficient 62. Means over 24 images; for $\Delta$ also over C\,I, C\,II, M\,I and M\,II. BER$_0$: no attack; G: Gaussian noise with $\sigma = 0.10\,\mathrm{std}(I)$; SP: salt-and-pepper density 0.05; Q90: JPEG quality 90. SSIM is the standard local SSIM (7$\times$7 windows). Best value per column in bold.}
+\label{tab:moments_vs_baselines}
+\setlength{\tabcolsep}{3pt}
+\footnotesize
+\begin{tabular}{lcccccccc}
+\toprule
+Transform & PSNR (dB) & SSIM & BER$_{0}$ & BER$_{G,0.10}$ & BER$_{SP,0.05}$ & BER$_{Q90}$ & NCC$_{G,0.10}$ & NCC$_{SP,0.05}$ \\
+\midrule
+\multicolumn{9}{l}{\emph{Original embedding}} \\
+C\,I & \textbf{40.04} & \textbf{0.9733} & 0.0062 & 0.0676 & \textbf{0.0434} & 0.3852 & 0.8557 & \textbf{0.9064} \\
+C\,II & 40.02 & 0.9732 & 0.0072 & 0.0704 & 0.0436 & 0.3848 & 0.8498 & 0.9058 \\
+M\,I & 39.97 & 0.9729 & 0.0095 & 0.0755 & 0.0455 & 0.3860 & 0.8390 & 0.9016 \\
+M\,II & 40.00 & 0.9731 & 0.0081 & 0.0726 & 0.0445 & \textbf{0.3840} & 0.8451 & 0.9037 \\
+DCT & 39.78 & 0.9609 & \textbf{0.0000} & \textbf{0.0008} & 0.2486 & 0.4865 & \textbf{0.9983} & 0.4855 \\
+\midrule
+\multicolumn{9}{l}{\emph{Overflow-safe embedding}} \\
+C\,I & 36.18 & 0.9514 & \textbf{0.0000} & \textbf{0.0000} & 0.0318 & 0.4079 & \textbf{1.0000} & 0.9330 \\
+C\,II & 36.16 & 0.9513 & \textbf{0.0000} & \textbf{0.0000} & 0.0316 & 0.4077 & \textbf{1.0000} & 0.9334 \\
+M\,I & 36.70 & 0.9550 & \textbf{0.0000} & 0.0001 & \textbf{0.0316} & \textbf{0.4036} & 0.9997 & \textbf{0.9335} \\
+M\,II & 36.28 & 0.9521 & \textbf{0.0000} & 0.0001 & \textbf{0.0316} & 0.4069 & 0.9999 & 0.9334 \\
+DCT & \textbf{39.78} & \textbf{0.9609} & \textbf{0.0000} & 0.0008 & 0.2486 & 0.4865 & 0.9983 & 0.4855 \\
+\bottomrule
+\end{tabular}
+\end{table}

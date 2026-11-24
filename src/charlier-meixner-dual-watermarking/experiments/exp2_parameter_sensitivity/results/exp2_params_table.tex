@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering
+\caption{Stability under local changes of the polynomial parameters (each parameter multiplied by 0.5, 0.75, 0.9, 1, 1.1, 1.25, 1.5 and 2, one at a time; $\Delta=150$, coefficient 62). Each cell gives the minimum--maximum of the mean over the 24 images. In the Meixner configurations $\mu$ enters the basis multiplied by $\gamma$ ($\gamma\ll 1$), so its effect is negligible.}
+\label{tab:poly_param_sensitivity}
+\setlength{\tabcolsep}{3pt}
+\small
+\begin{tabular}{llccccc}
+\toprule
+Config. & Param. & PSNR (dB) & SSIM & BER$_0$ & BER$_{G,0.10}$ & BER$_{SP,0.05}$ \\
+\midrule
+C\,I & $a$ & 39.99--40.04 & 0.9730--0.9733 & 0.0045--0.0081 & 0.0633--0.0726 & 0.0424--0.0443 \\
+C\,II & $a$ & 39.98--40.04 & 0.9729--0.9733 & 0.0052--0.0088 & 0.0654--0.0745 & 0.0429--0.0448 \\
+M\,I & $\gamma$ & 39.93--40.01 & 0.9727--0.9731 & 0.0076--0.0129 & 0.0713--0.0791 & 0.0438--0.0487 \\
+M\,I & $\mu$ & 39.97--39.97 & 0.9729--0.9729 & 0.0095--0.0095 & 0.0755--0.0755 & 0.0455--0.0455 \\
+M\,II & $\gamma$ & 39.96--40.02 & 0.9729--0.9732 & 0.0058--0.0099 & 0.0666--0.0764 & 0.0432--0.0462 \\
+M\,II & $\mu$ & 40.00--40.00 & 0.9730--0.9730 & 0.0079--0.0079 & 0.0718--0.0718 & 0.0440--0.0440 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,14 @@
+# Tested with Python 3.13 and the versions in brackets.
+numpy>=1.26          # [2.5.3]
+scipy>=1.11          # [1.18.1]
+mpmath>=1.3          # [1.4.1]
+opencv-python>=4.8   # [5.0.0]
+imageio>=2.31        # [2.38.1]
+Pillow>=10.0         # [12.3.0]
+scikit-image>=0.22   # [0.26.0]
+PyWavelets>=1.5      # [1.8.0]
+pandas>=2.1          # [3.0.5]
+matplotlib>=3.8      # [3.11.2]
+psutil>=5.9          # [7.2.2]  (experiment 4, memory measurement)
+pytest>=8.0          # [9.1.1]  (tests)
+# Optional: scikit-learn, only for src/main_wang_2020_insert.py

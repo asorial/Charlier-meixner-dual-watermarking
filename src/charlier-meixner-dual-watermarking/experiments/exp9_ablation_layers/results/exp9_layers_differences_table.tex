@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{Paired differences between layer configurations (100 images; mean [95\% CI]). $\Delta$PSNR: robust only minus dual (distortion added by the fragile layer). $\Delta$BER: dual minus robust only, largest absolute mean difference and largest CI bound over the attack conditions in which the watermark is recoverable (BER $<0.2$), and over all conditions. $\Delta F_1$: dual minus fragile only, block-level $F_1$ on the tampered images. Reversed: blocks flagged in untouched images when the fragile tags are written before the robust embedding (mean of 4096).}
+\label{tab:layer_differences}
+\footnotesize
+\setlength{\tabcolsep}{2.5pt}
+\begin{tabular}{lccccc}
+\toprule
+ & $\Delta$PSNR (dB) & $\Delta$BER, BER $<0.2$ & $\Delta$BER, all & $\Delta F_1$ ($\times10^{-6}$) & Reversed \\
+\midrule
+C\,I & 0.026 [0.025, 0.028] & $0.5\times10^{-5}$ ($\leq1.7\times10^{-5}$) & 0.0013 ($\leq$0.0019) & $-$6.3 [$-$19.1, +6.6] & 4086 \\
+C\,II & 0.026 [0.025, 0.027] & $0.5\times10^{-5}$ ($\leq1.2\times10^{-5}$) & 0.0049 ($\leq$0.0072) & $-$7.9 [$-$19.8, +3.9] & 4082 \\
+M\,I & 0.026 [0.025, 0.027] & $0.5\times10^{-5}$ ($\leq1.2\times10^{-5}$) & 0.0023 ($\leq$0.0031) & $-$0.4 [$-$5.7, +4.9] & 4079 \\
+M\,II & 0.026 [0.025, 0.027] & $0.7\times10^{-5}$ ($\leq2.1\times10^{-5}$) & 0.0024 ($\leq$0.0035) & $-$2.1 [$-$10.4, +6.3] & 4081 \\
+\bottomrule
+\end{tabular}
+\end{table}

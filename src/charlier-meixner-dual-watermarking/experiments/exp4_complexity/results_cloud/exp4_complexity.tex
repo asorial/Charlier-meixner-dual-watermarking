@@ -1,0 +1,31 @@
+% Generado por plot_exp4.py a partir de results_cloud/ (Intel(R) Xeon(R) Processor @ 2.10GHz, 2 logical cores, 7.8 GB RAM, Linux-6.18.44-fc-v726-x86_64-with-glibc2.39, Python 3.13.18, NumPy 2.5.3 (openblas), OpenCV 5.0.0)
+\subsection{Computational complexity and execution time}\label{sec:complexity}
+
+Let the host image have $H\times W$ pixels, divided into $B=HW/N^2$ non-overlapping blocks of
+size $N\times N$ ($N=8$). The moment matrix of a block, $\mathcal{M}=\mathcal{A}^{T}\mathcal{C}\mathcal{A}$,
+requires two dense $N\times N$ products, i.e.\ $2N^3$ multiply--accumulate operations, and the
+reconstruction $\mathcal{A}\mathcal{M}\mathcal{A}^{T}$ the same. Embedding therefore costs
+$4N^3$ operations per block and $O(BN^3)=O(HWN)$ per channel, i.e.\ $4N=32$ operations per pixel for
+$N=8$. Extraction needs a single coefficient, $\nu_{uv}=\mathbf a_u^{T}\mathcal{C}\,\mathbf a_v$,
+which costs $O(N^2)$ per block and $O(HW)$ in total. The matrices $\mathcal{A}$ depend only on
+$N$ and the polynomial parameters and are computed once, off-line. The fragile layer computes one
+HMAC-SHA256 over the $3N^2$ bytes of each block, $O(HW)$, and the Arnold scrambling of the
+$64\times64$ watermark costs $O(\eta\,n_w^2)$ with $n_w=64$, independent of the host size. Memory
+is $O(HW)$. The cost is identical for the Charlier, Meixner and DCT bases, since all are dense
+$N\times N$ matrices applied in the same way.
+
+Table~\ref{tab:execution_time} reports the measured times on Intel(R) Xeon(R) Processor @ 2.10GHz, 2 logical cores, 7.8 GB RAM, Linux-6.18.44-fc-v726-x86\_64-with-glibc2.39, Python 3.13.18, NumPy 2.5.3 (openblas), OpenCV 5.0.0. With the reference
+block-by-block implementation a $512\times512$ image is watermarked in about
+279\,ms, its robust watermark is extracted in 113\,ms
+and its integrity is verified in 63\,ms; a batched NumPy implementation
+that produces bit-identical outputs reduces these times to 16,
+0.8 and 12\,ms. The five transforms differ by
+less than 4\,\% in every operation. The empirical scaling agrees with the analysis (Fig.~\ref{fig:scaling}): with $N=8$, the
+log--log slope of time versus number of pixels is 1.01 for embedding,
+1.01 for extraction and 1.01 for authentication
+(1 for linear cost). For a fixed $512\times512$ image the number of arithmetic operations grows
+linearly with $N$, but at these sizes the batched (BLAS) transform is memory-bound: forward and
+inverse transforms of all blocks take 1.8\,ms for $N=8$ and between 1.8 and
+3.9\,ms for $N=4$--32, whereas a block-by-block loop is dominated by the per-block
+interpreter overhead, proportional to the number of blocks $HW/N^2$ (log--log slope
+-1.47 in $N$; $-2$ in the overhead-dominated limit).

@@ -1,0 +1,20 @@
+# Images
+pillow
+imageio
+
+# Tests
+pytest
+
+# Math
+numpy
+matplotlib
+
+# Science
+scipy
+opencv-python
+mpmath
+qrcode
+
+
+PyWavelets
+scikit-image
